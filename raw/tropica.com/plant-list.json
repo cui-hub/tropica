@@ -1,0 +1,3456 @@
+{
+  "list": [
+    {
+      "name": "Aegagropila linnaei",
+      "type": "Moss",
+      "product_code": "000C ST",
+      "descriptions": [
+        "Decorative algae balls",
+        "Can be attached to pieces of wood or stone",
+        "Also known as ‘Marimo’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/000C ST/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Aegagropilalinnaei(000CST)/4385"
+    },
+    {
+      "name": "Aegagropila linnaei",
+      "type": "Moss",
+      "product_code": "000D MP",
+      "descriptions": [
+        "Decorative algae balls",
+        "Can be attached to pieces of wood or stone",
+        "Also known as ‘Marimo’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/000D MP/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Aegagropilalinnaei(000DMP)/19534"
+    },
+    {
+      "name": "Aegagropila linnaei",
+      "type": "Moss",
+      "product_code": "000E POR",
+      "descriptions": [
+        "Decorative algae balls",
+        "Can be attached to pieces of wood or stone",
+        "Also known as ‘Marimo’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/000E POR/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Aegagropilalinnaei(000EPOR)/30004"
+    },
+    {
+      "name": "Alternanthera reineckii 'Mini'",
+      "type": "Stem",
+      "product_code": "023C TC",
+      "descriptions": [
+        "Intensely pink red leaves",
+        "Compact and moderate growth rate",
+        "Stays low if regularly trimmed"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/023C TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Alternantherareineckii'Mini'(023CTC)/4439"
+    },
+    {
+      "name": "Alternanthera reineckii 'Pink'",
+      "type": "",
+      "product_code": "023 CLP",
+      "descriptions": [
+        "The leaf underside is pink",
+        "Provides great contrast to green plants",
+        "Also known as Alternanthera reineckii 'Rosaefolia'"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/023 CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Alternantherareineckii'Pink'(023CLP)/30568"
+    },
+    {
+      "name": "Alternanthera reineckii 'Pink'",
+      "type": "Stem",
+      "product_code": "023 XL",
+      "descriptions": [
+        "The leaf underside is pink",
+        "Provides great contrast to green plants",
+        "Also known as Alternanthera reineckii ‘Rosaefolia’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/023 XL/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Alternantherareineckii'Pink'(023XL)/4437"
+    },
+    {
+      "name": "Alternanthera reineckii 'Pink'",
+      "type": "Stem",
+      "product_code": "023",
+      "descriptions": [
+        "The leaf underside is pink",
+        "Provides great contrast to green plants",
+        "Also known as Alternanthera reineckii 'Rosaefolia'"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/023/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Alternantherareineckii'Pink'(023)/4436"
+    },
+    {
+      "name": "Alternanthera reineckii 'Rosanervig'",
+      "type": "",
+      "product_code": "023D CLP",
+      "descriptions": [
+        "Vibrant pink leaves with light nerves",
+        "Compact and moderate growth",
+        "Great eye-catcher among green plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/023D CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Alternantherareineckii'Rosanervig'(023DCLP)/31138"
+    },
+    {
+      "name": "Alternanthera reineckii 'Rosanervig'",
+      "type": "Stem",
+      "product_code": "023D",
+      "descriptions": [
+        "Vibrant pink leaves with light nerves",
+        "Compact and moderate growth",
+        "Great eye-catcher among green plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/023D/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Alternantherareineckii'Rosanervig'(023D)/4440"
+    },
+    {
+      "name": "Ammannia crassicaulis",
+      "type": "Stem",
+      "product_code": "033B",
+      "descriptions": [
+        "Fast growing red stem plant",
+        "Branches easily when it’s trimmed",
+        "Easy to propagate by replanting the cut-offs"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033B/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Ammanniacrassicaulis(033B)/4449"
+    },
+    {
+      "name": "Anubias barteri ’Coin Leaf’",
+      "type": "",
+      "product_code": "101F CLP",
+      "descriptions": [
+        "Nearly circular leaves",
+        "A rich deep green color",
+        "Easy to grow plant"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101F CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarteri’CoinLeaf’(101FCLP)/30586"
+    },
+    {
+      "name": "Anubias barteri ’Coin Leaf’",
+      "type": "Rhizomatous",
+      "product_code": "101F",
+      "descriptions": [
+        "Nearly circular leaves",
+        "A rich deep green color",
+        "Easy to grow plant"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101F/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarteri’CoinLeaf’(101F)/29447"
+    },
+    {
+      "name": "Anubias barteri caladiifolia",
+      "type": "",
+      "product_code": "101U CLP",
+      "descriptions": [
+        "Excellent plant for beginners",
+        "Heart-shaped leaves, thrives at low light",
+        "May be attached to pieces of rock and wood"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101U CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbartericaladiifolia(101UCLP)/30578"
+    },
+    {
+      "name": "Anubias barteri caladiifolia",
+      "type": "Rhizomatous",
+      "product_code": "101U PCS",
+      "descriptions": [
+        "Excellent plant for beginners",
+        "Heart-shaped leaves, thrives at low light",
+        "May be attached to pieces of rock and wood"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101U PCS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbartericaladiifolia(101UPCS)/18816"
+    },
+    {
+      "name": "Anubias barteri caladiifolia",
+      "type": "Rhizomatous",
+      "product_code": "101U",
+      "descriptions": [
+        "Excellent plant for beginners",
+        "Heart-shaped leaves, thrives at low light",
+        "May be attached to pieces of rock and wood"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101U/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbartericaladiifolia(101U)/4556"
+    },
+    {
+      "name": "Anubias barteri 'Mini Coin'",
+      "type": "",
+      "product_code": "101B TC",
+      "descriptions": [
+        "New unique mini Anubias",
+        "Easy to grow and thrives in most aquariums",
+        "Small, round and deep green leaves"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101B TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarteri'MiniCoin'(101BTC)/28816"
+    },
+    {
+      "name": "Anubias barteri 'Mini Coin' on stone",
+      "type": "",
+      "product_code": "LE168",
+      "descriptions": [],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/LE168/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarteri'MiniCoin'onstone(LE168)/30874"
+    },
+    {
+      "name": "Anubias barteri nana",
+      "type": "",
+      "product_code": "101 CLP",
+      "descriptions": [
+        "One of the easiest plants for beginners",
+        "Thrives in shady places",
+        "Ideal for planting on wood and rock pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterinana(101CLP)/30584"
+    },
+    {
+      "name": "Anubias barteri nana",
+      "type": "Rhizomatous",
+      "product_code": "101 PCS",
+      "descriptions": [
+        "One of the easiest plants for beginners",
+        "Thrives in shady places",
+        "Ideal for planting on wood and rock pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 PCS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterinana(101PCS)/18806"
+    },
+    {
+      "name": "Anubias barteri nana",
+      "type": "",
+      "product_code": "101 TC",
+      "descriptions": [
+        "One of the easiest plants for beginners",
+        "Thrives in shady places",
+        "Ideal for planting on wood and rock pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterinana(101TC)/18895"
+    },
+    {
+      "name": "Anubias barteri nana",
+      "type": "Rhizomatous",
+      "product_code": "101 YLS",
+      "descriptions": [
+        "Lava rock with self-attached Anubias",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 YLS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterinana(101YLS)/4546"
+    },
+    {
+      "name": "Anubias barteri nana",
+      "type": "Rhizomatous",
+      "product_code": "101 YWS",
+      "descriptions": [
+        "Mangrove wood with self-attached Anubias",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 YWS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterinana(101YWS)/4548"
+    },
+    {
+      "name": "Anubias barteri nana",
+      "type": "Rhizomatous",
+      "product_code": "101 ZWS",
+      "descriptions": [
+        "Mangrove wood with suction cup and self-attached Anubias",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the glass of the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 ZWS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterinana(101ZWS)/4550"
+    },
+    {
+      "name": "Anubias barteri 'Petite'",
+      "type": "",
+      "product_code": "101H CLP",
+      "descriptions": [
+        "One of the smallest Anubias",
+        "Easy and undemanding plant for beginners",
+        "Ideal for planting on wood and rock pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101H CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarteri'Petite'(101HCLP)/30576"
+    },
+    {
+      "name": "Anubias barteri 'Petite'",
+      "type": "",
+      "product_code": "101H",
+      "descriptions": [
+        "One of the smallest Anubias",
+        "Easy and undemanding plant for beginners",
+        "Ideal for planting on wood and rock pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101H/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarteri'Petite'(101H)/4554"
+    },
+    {
+      "name": "Anubias barteri sp.",
+      "type": "Rhizomatous",
+      "product_code": "101 YWX",
+      "descriptions": [
+        "Large mangrove wood with two self-attached Anubias",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 YWX/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterisp.(101YWX)/4549"
+    },
+    {
+      "name": "Anubias barteri var. barteri",
+      "type": "Rhizomatous",
+      "product_code": "101A",
+      "descriptions": [
+        "One of the easiest plants for beginners",
+        "Thrives in shady places",
+        "Ideal for planting on wood and rock pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.barteri(101A)/4551"
+    },
+    {
+      "name": "Anubias barteri var. caladiifolia",
+      "type": "Rhizomatous",
+      "product_code": "101U XL",
+      "descriptions": [
+        "Excellent plant for beginners",
+        "Heart-shaped leaves, thrives at low light",
+        "May be attached to pieces of rock and wood"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101U XL/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.caladiifolia(101UXL)/4557"
+    },
+    {
+      "name": "Anubias barteri var. 'Coffeifolia'",
+      "type": "Rhizomatous",
+      "product_code": "101G",
+      "descriptions": [
+        "Easy and undemanding plant",
+        "Ridged, deep green leaves and red shoots",
+        "Grows well on rock and wood pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101G/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.'Coffeifolia'(101G)/4553"
+    },
+    {
+      "name": "Anubias barteri var. glabra",
+      "type": "Rhizomatous",
+      "product_code": "101C",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Tolerates very low light",
+        "May be attached to pieces of rocks and wood"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101C/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.glabra(101C)/4552"
+    },
+    {
+      "name": "Anubias barteri var. nana",
+      "type": "Rhizomatous",
+      "product_code": "101",
+      "descriptions": [
+        "One of the easiest plants for beginners",
+        "Thrives in shady places",
+        "Ideal for planting on wood and rock pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana(101)/4545"
+    },
+    {
+      "name": "Anubias barteri var. nana",
+      "type": "Rhizomatous",
+      "product_code": "510 YCS",
+      "descriptions": [
+        "Perfect hiding spot for livestock",
+        "Sturdy roots keep the plant in place",
+        "A pleasant eye catcher from the start"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/510 YCS/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana(510YCS)/28184"
+    },
+    {
+      "name": "Anubias barteri var. nana ’Kirin’",
+      "type": "",
+      "product_code": "101K CLP",
+      "descriptions": [
+        "Leaves with strongly wavy edges",
+        "Thrives in low-light conditions",
+        "Inspired by an Asian dragon"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101K CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana’Kirin’(101KCLP)/30577"
+    },
+    {
+      "name": "Anubias barteri var. nana ’Kirin’",
+      "type": "",
+      "product_code": "101K",
+      "descriptions": [
+        "Leaves with strongly wavy edges",
+        "Thrives in low-light conditions",
+        "Inspired by an Asian dragon"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101K/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana’Kirin’(101K)/29448"
+    },
+    {
+      "name": "Anubias barteri var. nana ’Pinto’",
+      "type": "",
+      "product_code": "101E CLP",
+      "descriptions": [
+        "Leaves showcase captivating patterns of white, light and dark green",
+        "Slow growth",
+        "To be attached to rocks or wood in the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101E CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana’Pinto’(101ECLP)/30575"
+    },
+    {
+      "name": "Anubias barteri var. nana ’Pinto’",
+      "type": "",
+      "product_code": "101E",
+      "descriptions": [
+        "Leaves showcase captivating patterns of white, light and dark green",
+        "Slow growth",
+        "To be attached to rocks or wood in the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101E/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana’Pinto’(101E)/29446"
+    },
+    {
+      "name": "Anubias barteri var. nana 'Large'",
+      "type": "Rhizomatous",
+      "product_code": "101L",
+      "descriptions": [
+        "One of the easiest plants for beginners",
+        "Thrives in shady places",
+        "Ideal for planting on wood and rock pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101L/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana'Large'(101L)/19785"
+    },
+    {
+      "name": "Anubias gracilis",
+      "type": "",
+      "product_code": "101D CLP",
+      "descriptions": [
+        "Beautiful triangular leaves on long stems",
+        "Tolerates low light conditions",
+        "Grows well on wood and rock pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101D CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasgracilis(101DCLP)/30574"
+    },
+    {
+      "name": "Anubias gracilis",
+      "type": "Rhizomatous",
+      "product_code": "101D",
+      "descriptions": [
+        "Beautiful triangular leaves on long stems",
+        "Tolerates low light conditions",
+        "Grows well on wood and rock pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101D/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Anubiasgracilis(101D)/17819"
+    },
+    {
+      "name": "Aponogeton boivinianus",
+      "type": "Bulb/onion",
+      "product_code": "088 KN",
+      "descriptions": [
+        "Outstanding and very large solitary plant",
+        "Bulb plant",
+        "Requires a dormant period"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/088 KN/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Aponogetonboivinianus(088KN)/4534"
+    },
+    {
+      "name": "Aponogeton longiplumulosus",
+      "type": "Bulb/onion",
+      "product_code": "089D KN",
+      "descriptions": [
+        "Beautiful and distinctive solitary plant",
+        "Bulb plant",
+        "Requires a dormant period"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/089D KN/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Aponogetonlongiplumulosus(089DKN)/4536"
+    },
+    {
+      "name": "Aponogeton madagascariensis",
+      "type": "Bulb/onion",
+      "product_code": "089 KN",
+      "descriptions": [
+        "Outstanding and unique solitary plant",
+        "Bulb plant",
+        "Also called Madagascar Lace Plant"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/089 KN/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Aponogetonmadagascariensis(089KN)/4535"
+    },
+    {
+      "name": "Aponogeton ulvaceus",
+      "type": "Bulb/onion",
+      "product_code": "086 KN",
+      "descriptions": [
+        "Very big, magnificent solitary plant",
+        "Bulb plant",
+        "May require a dormant period"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/086 KN/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Aponogetonulvaceus(086KN)/4533"
+    },
+    {
+      "name": "Bacopa australis",
+      "type": "Stem",
+      "product_code": "043A",
+      "descriptions": [
+        "Bright green stem plant",
+        "When the conditions are optimal, the growth is creeping",
+        "Originates from Brazil, not Australia"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bacopaaustralis(043A)/4466"
+    },
+    {
+      "name": "Bacopa caroliniana",
+      "type": "Stem",
+      "product_code": "043 BDT",
+      "descriptions": [
+        "Easy and undemanding beginner’s plant",
+        "Stem plant of moderate growth",
+        "Cut-off shoots will easily form new plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043 BDT/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bacopacaroliniana(043BDT)/4465"
+    },
+    {
+      "name": "Bacopa caroliniana",
+      "type": "",
+      "product_code": "043 CLP",
+      "descriptions": [
+        "Easy and undemanding beginner’s plant",
+        "Stem plant of moderate growth",
+        "Cut-off shoots will easily form new plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043 CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bacopacaroliniana(043CLP)(1)/31156"
+    },
+    {
+      "name": "Bacopa caroliniana",
+      "type": "Stem",
+      "product_code": "043 MP",
+      "descriptions": [
+        "Easy and undemanding beginner’s plant",
+        "Stem plant of moderate growth",
+        "Cut-off shoots will easily form new plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043 MP/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bacopacaroliniana(043MP)/18811"
+    },
+    {
+      "name": "Bacopa caroliniana",
+      "type": "Stem",
+      "product_code": "043 TC",
+      "descriptions": [
+        "Easy and undemanding beginner’s plant",
+        "Stem plant of moderate growth",
+        "Cut-off shoots will easily form new plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bacopacaroliniana(043TC)/18752"
+    },
+    {
+      "name": "Bacopa caroliniana",
+      "type": "Stem",
+      "product_code": "043",
+      "descriptions": [
+        "Easy and undemanding beginner’s plant",
+        "Stem plant of moderate growth",
+        "Cut-off shoots will easily form new plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bacopacaroliniana(043)/4464"
+    },
+    {
+      "name": "Bacopa monnieri 'Compact'",
+      "type": "",
+      "product_code": "044A CLP",
+      "descriptions": [
+        "Low and compact stem plan",
+        "Cutting top shoots will increase side shoots",
+        "Endures bad light conditions but growth will become more vertical"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/044A CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bacopamonnieri'Compact'(044ACLP)/30569"
+    },
+    {
+      "name": "Bacopa monnieri 'Compact'",
+      "type": "Stem",
+      "product_code": "044A PCS",
+      "descriptions": [
+        "Low and compact stem plan",
+        "Cutting top shoots will increase side shoots",
+        "Endures bad light conditions but growth will become more vertical"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/044A PCS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bacopamonnieri'Compact'(044APCS)/18800"
+    },
+    {
+      "name": "Bacopa monnieri 'Compact'",
+      "type": "Stem",
+      "product_code": "044A",
+      "descriptions": [
+        "Low and compact stem plan",
+        "Cutting top shoots will increase side shoots",
+        "Endures bad light conditions but growth will become more vertical"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/044A/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bacopamonnieri'Compact'(044A)/4467"
+    },
+    {
+      "name": "Bacopa salzmannii 'Purple'",
+      "type": "",
+      "product_code": "043B",
+      "descriptions": [
+        "Vibrant Purple Color: Adds striking contrast.",
+        "Easy Propagation: Simple stem cuttings.",
+        "Versatile Placement: Midground or background"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043B/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bacopasalzmannii'Purple'(043B)/30171"
+    },
+    {
+      "name": "Blyxa japonica",
+      "type": "",
+      "product_code": "057 TC",
+      "descriptions": [
+        "Beautiful reddish color under the right light conditions",
+        "Only grows submerse",
+        "Best employed in aquariums with moderate to high lighting and CO2"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/057 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Blyxajaponica(057TC)/22542"
+    },
+    {
+      "name": "Bolbitis heudelotii",
+      "type": "",
+      "product_code": "006 CLP",
+      "descriptions": [
+        "Fern with translucent, dark green and lobed leaves",
+        "Very decorative when attached to pieces of rock or wood",
+        "Does not thrive in very chalky water."
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/006 CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bolbitisheudelotii(006CLP)/30544"
+    },
+    {
+      "name": "Bolbitis heudelotii",
+      "type": "Rhizomatous",
+      "product_code": "006 XL",
+      "descriptions": [
+        "Fern with translucent, dark green and lobed leaves",
+        "Very decorative when attached to pieces of rock or wood",
+        "Does not thrive in very chalky water"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/006 XL/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bolbitisheudelotii(006XL)/18376"
+    },
+    {
+      "name": "Bolbitis heudelotii",
+      "type": "Rhizomatous",
+      "product_code": "006 YWS",
+      "descriptions": [
+        "Mangrove wood with self-attached Bolbitis",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/006 YWS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bolbitisheudelotii(006YWS)/4407"
+    },
+    {
+      "name": "Bolbitis heudelotii",
+      "type": "",
+      "product_code": "006",
+      "descriptions": [
+        "Fern with translucent, dark green and lobed leaves",
+        "Very decorative when attached to pieces of rock or wood",
+        "Does not thrive in very chalky water"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/006/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bolbitisheudelotii(006)/4406"
+    },
+    {
+      "name": "Bucephalandra diabolica 'Kedagang'",
+      "type": "",
+      "product_code": "139B CLP",
+      "descriptions": [
+        "Easy to attach to a hardscape of choice",
+        "Unique underwater colouappearrs",
+        "Resilient and adaptable to different water parameters"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139B CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bucephalandradiabolica'Kedagang'(139BCLP)/31144"
+    },
+    {
+      "name": "Bucephalandra diabolica' Kedagang'",
+      "type": "",
+      "product_code": "139B TC",
+      "descriptions": [
+        "Easy to attach to a hardscape of choice",
+        "Unique underwater colour appears",
+        "Resilient and adaptable to different water parameters"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139B TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bucephalandradiabolica'Kedagang'(139BTC)/22544"
+    },
+    {
+      "name": "Bucephalandra diabolica 'Kedagang'",
+      "type": "Rhizomatous",
+      "product_code": "139B",
+      "descriptions": [
+        "Easy to attach to a hardscape of choice",
+        "Unique underwater colouappearrs",
+        "Resilient and adaptable to different water parameters"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139B/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bucephalandradiabolica'Kedagang'(139B)/22543"
+    },
+    {
+      "name": "Bucephalandra pygmaea 'Bukit Kelam'",
+      "type": "",
+      "product_code": "139 CLP",
+      "descriptions": [
+        "Easy and undemanding plant",
+        "Branches willingly without trimming",
+        "Ideal for growing on rocks and wood pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139 CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bucephalandrapygmaea'BukitKelam'(139CLP)/31143"
+    },
+    {
+      "name": "Bucephalandra pygmaea 'Bukit Kelam'",
+      "type": "",
+      "product_code": "139 TC",
+      "descriptions": [
+        "Easy and undemanding plant",
+        "Branches willingly without trimming",
+        "Ideal for growing on rocks and wood pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bucephalandrapygmaea'BukitKelam'(139TC)/28393"
+    },
+    {
+      "name": "Bucephalandra pygmaea 'Bukit Kelam'",
+      "type": "Rhizomatous",
+      "product_code": "139 YLS",
+      "descriptions": [
+        "Lava rock with self-attached Bucephalandra",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer of the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139 YLS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bucephalandrapygmaea'BukitKelam'(139YLS)/18758"
+    },
+    {
+      "name": "Bucephalandra pygmaea 'Bukit Kelam'",
+      "type": "Rhizomatous",
+      "product_code": "139",
+      "descriptions": [
+        "Easy and undemanding plant",
+        "Branches willingly without trimming",
+        "Ideal for growing on rocks and wood pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bucephalandrapygmaea'BukitKelam'(139)/18757"
+    },
+    {
+      "name": "Bucephalandra sordidula 'Blue'",
+      "type": "",
+      "product_code": "139D",
+      "descriptions": [
+        "Unique Blue Leaves: Adds rare elegance.",
+        "Low Maintenance: Easy for beginners.",
+        "Versatile Placement: Attach to hardscape."
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139D/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bucephalandrasordidula'Blue'(139D)/30011"
+    },
+    {
+      "name": "Bucephalandra sp. 'Needle Leaf'",
+      "type": "",
+      "product_code": "139C TC",
+      "descriptions": [
+        "A very easy plant to grow",
+        "Immersed leaves are green showing numerous tiny, white dots",
+        "Youngest parts of the rhizome display a nice, red colour"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139C TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bucephalandrasp.'NeedleLeaf'(139CTC)/29517"
+    },
+    {
+      "name": "Bucephalandra sp. 'Red'",
+      "type": "Rhizomatous",
+      "product_code": "139A",
+      "descriptions": [
+        "Easy and undemanding plant",
+        "Branches willingly without trimming",
+        "Ideal for growing on rocks and wood pieces"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Bucephalandrasp.'Red'(139A)/19682"
+    },
+    {
+      "name": "Cabomba aquatica",
+      "type": "Stem",
+      "product_code": "015 BDT",
+      "descriptions": [
+        "Easy and decorative stem plant",
+        "Elegant, feathery leaves",
+        "Suitable as auxiliary plant in newly started aquariums"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/015 BDT/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cabombaaquatica(015BDT)/4431"
+    },
+    {
+      "name": "Cardamine lyrata",
+      "type": "Stem",
+      "product_code": "024",
+      "descriptions": [
+        "Grows vertically which makes it perfect for backgrounds",
+        "Bright, pale green colour that will enhance the shades of surrounding, red plants",
+        "Undemanding, but develops orange shoots at very intense light"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/024/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cardaminelyrata(024)/4441"
+    },
+    {
+      "name": "Ceratophyllum demersum",
+      "type": "Stem",
+      "product_code": "021A POR",
+      "descriptions": [
+        "Easy and undemanding floating plant",
+        "Offers excellent hiding for fish spawn and fry",
+        "Helps prevent algae growth"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/021A POR/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Ceratophyllumdemersum(021APOR)/4434"
+    },
+    {
+      "name": "Ceratopteris thalictroides",
+      "type": "",
+      "product_code": "005A CLP",
+      "descriptions": [
+        "Finely branched, bright green leaves",
+        "Grows fast, which helps preventing algae growth",
+        "Also suitable as floating plant"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/005A CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Ceratopteristhalictroides(005ACLP)/31137"
+    },
+    {
+      "name": "Ceratopteris thalictroides",
+      "type": "Rosulate",
+      "product_code": "005A",
+      "descriptions": [
+        "Finely branched, bright green leaves",
+        "Grows fast, which helps preventing algae growth",
+        "Also suitable as floating plant"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/005A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Ceratopteristhalictroides(005A)/4405"
+    },
+    {
+      "name": "Crinum calamistratum",
+      "type": "Bulb/onion",
+      "product_code": "094A",
+      "descriptions": [
+        "Outstanding and beautiful solitary plant",
+        "Bulb plant",
+        "Is normally not eaten by herbivorous fish"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/094A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Crinumcalamistratum(094A)/4541"
+    },
+    {
+      "name": "Crinum thaianum",
+      "type": "Bulb/onion",
+      "product_code": "093 XL",
+      "descriptions": [
+        "Very large and distinctive solitary plant",
+        "Most suited for big aquariums",
+        "Is normally not eaten by herbivorous fish"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/093 XL/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Crinumthaianum(093XL)/4538"
+    },
+    {
+      "name": "Crinum thaianum",
+      "type": "",
+      "product_code": "093",
+      "descriptions": [
+        "Very large and distinctive solitary plant",
+        "Most suited for big aquariums",
+        "Is normally not eaten by herbivorous fish"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/093/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Crinumthaianum(093)/4537"
+    },
+    {
+      "name": "Cryptocoryne albida 'Brown'",
+      "type": "",
+      "product_code": "126B",
+      "descriptions": [
+        "Narrow, maroon leaves with black markings",
+        "Very low growing Cryptocoryne",
+        "Easy and undemanding"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/126B/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynealbida'Brown'(126B)/18194"
+    },
+    {
+      "name": "Cryptocoryne beckettii 'Petchii'",
+      "type": "",
+      "product_code": "108A CLP",
+      "descriptions": [
+        "One of the very easiest Cryptocorynes",
+        "Great plant for beginners",
+        "Remains relatively low in the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/108A CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynebeckettii'Petchii'(108ACLP)/30581"
+    },
+    {
+      "name": "Cryptocoryne beckettii 'Petchii'",
+      "type": "Rosulate",
+      "product_code": "108A PCS",
+      "descriptions": [
+        "One of the very easiest Cryptocorynes",
+        "Great plant for beginners",
+        "Remains relatively low in the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/108A PCS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynebeckettii'Petchii'(108APCS)/18807"
+    },
+    {
+      "name": "Cryptocoryne beckettii 'Petchii'",
+      "type": "",
+      "product_code": "108A YLS",
+      "descriptions": [
+        "Lava rock with self-attached Cryptocorynes",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer of the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/108A YLS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynebeckettii'Petchii'(108AYLS)/4561"
+    },
+    {
+      "name": "Cryptocoryne beckettii 'Petchii'",
+      "type": "",
+      "product_code": "108A",
+      "descriptions": [
+        "One of the very easiest Cryptocorynes",
+        "Great plant for beginners",
+        "Remains relatively low in the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/108A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynebeckettii'Petchii'(108A)/4560"
+    },
+    {
+      "name": "Cryptocoryne crispatula",
+      "type": "",
+      "product_code": "125 TC",
+      "descriptions": [
+        "Long, narrow and hammered leaves",
+        "One of the taller Cryptocorynes",
+        "Needs good light and fertilisers to thrive"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/125 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynecrispatula(125TC)/18756"
+    },
+    {
+      "name": "Cryptocoryne crispatula",
+      "type": "Rosulate",
+      "product_code": "125",
+      "descriptions": [
+        "Long, narrow and hammered leaves",
+        "One of the taller Cryptocorynes",
+        "Needs good light and fertilisers to thrive"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/125/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynecrispatula(125)/4567"
+    },
+    {
+      "name": "Cryptocoryne nurii",
+      "type": "Rosulate",
+      "product_code": "126 TC",
+      "descriptions": [
+        "Intensity of colour and patterns is dependant on light and nutrition",
+        "Is easy to grow",
+        "Popular under the name 'Rose Maiden'"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/126 TC/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynenurii(126TC)/29518"
+    },
+    {
+      "name": "Cryptocoryne parva",
+      "type": "",
+      "product_code": "106 TC",
+      "descriptions": [
+        "Smallest Cryptocoryne - only 3-6cm tall",
+        "Slow growth",
+        "Can develop into a carpet"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/106 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocoryneparva(106TC)/18755"
+    },
+    {
+      "name": "Cryptocoryne parva",
+      "type": "Rosulate",
+      "product_code": "106",
+      "descriptions": [
+        "One of the smallest Cryptocorynes",
+        "Over time, it will form a beautiful carpet",
+        "Requires good light and nutrient conditions to develop well"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/106/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocoryneparva(106)/4558"
+    },
+    {
+      "name": "Cryptocoryne spiralis 'Red'",
+      "type": "",
+      "product_code": "105 CLP",
+      "descriptions": [
+        "Stunning Red Leaves",
+        "Tall Growth Potential",
+        "Perfect for Background Planting"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/105 CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynespiralis'Red'(105CLP)(1)/31157"
+    },
+    {
+      "name": "Cryptocoryne spiralis 'Red'",
+      "type": "Rosulate",
+      "product_code": "105",
+      "descriptions": [
+        "Stunning Red Leaves",
+        "Tall Growth Potential",
+        "Perfect for Background Planting"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/105/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynespiralis'Red'(105)/29772"
+    },
+    {
+      "name": "Cryptocoryne undulata 'Broad Leaf'",
+      "type": "Rosulate",
+      "product_code": "110A",
+      "descriptions": [
+        "Robust plant suited for beginners",
+        "Beautifully flecked leaves",
+        "One of the taller Cryptocorynes"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/110A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocoryneundulata'BroadLeaf'(110A)/4566"
+    },
+    {
+      "name": "Cryptocoryne undulata 'Broad Leaf'",
+      "type": "",
+      "product_code": "110B TC",
+      "descriptions": [
+        "Easy and sure plant for beginners",
+        "Leaves become reddish when conditions are good",
+        "Medium tall Cryptocoryne"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/110B TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocoryneundulata'BroadLeaf'(110BTC)/19225"
+    },
+    {
+      "name": "Cryptocoryne usteriana",
+      "type": "",
+      "product_code": "120",
+      "descriptions": [
+        "One of the tallest Cryptocorynes",
+        "Beautifully hammered leaves with red underside",
+        "Tolerates rather alkaline water"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/120/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocoryneusteriana(120)/18405"
+    },
+    {
+      "name": "Cryptocoryne wendtii 'Green'",
+      "type": "",
+      "product_code": "109 TC",
+      "descriptions": [
+        "Green and low maintenance Cryptocoryne",
+        "Great plant for beginners",
+        "Thrives in shady places in the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/109 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynewendtii'Green'(109TC)/19226"
+    },
+    {
+      "name": "Cryptocoryne wendtii 'Green'",
+      "type": "Rosulate",
+      "product_code": "109",
+      "descriptions": [
+        "Green and low maintenance Cryptocoryne",
+        "Great plant for beginners",
+        "Thrives in shady places in the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/109/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynewendtii'Green'(109)/4562"
+    },
+    {
+      "name": "Cryptocoryne wendtii 'Mi Oya'",
+      "type": "",
+      "product_code": "109D TC",
+      "descriptions": [
+        "Red-brown, slightly hammered leaves",
+        "Can grow at high temperatures",
+        "15-30 cm wide rosettes"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/109D TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynewendtii'MiOya'(109DTC)/19540"
+    },
+    {
+      "name": "Cryptocoryne wendtii 'Tropica'",
+      "type": "Rosulate",
+      "product_code": "109E XL",
+      "descriptions": [
+        "Easy and hardy plant for beginners",
+        "Dark, ruffled leaves",
+        "Tolerates shade from other plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/109E XL/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynewendtii'Tropica'(109EXL)/4565"
+    },
+    {
+      "name": "Cryptocoryne wendtii 'Tropica'",
+      "type": "",
+      "product_code": "109E",
+      "descriptions": [
+        "Easy and hardy plant for beginners",
+        "Dark, ruffled leaves",
+        "Tolerates shade from other plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/109E/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynewendtii'Tropica'(109E)/4564"
+    },
+    {
+      "name": "Cryptocoryne x willisii",
+      "type": "",
+      "product_code": "107 CLP",
+      "descriptions": [
+        "Easy plant for beginners",
+        "May need some time to start growing",
+        "Used to be called Cryptocoryne nevillii"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/107 CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynexwillisii(107CLP)/30580"
+    },
+    {
+      "name": "Cryptocoryne x willisii",
+      "type": "Rosulate",
+      "product_code": "107 PCS",
+      "descriptions": [
+        "Easy plant for beginners",
+        "May need some time to start growing",
+        "Used to be called Cryptocoryne nevillii"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/107 PCS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynexwillisii(107PCS)/19618"
+    },
+    {
+      "name": "Cryptocoryne x willisii",
+      "type": "Rosulate",
+      "product_code": "107",
+      "descriptions": [
+        "Easy plant for beginners",
+        "May need some time to start growing",
+        "Used to be called Cryptocoryne nevillii"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/107/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cryptocorynexwillisii(107)/4559"
+    },
+    {
+      "name": "Cyperus helferi",
+      "type": "",
+      "product_code": "133A CLP",
+      "descriptions": [
+        "Tall, light green grass",
+        "Offers great contrast to other other leaf forms",
+        "Sways gently in the water stream"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/133A CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cyperushelferi(133ACLP)/30582"
+    },
+    {
+      "name": "Cyperus helferi",
+      "type": "",
+      "product_code": "133A",
+      "descriptions": [
+        "Tall, light green grass",
+        "Offers great contrast to other other leaf forms",
+        "Sways gently in the water stream"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/133A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Cyperushelferi(133A)/4574"
+    },
+    {
+      "name": "Echinodorus 'Aquartica'",
+      "type": "Rosulate",
+      "product_code": "074F",
+      "descriptions": [
+        "Beautiful pale green, solitary plant",
+        "Rounded leaves and low growth in the aquarium",
+        "Suitable for smaller aquariums"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/074F/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorus'Aquartica'(074F)/4526"
+    },
+    {
+      "name": "Echinodorus cordifolius 'Fluitans'",
+      "type": "Rosulate",
+      "product_code": "073D",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Wavy, pale green leaves in the tank",
+        "The leaves usually stay under the water surface"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/073D/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodoruscordifolius'Fluitans'(073D)/4519"
+    },
+    {
+      "name": "Echinodorus grisebachii 'Bleherae'",
+      "type": "Rosulate",
+      "product_code": "071 BDT",
+      "descriptions": [
+        "Very easy and undemanding beginner’s plant",
+        "Thrives at rather low light intensity",
+        "Previously named Echinodorus ’paniculatus’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/071 BDT/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorusgrisebachii'Bleherae'(071BDT)/4513"
+    },
+    {
+      "name": "Echinodorus grisebachii 'Bleherae'",
+      "type": "",
+      "product_code": "071 CLP",
+      "descriptions": [
+        "Very easy and undemanding beginner’s plant",
+        "Thrives at rather low light intensity",
+        "Previously named Echinodorus ’paniculatus’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/071 CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorusgrisebachii'Bleherae'(071CLP)/30573"
+    },
+    {
+      "name": "Echinodorus grisebachii 'Bleherae'",
+      "type": "Rosulate",
+      "product_code": "071 XL",
+      "descriptions": [
+        "Very easy and undemanding beginner’s plant",
+        "Thrives at rather low light intensity",
+        "Previously named Echinodorus ’paniculatus’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/071 XL/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorusgrisebachii'Bleherae'(071XL)/21211"
+    },
+    {
+      "name": "Echinodorus grisebachii 'Bleherae'",
+      "type": "",
+      "product_code": "071",
+      "descriptions": [
+        "Very easy and undemanding beginner’s plant",
+        "Thrives at rather low light intensity",
+        "Previously named Echinodorus ’paniculatus’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/071/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorusgrisebachii'Bleherae'(071)/4512"
+    },
+    {
+      "name": "Echinodorus grisebachii 'Tropica'",
+      "type": "Rosulate",
+      "product_code": "071E TC",
+      "descriptions": [
+        "Compact and Slow-Growing",
+        "Distinctive Leaf Structure",
+        "Easy to Maintain"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/071E TC/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorusgrisebachii'Tropica'(071ETC)/29741"
+    },
+    {
+      "name": "Echinodorus 'Ozelot'",
+      "type": "Rosulate",
+      "product_code": "073F XL",
+      "descriptions": [
+        "Very beautiful as solitary plant",
+        "Large, maroon leaves with decorative, dark spots",
+        "Easy plant for beginners"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/073F XL/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorus'Ozelot'(073FXL)/4521"
+    },
+    {
+      "name": "Echinodorus 'Ozelot'",
+      "type": "Rosulate",
+      "product_code": "073F",
+      "descriptions": [
+        "Very beautiful as solitary plant",
+        "Large, maroon leaves with decorative, dark spots",
+        "Easy plant for beginners"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/073F/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorus'Ozelot'(073F)/4520"
+    },
+    {
+      "name": "Echinodorus 'Ozelot Green'",
+      "type": "Rosulate",
+      "product_code": "073G",
+      "descriptions": [
+        "Beautiful solitary plant of contrasting colours",
+        "Pale green, wavy and spotted leaves",
+        "Easy and undemanding plant for beginners"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/073G/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorus'OzelotGreen'(073G)/4522"
+    },
+    {
+      "name": "Echinodorus 'Red Diamond'",
+      "type": "Rosulate",
+      "product_code": "074D",
+      "descriptions": [
+        "Beautiful, red solitary plant",
+        "One of the smallest red Echinodorus",
+        "Easy plant for beginners"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/074D/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorus'RedDiamond'(074D)/4525"
+    },
+    {
+      "name": "Echinodorus 'Reni'",
+      "type": "",
+      "product_code": "072D CLP",
+      "descriptions": [
+        "Beautiful red and green solitary plant",
+        "One of the smallest Echinodorus",
+        "Easy plant for beginners, well suited for smaller aquariums"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072D CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorus'Reni'(072DCLP)/31142"
+    },
+    {
+      "name": "Echinodorus 'Reni'",
+      "type": "Rosulate",
+      "product_code": "072D PCS",
+      "descriptions": [
+        "Beautiful red and green solitary plant",
+        "One of the smallest Echinodorus",
+        "Easy plant for beginners, well suited for smaller aquariums"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072D PCS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorus'Reni'(072DPCS)/18818"
+    },
+    {
+      "name": "Echinodorus 'Reni'",
+      "type": "Rosulate",
+      "product_code": "072D TC",
+      "descriptions": [
+        "Beautiful red and green solitary plant",
+        "One of the smallest Echinodorus",
+        "Easy plant for beginners, well suited for smaller aquariums"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072D TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorus'Reni'(072DTC)/18754"
+    },
+    {
+      "name": "Echinodorus 'Reni'",
+      "type": "Rosulate",
+      "product_code": "072D",
+      "descriptions": [
+        "Beautiful red and green solitary plant",
+        "One of the smallest Echinodorus",
+        "Easy plant for beginners, well suited for smaller aquariums"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072D/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorus'Reni'(072D)/4518"
+    },
+    {
+      "name": "Echinodorus 'Rosé'",
+      "type": "Rosulate",
+      "product_code": "072B XL",
+      "descriptions": [
+        "Beautiful pink and green solitary plant",
+        "Easy plant for beginners",
+        "May overshadow smaller plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072B XL/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorus'Rosé'(072BXL)/4517"
+    },
+    {
+      "name": "Echinodorus 'Rosé'",
+      "type": "Rosulate",
+      "product_code": "072B",
+      "descriptions": [
+        "Beautiful pink and green solitary plant",
+        "Easy plant for beginners",
+        "May overshadow smaller plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072B/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorus'Rosé'(072B)/4516"
+    },
+    {
+      "name": "Echinodorus x barthii",
+      "type": "",
+      "product_code": "072A CLP",
+      "descriptions": [
+        "Beautiful red and green solitary plant",
+        "Good light and nutrient conditions will enhance the coloration",
+        "Previously named \"Double Red\""
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072A CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorusxbarthii(072ACLP)/30583"
+    },
+    {
+      "name": "Echinodorus x barthii",
+      "type": "Rosulate",
+      "product_code": "072A XL",
+      "descriptions": [
+        "Beautiful red and green solitary plant",
+        "Good light and nutrient conditions will enhance the coloration",
+        "Previously named \"Double Red\""
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072A XL/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorusxbarthii(072AXL)/4515"
+    },
+    {
+      "name": "Echinodorus x barthii",
+      "type": "Rosulate",
+      "product_code": "072A",
+      "descriptions": [
+        "Beautiful red and green solitary plant",
+        "Good light and nutrient conditions will enhance the coloration",
+        "Previously named \"Double Red\""
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Echinodorusxbarthii(072A)/4514"
+    },
+    {
+      "name": "Egeria densa",
+      "type": "Stem",
+      "product_code": "058 BDT",
+      "descriptions": [
+        "One of the easiest stem plants",
+        "Good auxiliary plant, when starting an aquarium",
+        "Fast-growing and helps prevent algae propagation"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/058 BDT/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Egeriadensa(058BDT)/4506"
+    },
+    {
+      "name": "Eleocharis acicularis",
+      "type": "",
+      "product_code": "133 TC",
+      "descriptions": [
+        "Easy and undemanding plant",
+        "Carpeting plant for foreground",
+        "May be cut down to the preferred height"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/133 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Eleocharisacicularis(133TC)/28401"
+    },
+    {
+      "name": "Eleocharis montevidensis",
+      "type": "",
+      "product_code": "132D",
+      "descriptions": [
+        "Pretty, tall grass-like leaves",
+        "May help create great perspective and depth",
+        "Its growth will continue to allow looking through the leaves"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/132D/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Eleocharismontevidensis(132D)/4573"
+    },
+    {
+      "name": "Eleocharis parvula",
+      "type": "Stolon",
+      "product_code": "132C PCS",
+      "descriptions": [
+        "Very safe and easy carpeting plant",
+        "Quickly grows to a dense lawn",
+        "Requires frequent trimming to stay low"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/132C PCS/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Eleocharisparvula(132CPCS)/30198"
+    },
+    {
+      "name": "Eleocharis parvula",
+      "type": "",
+      "product_code": "132C",
+      "descriptions": [
+        "Very safe and easy carpeting plant",
+        "Quickly grows to a dense lawn",
+        "Requires frequent trimming to stay low"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/132C/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Eleocharisparvula(132C)/4572"
+    },
+    {
+      "name": "Eleocharis pusilla 'Mini'",
+      "type": "",
+      "product_code": "132B TC",
+      "descriptions": [
+        "One of the most popular foreground plants",
+        "Quick and safe carpeting growth",
+        "Ideal for nano tanks and for planting between rocks"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/132B TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Eleocharispusilla'Mini'(132BTC)/4571"
+    },
+    {
+      "name": "Eriocaulon cinereum",
+      "type": "",
+      "product_code": "091 TC",
+      "descriptions": [
+        "Very characteristic look, resembling a pin cushion",
+        "Flowers willingly in the aquarium after planting",
+        "Does not thrive in hard water"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/091 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Eriocauloncinereum(091TC)/19547"
+    },
+    {
+      "name": "Eriocaulon sp. 'Vietnam'",
+      "type": "",
+      "product_code": "091A",
+      "descriptions": [
+        "Stunning Rosette Formation",
+        "Compact Growth Potential",
+        "Easy Propagation"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/091A/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Eriocaulonsp.'Vietnam'(091A)/29740"
+    },
+    {
+      "name": "Fissidens fontanus",
+      "type": "Moss",
+      "product_code": "002F",
+      "descriptions": [
+        "Featherlike, dark green moss",
+        "To be attached to rocks and wood pieces",
+        "Will attach itself to rocks and wood after some time"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/002F/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Fissidensfontanus(002F)/4390"
+    },
+    {
+      "name": "Glossostigma elatinoides",
+      "type": "Carpeting",
+      "product_code": "045A TC",
+      "descriptions": [
+        "Popular, fast-growing and very pretty carpeting plant",
+        "Requires intense light and CO2 addition to thrive",
+        "Frequent trimming is necessary due to the fast growth"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/045A TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Glossostigmaelatinoides(045ATC)/4470"
+    },
+    {
+      "name": "Gratiola viscidula",
+      "type": "Stem",
+      "product_code": "042 TC",
+      "descriptions": [
+        "Distinct and easily recognizable",
+        "Looks thorny, but doesn’t sting",
+        "Very low and compact growth"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/042 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Gratiolaviscidula(042TC)/18390"
+    },
+    {
+      "name": "Helanthium bolivianum 'Quadricostatus'",
+      "type": "Rosulate",
+      "product_code": "068 TC",
+      "descriptions": [
+        "Small, light green rosette plant",
+        "Thrives at low light conditions",
+        "Previously named Echinodorus quadricostatus"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/068 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Helanthiumbolivianum'Quadricostatus'(068TC)/18896"
+    },
+    {
+      "name": "Helanthium bolivianum 'Quadricostatus'",
+      "type": "Rosulate",
+      "product_code": "068",
+      "descriptions": [
+        "Small, light green rosette plant",
+        "Thrives at low light conditions",
+        "Previously named Echinodorus quadricostatus"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/068/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Helanthiumbolivianum'Quadricostatus'(068)/4511"
+    },
+    {
+      "name": "Helanthium tenellum 'Green'",
+      "type": "",
+      "product_code": "067A TC",
+      "descriptions": [
+        "Easy and undemanding foreground plant",
+        "Vivid, bright green colour",
+        "Spreads readily with runners"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/067A TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Helanthiumtenellum'Green'(067ATC)/4757"
+    },
+    {
+      "name": "Heteranthera zosterifolia",
+      "type": "",
+      "product_code": "096 TC",
+      "descriptions": [
+        "One of the easiest plants for beginners",
+        "Very suited when starting an aquarium",
+        "Easy to propagate by planting the cuttings"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/096 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Heterantherazosterifolia(096TC)/4544"
+    },
+    {
+      "name": "Hottonia palustris",
+      "type": "Stem",
+      "product_code": "027 TC",
+      "descriptions": [
+        "Easy and undemanding beginner’s plant",
+        "Lobed leaves of intense, bright green colour",
+        "Helps create an excellent transition between low and tall plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/027 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hottoniapalustris(027TC)/28508"
+    },
+    {
+      "name": "Hottonia palustris",
+      "type": "Stem",
+      "product_code": "027",
+      "descriptions": [
+        "Easy and undemanding beginner’s plant",
+        "Lobed leaves of intense, bright green colour",
+        "Helps create an excellent transition between low and tall plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/027/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hottoniapalustris(027)/4443"
+    },
+    {
+      "name": "Hydrocotyle tripartita",
+      "type": "Stem",
+      "product_code": "039B TC",
+      "descriptions": [
+        "Fast, carpeting growth",
+        "Vivid bright green colour",
+        "Press it with your palm to obtain better carpeting growth"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/039B TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hydrocotyletripartita(039BTC)/18751"
+    },
+    {
+      "name": "Hydrocotyle tripartita",
+      "type": "Stem",
+      "product_code": "039B",
+      "descriptions": [
+        "Fast, carpeting growth",
+        "Vivid bright green colour",
+        "Press it with your palm to obtain better carpeting growth"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/039B/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hydrocotyletripartita(039B)/4458"
+    },
+    {
+      "name": "Hydrocotyle verticillata",
+      "type": "Stem",
+      "product_code": "039",
+      "descriptions": [
+        "Beautiful carpeting plant",
+        "Requires high light intensity to thrive at its best",
+        "Can be used as floating plant"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/039/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hydrocotyleverticillata(039)/4457"
+    },
+    {
+      "name": "Hygrophila corymbosa",
+      "type": "Stem",
+      "product_code": "053 BDT",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Large, wide pale green leaves in the aquarium",
+        "Easy to propagate by planting cut-off shoots"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053 BDT/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa(053BDT)/4490"
+    },
+    {
+      "name": "Hygrophila corymbosa 'Compact'",
+      "type": "Stem",
+      "product_code": "052D",
+      "descriptions": [
+        "Compact variant of Hygrophila corymbosa",
+        "Pale, green leaves with silvery-white underside in the aquarium",
+        "Potentially grows excrescences, which should be removed"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/052D/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Compact'(052D)/18774"
+    },
+    {
+      "name": "Hygrophila corymbosa 'Siamensis 53B'",
+      "type": "",
+      "product_code": "053B CLP",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Very bushy growth, thanks to its multiple side shoots",
+        "Easy to propagate by planting cut-off shoots"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053B CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Siamensis53B'(053BCLP)/30572"
+    },
+    {
+      "name": "Hygrophila corymbosa 'Siamensis 53B'",
+      "type": "Stem",
+      "product_code": "053B MP",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Very bushy growth, thanks to its multiple side shoots",
+        "Easy to propagate by planting cut-off shoots"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053B MP/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Siamensis53B'(053BMP)/18813"
+    },
+    {
+      "name": "Hygrophila corymbosa 'Siamensis 53B'",
+      "type": "Stem",
+      "product_code": "053B PCS",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Very bushy growth, thanks to its multiple side shoots",
+        "Easy to propagate by planting cut-off shoots"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053B PCS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Siamensis53B'(053BPCS)/18803"
+    },
+    {
+      "name": "Hygrophila corymbosa 'Siamensis 53B'",
+      "type": "Stem",
+      "product_code": "053B",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Very bushy growth, thanks to its multiple side shoots",
+        "Easy to propagate by planting cut-off shoots"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053B/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Siamensis53B'(053B)/4493"
+    },
+    {
+      "name": "Hygrophila corymbosa 'Stricta'",
+      "type": "",
+      "product_code": "053A CLP",
+      "descriptions": [
+        "Easy not demanding beginner plant",
+        "Fast growing and good for starting the aquarium",
+        "Easy to propagate by cuttings"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053A CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Stricta'(053ACLP)/31140"
+    },
+    {
+      "name": "Hygrophila corymbosa 'Stricta'",
+      "type": "Stem",
+      "product_code": "053A XL",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Fast-growing and great auxiliary plant when starting a tank",
+        "Easy to propagate by planting cut-off shoots"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053A XL/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Stricta'(053AXL)/4492"
+    },
+    {
+      "name": "Hygrophila corymbosa 'Stricta'",
+      "type": "Stem",
+      "product_code": "053A",
+      "descriptions": [
+        "Easy not demanding beginner plant",
+        "Fast growing and good for starting the aquarium",
+        "Easy to propagate by cuttings"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Stricta'(053A)/4491"
+    },
+    {
+      "name": "Hygrophila costata",
+      "type": "Stem",
+      "product_code": "052A",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Forms long, narrow leaves in the aquarium",
+        "Easy to propagate by planting cut-off shoots"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/052A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilacostata(052A)/4489"
+    },
+    {
+      "name": "Hygrophila difformis",
+      "type": "Stem",
+      "product_code": "051 BDT",
+      "descriptions": [
+        "One of the easiest plants for beginners",
+        "Great as auxiliary plant when starting a tank",
+        "Pretty, light green, lobed leaves"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051 BDT/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophiladifformis(051BDT)/4485"
+    },
+    {
+      "name": "Hygrophila difformis",
+      "type": "Stem",
+      "product_code": "051 TC",
+      "descriptions": [
+        "One of the easiest plants for beginners",
+        "Great as auxiliary plant when starting a tank",
+        "Pretty, light green, lobed leaves"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051 TC/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophiladifformis(051TC)/19227"
+    },
+    {
+      "name": "Hygrophila lancea 'Araguaia'",
+      "type": "Stem",
+      "product_code": "051B TC",
+      "descriptions": [
+        "Beautifully coloured stem plant",
+        "Low and compact growth",
+        "Moderate growth rate"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051B TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilalancea'Araguaia'(051BTC)/4758"
+    },
+    {
+      "name": "Hygrophila odora",
+      "type": "",
+      "product_code": "051D TC",
+      "descriptions": [
+        "Bright Green Foliage: Vibrant and lush.",
+        "Fast Growth: Quickly fills space.",
+        "Easy Care: Great for beginners."
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051D TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilaodora(051DTC)/30154"
+    },
+    {
+      "name": "Hygrophila odora ’Difformis’",
+      "type": "",
+      "product_code": "051D",
+      "descriptions": [
+        "Bright Green Foliage: Vibrant and lush.",
+        "Fast Growth: Quickly fills space.",
+        "Easy Care: Great for beginners."
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051D/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilaodora’Difformis’(051D)/30704"
+    },
+    {
+      "name": "Hygrophila pinnatifida & moss",
+      "type": "Stem",
+      "product_code": "051A YWS",
+      "descriptions": [
+        "Mangrove wood with moss and self-attached Hygrophila pinnatifida",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051A YWS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilapinnatifidamoss(051AYWS)/4487"
+    },
+    {
+      "name": "Hygrophila pinnatifida",
+      "type": "",
+      "product_code": "051A TC",
+      "descriptions": [
+        "Very distinctive leaf shape and colour",
+        "May be planted on wood and rocks",
+        "Remove top shoots to keep it low and compact"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051A TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilapinnatifida(051ATC)/19228"
+    },
+    {
+      "name": "Hygrophila pinnatifida",
+      "type": "Stem",
+      "product_code": "051A",
+      "descriptions": [
+        "Very distinctive leaf form and colour",
+        "May be planted on wood and rocks",
+        "Remove top shoots to keep it low and compact"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilapinnatifida(051A)/4486"
+    },
+    {
+      "name": "Hygrophila pinnatifida",
+      "type": "Stem",
+      "product_code": "509 YCS",
+      "descriptions": [
+        "Stunning colors under the right conditions",
+        "Instant mini aquascape",
+        "Ideal hiding spot for livestock"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/509 YCS/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilapinnatifida(509YCS)/28279"
+    },
+    {
+      "name": "Hygrophila polysperma",
+      "type": "",
+      "product_code": "050 CLP",
+      "descriptions": [
+        "One of the easiest plants for beginners",
+        "Great auxiliary plant when starting a tank",
+        "Easy to propagate by planting cut-off shoots"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/050 CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilapolysperma(050CLP)/31146"
+    },
+    {
+      "name": "Hygrophila polysperma",
+      "type": "Stem",
+      "product_code": "050",
+      "descriptions": [
+        "One of the easiest plants for beginners",
+        "Great auxiliary plant when starting a tank",
+        "Easy to propagate by planting cut-off shoots"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/050/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilapolysperma(050)/4483"
+    },
+    {
+      "name": "Hygrophila polysperma 'Rosanervig'",
+      "type": "Stem",
+      "product_code": "050B",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Requires high light intensity to develop intense, pink colouring",
+        "Green shoots should be removed"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/050B/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilapolysperma'Rosanervig'(050B)/4484"
+    },
+    {
+      "name": "Hygrophila polysperma 'White'",
+      "type": "",
+      "product_code": "050A TC",
+      "descriptions": [
+        "Unique pale green and white leaf pattern",
+        "Compact upright growth",
+        "Ideal for creating contrast in the layout"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/050A TC/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilapolysperma'White'(050ATC)(1)/31057"
+    },
+    {
+      "name": "Hygrophila serpyllum",
+      "type": "",
+      "product_code": "052B TC",
+      "descriptions": [
+        "Compact Growth: Ideal for foreground.",
+        "Bright Green Color: Fresh, vibrant contrast.",
+        "Easy Care: Minimal maintenance needed."
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/052B TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Hygrophilaserpyllum(052BTC)/30155"
+    },
+    {
+      "name": "Juncus repens",
+      "type": "",
+      "product_code": "133F CLP",
+      "descriptions": [
+        "Easy to grow underwater",
+        "Stunning green color under moderate light",
+        "Reddish-brown hue under a strong light"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/133F CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Juncusrepens(133FCLP)/31141"
+    },
+    {
+      "name": "Juncus repens",
+      "type": "",
+      "product_code": "133F TC",
+      "descriptions": [
+        "Easy to grow underwater",
+        "Stunning green color under moderate light",
+        "Reddish-brown hue under a strong light"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/133F TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Juncusrepens(133FTC)/28107"
+    },
+    {
+      "name": "Lagenandra meeboldii 'Red'",
+      "type": "",
+      "product_code": "103 CLP",
+      "descriptions": [
+        "Easy and undemanding",
+        "Beautiful colourings on the leaves",
+        "Good light conditions will enhance the development of colours"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/103 CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Lagenandrameeboldii'Red'(103CLP)/30579"
+    },
+    {
+      "name": "Lagenandra meeboldii 'Red'",
+      "type": "Rosulate",
+      "product_code": "103",
+      "descriptions": [
+        "Easy and undemanding",
+        "Beautiful colourings on the leaves",
+        "Good light conditions will enhance the development of colours"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/103/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Lagenandrameeboldii'Red'(103)/4759"
+    },
+    {
+      "name": "Leptodictyum riparium",
+      "type": "Moss",
+      "product_code": "003E TC",
+      "descriptions": [
+        "An easy category plant that can grow in most aquariums.",
+        "Easy to propagate by simply planting a \"tot\" somewhere else",
+        "Grows easily on rocks and roots"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003E TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Leptodictyumriparium(003ETC)/28671"
+    },
+    {
+      "name": "Lilaeopsis brasiliensis",
+      "type": "Stolon",
+      "product_code": "040 PCS",
+      "descriptions": [
+        "Easy and undemanding carpeting plant",
+        "Propagates easily with stolons",
+        "Thrives also at low light"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/040 PCS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Lilaeopsisbrasiliensis(040PCS)/18808"
+    },
+    {
+      "name": "Lilaeopsis brasiliensis",
+      "type": "",
+      "product_code": "040 TC",
+      "descriptions": [
+        "Easy and undemanding carpeting plant",
+        "Propagates easily with stolons",
+        "Thrives also at low light"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/040 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Lilaeopsisbrasiliensis(040TC)/4460"
+    },
+    {
+      "name": "Lilaeopsis brasiliensis",
+      "type": "Stolon",
+      "product_code": "040",
+      "descriptions": [
+        "Easy and undemanding carpeting plant",
+        "Propagates easily with stolons",
+        "Thrives also at low light"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/040/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Lilaeopsisbrasiliensis(040)/4459"
+    },
+    {
+      "name": "Limnobium laevigatum",
+      "type": "",
+      "product_code": "063 TC",
+      "descriptions": [
+        "Very easy and fast-growing surface plant",
+        "Helps prevent algae propagation in the tank",
+        "Indicates the presence of nutrients in the water"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/063 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Limnobiumlaevigatum(063TC)/4761"
+    },
+    {
+      "name": "Limnophila aquatica",
+      "type": "Stem",
+      "product_code": "046 TC",
+      "descriptions": [
+        "One of the most beautiful green stem plants",
+        "Easy and fast-growing",
+        "Great auxiliary plant when creating a new tank"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/046 TC/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Limnophilaaquatica(046TC)/30333"
+    },
+    {
+      "name": "Limnophila aquatica",
+      "type": "Stem",
+      "product_code": "046",
+      "descriptions": [
+        "One of the most beautiful green stem plants",
+        "Easy and fast-growing",
+        "Great auxiliary plant when creating a new tank"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/046/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Limnophilaaquatica(046)/4471"
+    },
+    {
+      "name": "Limnophila hippuridoides",
+      "type": "Stem",
+      "product_code": "047C",
+      "descriptions": [
+        "Easy stem plant with purple leaf undersides",
+        "Thrives at various light intensities",
+        "Needs added CO2 and strong light to develop intense purple leaf colour"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/047C/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Limnophilahippuridoides(047C)/4474"
+    },
+    {
+      "name": "Limnophila sessiliflora",
+      "type": "",
+      "product_code": "047 CLP",
+      "descriptions": [
+        "One of the easiest aquarium plants",
+        "Beautiful, fast growing stems",
+        "Great auxiliary plant when starting a new tank"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/047 CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Limnophilasessiliflora(047CLP)/30571"
+    },
+    {
+      "name": "Limnophila sessiliflora",
+      "type": "Stem",
+      "product_code": "047 MP",
+      "descriptions": [
+        "One of the easiest aquarium plants",
+        "Beautiful, fast growing stems",
+        "Great auxiliary plant when starting a new tank"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/047 MP/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Limnophilasessiliflora(047MP)/18812"
+    },
+    {
+      "name": "Limnophila sessiliflora",
+      "type": "Stem",
+      "product_code": "047 PCS",
+      "descriptions": [
+        "One of the easiest aquarium plants",
+        "Beautiful, fast growing stems",
+        "Great auxiliary plant when starting a new tank"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/047 PCS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Limnophilasessiliflora(047PCS)/18801"
+    },
+    {
+      "name": "Limnophila sessiliflora",
+      "type": "Stem",
+      "product_code": "047",
+      "descriptions": [
+        "One of the easiest aquarium plants",
+        "Beautiful, fast growing stems",
+        "Great auxiliary plant when starting a new tank"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/047/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Limnophilasessiliflora(047)/4472"
+    },
+    {
+      "name": "Lindernia rotundifolia",
+      "type": "Stem",
+      "product_code": "045",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Beautiful, marbled leaves",
+        "Dense and lush growth"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/045/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Linderniarotundifolia(045)/4468"
+    },
+    {
+      "name": "Littorella uniflora",
+      "type": "Stolon",
+      "product_code": "081 TC",
+      "descriptions": [
+        "Distinctive, thick leaves",
+        "Foreground plant",
+        "Tolerates low light intensity"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/081 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Littorellauniflora(081TC)/18269"
+    },
+    {
+      "name": "Lobelia cardinalis",
+      "type": "Stem",
+      "product_code": "053C MP",
+      "descriptions": [
+        "Easy and hardy plant for beginners",
+        "Leaves become light green in the aquarium",
+        "Suitable for the garden pond"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053C MP/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Lobeliacardinalis(053CMP)/18840"
+    },
+    {
+      "name": "Lobelia cardinalis",
+      "type": "Stem",
+      "product_code": "053C PCS",
+      "descriptions": [
+        "Easy and hardy plant for beginners",
+        "Leaves become light green in the aquarium",
+        "Suitable for the garden pond"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053C PCS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Lobeliacardinalis(053CPCS)/21134"
+    },
+    {
+      "name": "Lobelia cardinalis",
+      "type": "Stem",
+      "product_code": "053C",
+      "descriptions": [
+        "Easy and hardy plant for beginners",
+        "Leaves become light green in the aquarium",
+        "Suitable for the garden pond"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053C/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Lobeliacardinalis(053C)/4494"
+    },
+    {
+      "name": "Lobelia cardinalis 'Mini'",
+      "type": "Stem",
+      "product_code": "143 TC",
+      "descriptions": [
+        "Beautiful green colour with compact growth",
+        "Easy to propagate in the aquarium - and a safe choice for most aquarists.",
+        "Thrives in many aquariums but more CO2, light and fertilizer will increase the plant's growth, compactness, and colour intensity."
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/143 TC/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Lobeliacardinalis'Mini'(143TC)/28647"
+    },
+    {
+      "name": "Ludwigia glandulosa",
+      "type": "Stem",
+      "product_code": "035A",
+      "descriptions": [
+        "Magnificent, intense red stem plant",
+        "Fairly slow growing",
+        "Previously named Ludwigia perennis"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/035A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Ludwigiaglandulosa(035A)/4452"
+    },
+    {
+      "name": "Ludwigia palustris 'Green'",
+      "type": "",
+      "product_code": "035D",
+      "descriptions": [
+        "Easy and Resilient Stem Plant",
+        "Bright Green Coloration",
+        "Fast Growth and Propagation"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/035D/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Ludwigiapalustris'Green'(035D)/29933"
+    },
+    {
+      "name": "Ludwigia palustris 'Super Red'",
+      "type": "",
+      "product_code": "035B CLP",
+      "descriptions": [
+        "One of the easiest, red stem plants",
+        "Branches willingly",
+        "Cut-off shoots will form new plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/035B CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Ludwigiapalustris'SuperRed'(035BCLP)/30570"
+    },
+    {
+      "name": "Ludwigia palustris 'Super Red'",
+      "type": "Stem",
+      "product_code": "035B",
+      "descriptions": [
+        "One of the easiest, red stem plants",
+        "Branches willingly",
+        "Cut-off shoots will form new plants"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/035B/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Ludwigiapalustris'SuperRed'(035B)/4453"
+    },
+    {
+      "name": "Ludwigia repens 'Rubin'",
+      "type": "Stem",
+      "product_code": "033D",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Offers a beautiful contrast to green plants",
+        "Red coloration will intensify at high light levels"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033D/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Ludwigiarepens'Rubin'(033D)/4450"
+    },
+    {
+      "name": "Lysimachia parvifolia ‘Red’",
+      "type": "",
+      "product_code": "147 TC",
+      "descriptions": [
+        "Reddish leaves, deeper colour with stronger light",
+        "Small, rounded “spinach-like” leaves",
+        "Compact growth, easy to trim"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/147 TC/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Lysimachiaparvifolia‘Red’(147TC)/30944"
+    },
+    {
+      "name": "Marsilea hirsuta",
+      "type": "Carpeting",
+      "product_code": "010 TC",
+      "descriptions": [
+        "Easy and secure carpeting plant",
+        "Does not require high light intensity",
+        "Its many roots anchors it well in the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/010 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Marsileahirsuta(010TC)/4428"
+    },
+    {
+      "name": "Marsilea minuta",
+      "type": "Carpeting",
+      "product_code": "010B TC",
+      "descriptions": [
+        "One of the smallest carpeting plants for aquariums",
+        "Bright, pale green colour",
+        "Tolerates high temperatures"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/010B TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Marsileaminuta(010BTC)/4762"
+    },
+    {
+      "name": "Mayaca fluviatilis",
+      "type": "Stem",
+      "product_code": "140 BDT",
+      "descriptions": [
+        "Exceptional, light and delicate stem plant",
+        "Needs good conditions to thrive well",
+        "Easy to propagate by planting the cut-off shoots"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/140 BDT/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Mayacafluviatilis(140BDT)/19792"
+    },
+    {
+      "name": "Micranthemum callitrichoides ´Cuba´",
+      "type": "Carpeting",
+      "product_code": "048B",
+      "descriptions": [
+        "One of the most popular carpeting plants",
+        "Quickly forms a dense, bright green carpet",
+        "Need regular trims to stay healthy"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/048B/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Micranthemumcallitrichoides´Cuba´(048B)/4477"
+    },
+    {
+      "name": "Micranthemum callitrichoides 'Cuba'",
+      "type": "Carpeting",
+      "product_code": "048B TC",
+      "descriptions": [
+        "One of the most popular carpeting plants",
+        "Quickly forms a dense, bright green carpet",
+        "Need regular trims to stay healthy"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/048B TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Micranthemumcallitrichoides'Cuba'(048BTC)/4478"
+    },
+    {
+      "name": "Micranthemum glomeratum",
+      "type": "Carpeting",
+      "product_code": "048A TC",
+      "descriptions": [
+        "Versatile plant, can be placed anywhere in the aquarium",
+        "Fast grower in the right conditions",
+        "Unique leave-shape"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/048A TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Micranthemumglomeratum(048ATC)/22879"
+    },
+    {
+      "name": "Micranthemum glomeratum",
+      "type": "Carpeting",
+      "product_code": "048A",
+      "descriptions": [
+        "Elegant, small-leaved stem plant",
+        "Forms a bright green carpet at high light intensity",
+        "May be used in terrariums"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/048A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Micranthemumglomeratum(048A)/4476"
+    },
+    {
+      "name": "Micranthemum tweediei 'Monte Carlo'",
+      "type": "Carpeting",
+      "product_code": "025 TC",
+      "descriptions": [
+        "Beautiful light green and carpeting",
+        "Much easier to grow than Micranthemum callitrichoides ´Cuba´",
+        "Requires regular trims to stay low and compact"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/025 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Micranthemumtweediei'MonteCarlo'(025TC)/4442"
+    },
+    {
+      "name": "Micranthemum tweediei 'Monte Carlo'",
+      "type": "Carpeting",
+      "product_code": "025",
+      "descriptions": [
+        "Beautiful light green and carpeting",
+        "Much easier to grow than Micranthemum callitrichoides ´Cuba´",
+        "Requires regular trims to stay low and compact"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/025/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Micranthemumtweediei'MonteCarlo'(025)/22880"
+    },
+    {
+      "name": "Micranthemum umbrosum",
+      "type": "Stem",
+      "product_code": "048 ST",
+      "descriptions": [
+        "Elegant, small-leaved stem plant",
+        "Vivid, bright green colour",
+        "Well suited for small aquariums"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/048 ST/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Micranthemumumbrosum(048ST)/19793"
+    },
+    {
+      "name": "Micranthemum umbrosum",
+      "type": "Stem",
+      "product_code": "048",
+      "descriptions": [
+        "Elegant, small-leaved stem plant",
+        "Vivid, bright green colour",
+        "Well suited for small aquariums"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/048/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Micranthemumumbrosum(048)/4475"
+    },
+    {
+      "name": "Microsorum - Anubias 'Duet'",
+      "type": "Rhizomatous",
+      "product_code": "008N YWX",
+      "descriptions": [
+        "Large mangrove wood with self-attached Microsorum and Anubias",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008N YWX/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorum-Anubias'Duet'(008NYWX)/4427"
+    },
+    {
+      "name": "Microsorum pteropus",
+      "type": "",
+      "product_code": "008 CLP",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Very decorative when attached to rocks and wood pieces",
+        "Known also as Java fern"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008 CLP/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus(008CLP)/30567"
+    },
+    {
+      "name": "Microsorum pteropus",
+      "type": "Rhizomatous",
+      "product_code": "008 XL",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Very decorative when attached to rocks and wood pieces",
+        "Known also as Java fern"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008 XL/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus(008XL)/4409"
+    },
+    {
+      "name": "Microsorum pteropus",
+      "type": "Rhizomatous",
+      "product_code": "008 YLS",
+      "descriptions": [
+        "Lava rock with self-attached Microsorum",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer of the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008 YLS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus(008YLS)/4410"
+    },
+    {
+      "name": "Microsorum pteropus",
+      "type": "Rhizomatous",
+      "product_code": "008 YWS",
+      "descriptions": [
+        "Mangrove wood with self-attached Microsorum",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008 YWS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus(008YWS)/4412"
+    },
+    {
+      "name": "Microsorum pteropus",
+      "type": "Rhizomatous",
+      "product_code": "008 YWX",
+      "descriptions": [
+        "Mangrove wood with two self-attached Microsorums",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008 YWX/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus(008YWX)/4413"
+    },
+    {
+      "name": "Microsorum pteropus",
+      "type": "Rhizomatous",
+      "product_code": "008",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Very decorative when attached to rocks and wood pieces",
+        "Known also as Java fern"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus(008)/4408"
+    },
+    {
+      "name": "Microsorum pteropus nano wood",
+      "type": "Rhizomatous",
+      "product_code": "501",
+      "descriptions": [
+        "Ready to Use Pre-attached to nano wood",
+        "Low Maintenance Thrives with minimal care",
+        "Natural Aesthetics Elegant and compact addition"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/501/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropusnanowood(501)/30255"
+    },
+    {
+      "name": "Microsorum pteropus 'Narrow'",
+      "type": "Rhizomatous",
+      "product_code": "008A PCS",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Very decorative when fastened to rocks or wood pieces",
+        "The leaves are smaller and narrower than those of the classic Java fern"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008A PCS/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Narrow'(008APCS)/18821"
+    },
+    {
+      "name": "Microsorum pteropus 'Narrow'",
+      "type": "",
+      "product_code": "008A TC",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Very decorative when fastened to rocks or wood pieces",
+        "The leaves are smaller and narrower than those of the classic Java fern"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008A TC/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Narrow'(008ATC)/31248"
+    },
+    {
+      "name": "Microsorum pteropus 'Narrow'",
+      "type": "Rhizomatous",
+      "product_code": "008A YWS",
+      "descriptions": [
+        "Mangrove wood with self-attached Microsorum",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008A YWS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Narrow'(008AYWS)/4415"
+    },
+    {
+      "name": "Microsorum pteropus 'Narrow'",
+      "type": "Rhizomatous",
+      "product_code": "008A ZWS",
+      "descriptions": [
+        "Mangrove wood with suction cup and self-attached Microsorum",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the glass of the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008A ZWS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Narrow'(008AZWS)/4417"
+    },
+    {
+      "name": "Microsorum pteropus 'Narrow'",
+      "type": "Rhizomatous",
+      "product_code": "008A",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Very decorative when fastened to rocks or wood pieces",
+        "The leaves are smaller and narrower than those of the classic Java fern"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Narrow'(008A)/4414"
+    },
+    {
+      "name": "Microsorum pteropus 'Trident'",
+      "type": "Rhizomatous",
+      "product_code": "008G YWS",
+      "descriptions": [
+        "Mangrove wood with self-attached Microsorum",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008G YWS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Trident'(008GYWS)/4425"
+    },
+    {
+      "name": "Microsorum pteropus 'Trident'",
+      "type": "Rhizomatous",
+      "product_code": "008G ZWM",
+      "descriptions": [
+        "Mangrove wood with suction cup and self-attached Microsorum",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the glass of the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008G ZWM/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Trident'(008GZWM)/4426"
+    },
+    {
+      "name": "Microsorum pteropus 'Trident'",
+      "type": "Rhizomatous",
+      "product_code": "008G ZWS",
+      "descriptions": [
+        "Mangrove wood with suction cup and self-attached Microsorum",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the glass of the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008G ZWS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Trident'(008GZWS)/19275"
+    },
+    {
+      "name": "Microsorum pteropus 'Trident'",
+      "type": "",
+      "product_code": "008G",
+      "descriptions": [
+        "Easy and undemanding plant for beginners, often with lobed leaves",
+        "Very decorative when fastened to rocks or wood pieces",
+        "Grows more horizontally than the other Microsorum"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008G/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Trident'(008G)/4424"
+    },
+    {
+      "name": "Microsorum pteropus 'Windeløv'",
+      "type": "",
+      "product_code": "008B TC",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Very decorative when fastened to rocks or wood pieces",
+        "Not eaten by herbivorous fish"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008B TC/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Windeløv'(008BTC)/31249"
+    },
+    {
+      "name": "Microsorum pteropus 'Windeløv'",
+      "type": "Rhizomatous",
+      "product_code": "008B YWS",
+      "descriptions": [
+        "Mangrove wood with self-attached Microsorum",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008B YWS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Windeløv'(008BYWS)/4420"
+    },
+    {
+      "name": "Microsorum pteropus 'Windeløv'",
+      "type": "Rhizomatous",
+      "product_code": "008B YWX",
+      "descriptions": [
+        "Large mangrove wood with two self-attached Microsorums",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008B YWX/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Windeløv'(008BYWX)/4421"
+    },
+    {
+      "name": "Microsorum pteropus 'Windeløv'",
+      "type": "Rhizomatous",
+      "product_code": "008B ZWM",
+      "descriptions": [
+        "Mangrove wood with suction cup and self-attached Microsorum",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the glass of the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008B ZWM/2.JPG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Windeløv'(008BZWM)/4422"
+    },
+    {
+      "name": "Microsorum pteropus 'Windeløv'",
+      "type": "Rhizomatous",
+      "product_code": "008B ZWS",
+      "descriptions": [
+        "Mangrove wood with suction cup and self-attached Microsorum",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the glass of the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008B ZWS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Windeløv'(008BZWS)/4423"
+    },
+    {
+      "name": "Microsorum pteropus 'Windeløv'",
+      "type": "Rhizomatous",
+      "product_code": "008B",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Very decorative when fastened to rocks or wood pieces",
+        "Not eaten by herbivorous fish"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008B/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Windeløv'(008B)/4418"
+    },
+    {
+      "name": "Microsorum sp.",
+      "type": "Rhizomatous",
+      "product_code": "500 OWX",
+      "descriptions": [
+        "Large mangrove wood with suction cups and self-attached plants",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the glass of the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/500 OWX/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Microsorumsp.(500OWX)/4582"
+    },
+    {
+      "name": "Monosolenium tenerum",
+      "type": "Moss",
+      "product_code": "002C TC",
+      "descriptions": [
+        "Intense bottle green liverwort",
+        "Stays on the ground or may be attached to rocks or wood pieces",
+        "Previously known as Pellia"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/002C TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Monosoleniumtenerum(002CTC)/18747"
+    },
+    {
+      "name": "Murdannia keisak",
+      "type": "Stem",
+      "product_code": "135",
+      "descriptions": [
+        "Bamboo-like growth",
+        "Fast-growing, needs continuous trimming",
+        "Replant the cut-off shoots to keep a nice group"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/135/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Murdanniakeisak(135)/4763"
+    },
+    {
+      "name": "Myriophyllum mattogrossense",
+      "type": "",
+      "product_code": "037 CLP",
+      "descriptions": [
+        "Magnificent feathery stems",
+        "Very fast growing background plant",
+        "Excellent auxiliary plant when starting an aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/037 CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Myriophyllummattogrossense(037CLP)/31139"
+    },
+    {
+      "name": "Myriophyllum mattogrossense",
+      "type": "Stem",
+      "product_code": "037",
+      "descriptions": [
+        "Magnificent feathery stems",
+        "Very fast growing background plant",
+        "Excellent auxiliary plant when starting an aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/037/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Myriophyllummattogrossense(037)/4454"
+    },
+    {
+      "name": "Myriophyllum sp. 'Guyana'",
+      "type": "Stem",
+      "product_code": "037E TC",
+      "descriptions": [
+        "Stem plant of vivid, bright green colour",
+        "Moderate growth rate, creating many branching shoots",
+        "Suitable for nano tanks"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/037E TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Myriophyllumsp.'Guyana'(037ETC)/19549"
+    },
+    {
+      "name": "Najas guadalupensis 'Guppy Grass'",
+      "type": "",
+      "product_code": "146 TC",
+      "descriptions": [
+        "Exceptionally easy and fast-growing plant for beginners",
+        "Can be used free-floating or anchored in the substrate",
+        "Dense growth provides perfect shelter for fish fry and shrimp"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/146 TC/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Najasguadalupensis'GuppyGrass'(146TC)(1)/30786"
+    },
+    {
+      "name": "Nymphaea lotus",
+      "type": "Bulb/onion",
+      "product_code": "019",
+      "descriptions": [
+        "Eyecatching solitary plant",
+        "Green or reddish brown leaves",
+        "Bulb to be planted with the germs right above the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/019/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Nymphaealotus(019)/4432"
+    },
+    {
+      "name": "Nymphoides hydrophylla 'Taiwan'",
+      "type": "Rhizomatous",
+      "product_code": "041B TC",
+      "descriptions": [
+        "Easy, fast-growing and lush plant",
+        "Beautiful, wavy leaves",
+        "Intense, bright green colour"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/041B TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Nymphoideshydrophylla'Taiwan'(041BTC)/4463"
+    },
+    {
+      "name": "Nymphoides hydrophylla 'Taiwan'",
+      "type": "Bulb/onion",
+      "product_code": "041B",
+      "descriptions": [
+        "Easy, fast-growing and lush plant",
+        "Beautiful, wavy leaves",
+        "Intense, bright green colour"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/041B/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Nymphoideshydrophylla'Taiwan'(041B)/4462"
+    },
+    {
+      "name": "Phyllanthus fluitans",
+      "type": "Floating plant",
+      "product_code": "028 TC",
+      "descriptions": [
+        "Lively red colour under strong lighting",
+        "Easy to propagate in an aquarium",
+        "Blooming flowers under the right conditions"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/028 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Phyllanthusfluitans(028TC)/22848"
+    },
+    {
+      "name": "Plagiomnium sp. 'Thyme Moss'",
+      "type": "",
+      "product_code": "410 TC",
+      "descriptions": [
+        "Large bright-green moss leaves",
+        "Translucent foliage with wavy margins",
+        "Creates a lush natural appearance"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/410 TC/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Plagiomniumsp.'ThymeMoss'(410TC)(1)/31325"
+    },
+    {
+      "name": "Pogostemon deccanensis",
+      "type": "Stem",
+      "product_code": "053F TC",
+      "descriptions": [
+        "Characteristic plant with coniferous stems",
+        "Deep green colour",
+        "Easy to trim and maintain"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053F TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Pogostemondeccanensis(053FTC)/4497"
+    },
+    {
+      "name": "Pogostemon deccanensis",
+      "type": "Stem",
+      "product_code": "053F",
+      "descriptions": [
+        "Characteristic plant with coniferous stems",
+        "Deep green colour",
+        "Easy to trim and maintain"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053F/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Pogostemondeccanensis(053F)/4496"
+    },
+    {
+      "name": "Pogostemon helferi",
+      "type": "Stem",
+      "product_code": "053H TC",
+      "descriptions": [
+        "Carpeting foreground plant",
+        "Distinctive, curly leaves",
+        "Also called 'Downoi' (little star)"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053H TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Pogostemonhelferi(053HTC)/19680"
+    },
+    {
+      "name": "Pogostemon helferi",
+      "type": "Stem",
+      "product_code": "053H YLS",
+      "descriptions": [
+        "Lava rock with self-attached Pogostemon helferi",
+        "Fully grown and hardy, right from the start",
+        "Easy to place on the bottom layer of the aquarium"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053H YLS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Pogostemonhelferi(053HYLS)/4500"
+    },
+    {
+      "name": "Pogostemon helferi",
+      "type": "Stem",
+      "product_code": "053H",
+      "descriptions": [
+        "Carpeting foreground plant",
+        "Distinctive, curly leaves",
+        "Also called 'Downoi' (little star)"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053H/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Pogostemonhelferi(053H)/4499"
+    },
+    {
+      "name": "Pogostemon quadrifolius",
+      "type": "",
+      "product_code": "053I CLP",
+      "descriptions": [
+        "Easy and fast growing stem plant",
+        "Ideal for frequent trimming and replanting",
+        "Suitable for both large aquariums and Nano Cubes"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053I CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Pogostemonquadrifolius(053ICLP)/31147"
+    },
+    {
+      "name": "Pogostemon stellatus",
+      "type": "Stem",
+      "product_code": "053G",
+      "descriptions": [
+        "Magnificent stem plant",
+        "Requires optimal conditions to grow well",
+        "May need some time to start developing optimally"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053G/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Pogostemonstellatus(053G)/4498"
+    },
+    {
+      "name": "Proserpinaca palustris 'Cuba'",
+      "type": "Stem",
+      "product_code": "037C TC",
+      "descriptions": [
+        "Beautiful and unique plant for any high-tech aquarium.",
+        "Beautiful colours and an interesting leaf shape when the plant thrives.",
+        "Easy to propagate by cuttings under water."
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/037C TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Proserpinacapalustris'Cuba'(037CTC)/4766"
+    },
+    {
+      "name": "Ranunculus inundatus",
+      "type": "",
+      "product_code": "022C TC",
+      "descriptions": [
+        "Beautiful umbrella-shaped, lobed leaves",
+        "Great contrast to other leaf shapes",
+        "Low and compact growth, will cover the bottom easily"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/022C TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Ranunculusinundatus(022CTC)/18225"
+    },
+    {
+      "name": "Riccardia chamedryfolia",
+      "type": "Moss",
+      "product_code": "003D TC",
+      "descriptions": [
+        "Unique Texture: Adds fine detail.",
+        "Slow Growing: Low maintenance needed.",
+        "Versatile Placement: Perfect for hardscape."
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003D TC/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Riccardiachamedryfolia(003DTC)/30334"
+    },
+    {
+      "name": "Riccia fluitans",
+      "type": "Moss",
+      "product_code": "001 TC",
+      "descriptions": [
+        "Bright green liverwort",
+        "Floating plant, but can be attached to rocks and wood pieces",
+        "It often forms small, decorative oxygen bubbles on the leaf tips"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/001 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Ricciafluitans(001TC)/4386"
+    },
+    {
+      "name": "Rotala indica 'Bonsai'",
+      "type": "Stem",
+      "product_code": "033E TC",
+      "descriptions": [
+        "Compact, with moderate growth",
+        "Stem tips become reddish when exposed to high light",
+        "Previously known as Ammania ‘Bonsai’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033E TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Rotalaindica'Bonsai'(033ETC)/4451"
+    },
+    {
+      "name": "Rotala macrandra",
+      "type": "Stem",
+      "product_code": "032 TC",
+      "descriptions": [
+        "One of the most outstanding, red plants",
+        "Requires excellent conditions to develop its full potential",
+        "Replant the cuttings in the substrate to create a dense group"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/032 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Rotalamacrandra(032TC)/4445"
+    },
+    {
+      "name": "Rotala rotundifolia",
+      "type": "",
+      "product_code": "033 CLP",
+      "descriptions": [
+        "Undemanding and easy beginner’s plant",
+        "Becomes more red at high light intensity",
+        "Multiplies easily by replanting cuttings in the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033 CLP/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Rotalarotundifolia(033CLP)/31145"
+    },
+    {
+      "name": "Rotala rotundifolia",
+      "type": "Stem",
+      "product_code": "033 MP",
+      "descriptions": [
+        "Undemanding and easy beginner’s plant",
+        "Becomes more red at high light intensity",
+        "Multiplies easily by replanting cuttings in the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033 MP/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Rotalarotundifolia(033MP)/18810"
+    },
+    {
+      "name": "Rotala rotundifolia",
+      "type": "Stem",
+      "product_code": "033 PCS",
+      "descriptions": [
+        "Undemanding and easy beginner’s plant",
+        "Becomes more red at high light intensity",
+        "Multiplies easily by replanting cuttings in the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033 PCS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Rotalarotundifolia(033PCS)/18799"
+    },
+    {
+      "name": "Rotala rotundifolia",
+      "type": "Stem",
+      "product_code": "033",
+      "descriptions": [
+        "Undemanding and easy beginner’s plant",
+        "Becomes more red at high light intensity",
+        "Multiplies easily by replanting cuttings in the bottom layer"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Rotalarotundifolia(033)/4447"
+    },
+    {
+      "name": "Rotala rotundifolia 'Blood Red'",
+      "type": "",
+      "product_code": "032D TC",
+      "descriptions": [
+        "Intense Red Coloration",
+        "Adaptable Growth Conditions",
+        "Erect and Arching Growth"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/032D TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Rotalarotundifolia'BloodRed'(032DTC)/30047"
+    },
+    {
+      "name": "Rotala rotundifolia 'Green'",
+      "type": "Stem",
+      "product_code": "033A TC",
+      "descriptions": [
+        "Its intense, bright green colour will enhance surrounding, red plants",
+        "Very dense and bushy growth",
+        "Stays bright green at high light intensity"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033A TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Rotalarotundifolia'Green'(033ATC)/22545"
+    },
+    {
+      "name": "Rotala rotundifolia 'H'ra'",
+      "type": "Stem",
+      "product_code": "032C TC",
+      "descriptions": [
+        "Beautiful pink-orange stem plant",
+        "At high light intensity, growth may become creeping",
+        "Branches willingly when trimmed"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/032C TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Rotalarotundifolia'H'ra'(032CTC)/19550"
+    },
+    {
+      "name": "Rotala wallichii",
+      "type": "Stem",
+      "product_code": "032A TC",
+      "descriptions": [
+        "Elegant stem plant with narrow leaves and red tips",
+        "Requires perfect conditions to thrive",
+        "Can stay low and compact if trimmed regularly"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/032A TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Rotalawallichii(032ATC)/18748"
+    },
+    {
+      "name": "Sagittaria subulata",
+      "type": "",
+      "product_code": "079 TC",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Suitable for the foreground",
+        "Depending on the conditions, the height is very varying"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/079 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Sagittariasubulata(079TC)/18270"
+    },
+    {
+      "name": "Sagittaria subulata",
+      "type": "Stolon",
+      "product_code": "079",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Suitable for the foreground",
+        "Depending on the conditions, the height is very varying"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/079/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Sagittariasubulata(079)/4530"
+    },
+    {
+      "name": "Sagittaria subulata 'Needle Leaf'",
+      "type": "",
+      "product_code": "144 TC",
+      "descriptions": [
+        "Easy and low maintenancebeginner’s plant",
+        "Suitable for the background",
+        "Elegant, narrow leaves"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/144 TC/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Sagittariasubulata'NeedleLeaf'(144TC)/30440"
+    },
+    {
+      "name": "Salvinia minima",
+      "type": "Floating plant",
+      "product_code": "011 TC",
+      "descriptions": [
+        "Floating surface plant, helpful in algae prevention",
+        "Slow growth may indicate lack of nutrients",
+        "Previously named Salvinia natans"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/011 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Salviniaminima(011TC)/4767"
+    },
+    {
+      "name": "Schismatoglottis prietoi",
+      "type": "",
+      "product_code": "102 TC",
+      "descriptions": [
+        "Appears in large, dense groups",
+        "Can resemble Anubias",
+        "An undemanding and easy plant"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/102 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Schismatoglottisprietoi(102TC)/29519"
+    },
+    {
+      "name": "Selaginella uncinata",
+      "type": "",
+      "product_code": "406 TC",
+      "descriptions": [
+        "Iridescent blue-green foliage",
+        "Fast-growing trailing habit",
+        "Easy to trim and maintain"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/406 TC/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Selaginellauncinata(406TC)(1)/31324"
+    },
+    {
+      "name": "Shinnersia rivularis 'Weiss-Grün'",
+      "type": "Stem",
+      "product_code": "053E",
+      "descriptions": [
+        "Easy and undemanding stem plant",
+        "Beautiful marbled leaves",
+        "Common name “Oak leaf” due to the leaf form"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053E/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Shinnersiarivularis'Weiss-Grün'(053E)/4495"
+    },
+    {
+      "name": "Solenostoma tetragonum 'Pearl Moss'",
+      "type": "",
+      "product_code": "002 TC",
+      "descriptions": [
+        "Round, transparent leaflets",
+        "Forms impressive cushions",
+        "Deep green colour"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/002 TC/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Solenostomatetragonum'PearlMoss'(002TC)/31163"
+    },
+    {
+      "name": "Spirodela polyrrhiza",
+      "type": "",
+      "product_code": "131 TC",
+      "descriptions": [
+        "Natural Shade Provides shelter for fish",
+        "Algae Control Competes with algae for nutrients",
+        "Water Quality Improvement Absorbs excess nutrients efficiently"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/131 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Spirodelapolyrrhiza(131TC)/30048"
+    },
+    {
+      "name": "Staurogyne repens",
+      "type": "Stem",
+      "product_code": "049G PCS",
+      "descriptions": [
+        "Very low and compact growth",
+        "Spreads willingly creating horizontal shoots",
+        "Good light conditions will keep the growth horizontal"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/049G PCS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Staurogynerepens(049GPCS)/19617"
+    },
+    {
+      "name": "Staurogyne repens",
+      "type": "Stem",
+      "product_code": "049G TC",
+      "descriptions": [
+        "Very low and compact growth",
+        "Spreads willingly creating horizontal shoots",
+        "Good light conditions will keep the growth horizontal"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/049G TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Staurogynerepens(049GTC)/4482"
+    },
+    {
+      "name": "Staurogyne repens",
+      "type": "Stem",
+      "product_code": "049G",
+      "descriptions": [
+        "Very low and compact growth",
+        "Spreads willingly creating horizontal shoots",
+        "Good light conditions will keep the growth horizontal"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/049G/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Staurogynerepens(049G)/4481"
+    },
+    {
+      "name": "Taxiphyllum alternans 'Taiwan Moss'",
+      "type": "Moss",
+      "product_code": "003C TC",
+      "descriptions": [
+        "Delicate and graceful weeping moss",
+        "To be attached to rocks and wood pieces",
+        "Common name: Mini Taiwan Moss"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003C TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Taxiphyllumalternans'TaiwanMoss'(003CTC)/19551"
+    },
+    {
+      "name": "Taxiphyllum barbieri 'Bogor Moss'",
+      "type": "Moss",
+      "product_code": "003 POR",
+      "descriptions": [
+        "Particularly easy and undemanding moss",
+        "Attaches to rocks and wood pieces",
+        "Commonly named Java moss"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003 POR/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Taxiphyllumbarbieri'BogorMoss'(003POR)/4391"
+    },
+    {
+      "name": "Taxiphyllum barbieri 'Bogor Moss'",
+      "type": "Moss",
+      "product_code": "003 TC",
+      "descriptions": [
+        "Particularly easy and undemanding moss",
+        "Attaches to rocks and wood pieces",
+        "Commonly named Java moss"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003 TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Taxiphyllumbarbieri'BogorMoss'(003TC)/4393"
+    },
+    {
+      "name": "Taxiphyllum barbieri 'Bogor Moss'",
+      "type": "Moss",
+      "product_code": "003 YLS",
+      "descriptions": [
+        "Particularly easy and undemanding moss",
+        "Grown on lava rock, ready to use",
+        "Commonly named Java moss"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003 YLS/2.PNG&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Taxiphyllumbarbieri'BogorMoss'(003YLS)/4394"
+    },
+    {
+      "name": "Taxiphyllum sp. ’Flame Moss’",
+      "type": "Moss",
+      "product_code": "003H TC",
+      "descriptions": [
+        "Deep green moss of vertical, flame like growth",
+        "To be attached to rocks and wood pieces",
+        "Common name ‘Flame Moss’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003H TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Taxiphyllumsp.’FlameMoss’(003HTC)/4403"
+    },
+    {
+      "name": "Taxiphyllum sp. 'Spiky Moss'",
+      "type": "Moss",
+      "product_code": "003G POR",
+      "descriptions": [
+        "Hardy and compact moss",
+        "Thrives at low light",
+        "Common name: Spiky Moss"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003G POR/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Taxiphyllumsp.'SpikyMoss'(003GPOR)/4402"
+    },
+    {
+      "name": "Taxiphyllum sp. 'Spiky Moss'",
+      "type": "Moss",
+      "product_code": "003G TC",
+      "descriptions": [
+        "Hardy and compact moss",
+        "Thrives at low light",
+        "Common name: Spiky Moss"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003G TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Taxiphyllumsp.'SpikyMoss'(003GTC)/18271"
+    },
+    {
+      "name": "Utricularia graminifolia",
+      "type": "Carpeting",
+      "product_code": "049B TC",
+      "descriptions": [
+        "Insectivorous plant, but harmless to fishes",
+        "Unique, but demanding foreground plant",
+        "Beautiful green “lawn-effect”"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/049B TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Utriculariagraminifolia(049BTC)/4480"
+    },
+    {
+      "name": "Vallisneria americana 'Natans'",
+      "type": "Stolon",
+      "product_code": "055 BDT",
+      "descriptions": [
+        "Easy and undemanding plant, well suited for beginners",
+        "Fast-growing",
+        "Develops many new plants through runners"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/055 BDT/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Vallisneriaamericana'Natans'(055BDT)/4502"
+    },
+    {
+      "name": "Vallisneria 'Gigantea'",
+      "type": "Stolon",
+      "product_code": "054",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Large and fast-growing",
+        "Is normally not eaten by herbivorous fish"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/054/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Vallisneria'Gigantea'(054)/4501"
+    },
+    {
+      "name": "Vallisneria spiralis 'Tiger'",
+      "type": "Stolon",
+      "product_code": "055A",
+      "descriptions": [
+        "Easy and undemanding plant for beginners",
+        "Horizontal stripes on the leaves",
+        "Forms multiple new plant with its runners"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/055A/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Vallisneriaspiralis'Tiger'(055A)/4503"
+    },
+    {
+      "name": "Vesicularia ferriei 'Weeping Moss'",
+      "type": "Moss",
+      "product_code": "003B POR",
+      "descriptions": [
+        "Moss with drooping growth and teardrop-like bright, green shoots",
+        "To be attached to rocks and pieces of wood",
+        "Commonly named ‘Weeping moss’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003B POR/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Vesiculariaferriei'WeepingMoss'(003BPOR)/4398"
+    },
+    {
+      "name": "Vesicularia ferriei 'Weeping Moss'",
+      "type": "Moss",
+      "product_code": "003B TC",
+      "descriptions": [
+        "Moss with drooping growth and teardrop-like bright, green shoots",
+        "To be attached to rocks and pieces of wood",
+        "Commonly named ‘Weeping moss’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003B TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Vesiculariaferriei'WeepingMoss'(003BTC)/4399"
+    },
+    {
+      "name": "Vesicularia montagnei 'Christmas Moss'",
+      "type": "Moss",
+      "product_code": "003A POR",
+      "descriptions": [
+        "Densely growing and compact moss",
+        "Can be attached to rocks and wood pieces",
+        "Commonly named ’Christmas moss’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003A POR/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Vesiculariamontagnei'ChristmasMoss'(003APOR)/4395"
+    },
+    {
+      "name": "Vesicularia montagnei 'Christmas Moss'",
+      "type": "Moss",
+      "product_code": "003A TC",
+      "descriptions": [
+        "Densely growing and compact moss",
+        "Can be attached to rocks and wood pieces",
+        "Commonly named ’Christmas moss’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003A TC/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Vesiculariamontagnei'ChristmasMoss'(003ATC)/4396"
+    },
+    {
+      "name": "Vesicularia montagnei 'Christmas Moss'",
+      "type": "Moss",
+      "product_code": "003A YWS",
+      "descriptions": [
+        "Densely growing and compact moss",
+        "Can be attached to rocks and wood pieces",
+        "Commonly named ’Christmas moss’"
+      ],
+      "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003A YWS/2.png&crop=resize&class=product",
+      "detail_path": "/en/plants/plantdetails/Vesiculariamontagnei'ChristmasMoss'(003AYWS)/4397"
+    }
+  ]
+}
