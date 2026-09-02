@@ -223,6 +223,7 @@ NAME_TYPE_OVERRIDE = {
 
 
 DESCRIPTION_OVERRIDES = {
+    "Also called Madagascar Lace Plant": "也叫马达加斯加网草",
     "Also known as ‘Marimo’": "又名“Marimo（马里莫／毬藻）”",
     "Intensely pink red leaves": "叶片呈浓艳的粉红至红色",
     "A rich deep green color": "浓郁的深绿色",
@@ -245,6 +246,7 @@ DESCRIPTION_OVERRIDES = {
     "Used to be called Cryptocoryne nevillii": "旧名为 Cryptocoryne nevillii",
     "Previously named Echinodorus ’paniculatus’": "旧名为 Echinodorus ’paniculatus’",
     "Previously named Echinodorus quadricostatus": "旧名为 Echinodorus quadricostatus",
+    "Previously named \"Double Red\"": "旧称“Double Red”",
     "Easy to Maintain": "容易养护",
     "Very safe and easy carpeting plant": "稳定易养的铺地草",
     "Compact Growth Potential": "可形成紧凑株型",
@@ -279,7 +281,7 @@ DESCRIPTION_OVERRIDES = {
     "Common name: Mini Taiwan Moss": "常用名：迷你台湾莫丝",
     "Commonly named Java moss": "俗称爪哇莫丝",
     "Common name ‘Flame Moss’": "常用名：火焰莫丝",
-    "Common name: Spiky Moss": "常用名：尖叶莫丝（Spiky Moss）",
+    "Common name: Spiky Moss": "常用名：松茸莫丝／尖叶莫丝",
     "Unique, but demanding foreground plant": "独特的前景草，但对养护条件要求较高",
     "Commonly named ‘Weeping moss’": "俗称垂泪莫丝",
     "Commonly named ’Christmas moss’": "俗称圣诞莫丝",
@@ -289,6 +291,7 @@ DESCRIPTION_OVERRIDES = {
 def polish_description(source: str, translated: str) -> str:
     if source in DESCRIPTION_OVERRIDES:
         return DESCRIPTION_OVERRIDES[source]
+    translated = translated.replace("CO2", "CO₂")
     replacements = (
         ("Cryptocorynes", "椒草"), ("Cryptocoryne", "椒草"),
         ("Bucephalandra", "辣椒榕"), ("Anubias", "水榕"),
@@ -298,6 +301,7 @@ def polish_description(source: str, translated: str) -> str:
     )
     for old, new in replacements:
         translated = translated.replace(old, new)
+    translated = re.sub(r"(?<=\d)\s*(厘米|毫米|米|升|毫克|英寸|摄氏度)", r" \1", translated)
     return translated
 
 

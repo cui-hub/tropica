@@ -18,7 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 JSON_PATH = ROOT / "formatted" / "plant-list.json"
 IMAGE_DIR = ROOT / "formatted" / "assets" / "images"
-LOCAL_IMAGE_DIR = Path("formatted") / "assets" / "images"
+LOCAL_IMAGE_DIR = Path("assets") / "images"
 
 INVALID_FILENAME_CHARS = re.compile(r'[<>:"/\\|?*\x00-\x1f]')
 
@@ -89,10 +89,14 @@ def existing_image(item: dict, stem: str) -> Path | None:
     local_cover = item.get("local_cover", "")
     if local_cover:
         candidate = Path(local_cover)
-        if not candidate.is_absolute():
-            candidate = ROOT / candidate
-        if is_valid_image(candidate):
-            return candidate
+        candidates = (
+            (candidate,)
+            if candidate.is_absolute()
+            else (JSON_PATH.parent / candidate, ROOT / candidate)
+        )
+        for resolved_candidate in candidates:
+            if is_valid_image(resolved_candidate):
+                return resolved_candidate
 
     suffix = source_extension(item["cover"])
     if suffix:
@@ -141,7 +145,7 @@ def download(item: dict, stem: str, force: bool) -> Path:
 
 
 def local_path(path: Path) -> str:
-    return (LOCAL_IMAGE_DIR / path.name).as_posix()
+    return f"./{(LOCAL_IMAGE_DIR / path.name).as_posix()}"
 
 
 def main() -> None:

@@ -22,7 +22,7 @@
         "又名“Marimo（马里莫／毬藻）”"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/000C ST/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Aegagropila linnaei_000C ST.png",
+      "local_cover": "./assets/images/Aegagropila linnaei_000C ST.png",
       "detail_path": "/en/plants/plantdetails/Aegagropilalinnaei(000CST)/4385"
     },
     {
@@ -47,7 +47,7 @@
         "又名“Marimo（马里莫／毬藻）”"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/000D MP/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Aegagropila linnaei_000D MP.png",
+      "local_cover": "./assets/images/Aegagropila linnaei_000D MP.png",
       "detail_path": "/en/plants/plantdetails/Aegagropilalinnaei(000DMP)/19534"
     },
     {
@@ -72,7 +72,7 @@
         "又名“Marimo（马里莫／毬藻）”"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/000E POR/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Aegagropila linnaei_000E POR.png",
+      "local_cover": "./assets/images/Aegagropila linnaei_000E POR.png",
       "detail_path": "/en/plants/plantdetails/Aegagropilalinnaei(000EPOR)/30004"
     },
     {
@@ -94,7 +94,7 @@
         "定期修剪可保持低矮"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/023C TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Alternanthera reineckii 'Mini'_023C TC.png",
+      "local_cover": "./assets/images/Alternanthera reineckii 'Mini'_023C TC.png",
       "detail_path": "/en/plants/plantdetails/Alternantherareineckii'Mini'(023CTC)/4439"
     },
     {
@@ -118,7 +118,7 @@
         "又名 Alternanthera reineckii 'Rosaefolia'"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/023 CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Alternanthera reineckii 'Pink'_023 CLP.jpg",
+      "local_cover": "./assets/images/Alternanthera reineckii 'Pink'_023 CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Alternantherareineckii'Pink'(023CLP)/30568"
     },
     {
@@ -142,7 +142,7 @@
         "又名 Alternanthera reineckii ‘Rosaefolia’"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/023 XL/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Alternanthera reineckii 'Pink'_023 XL.png",
+      "local_cover": "./assets/images/Alternanthera reineckii 'Pink'_023 XL.png",
       "detail_path": "/en/plants/plantdetails/Alternantherareineckii'Pink'(023XL)/4437"
     },
     {
@@ -166,7 +166,7 @@
         "又名 Alternanthera reineckii 'Rosaefolia'"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/023/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Alternanthera reineckii 'Pink'_023.png",
+      "local_cover": "./assets/images/Alternanthera reineckii 'Pink'_023.png",
       "detail_path": "/en/plants/plantdetails/Alternantherareineckii'Pink'(023)/4436"
     },
     {
@@ -189,7 +189,7 @@
         "在绿色水草中很吸睛"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/023D CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Alternanthera reineckii 'Rosanervig'_023D CLP.png",
+      "local_cover": "./assets/images/Alternanthera reineckii 'Rosanervig'_023D CLP.png",
       "detail_path": "/en/plants/plantdetails/Alternantherareineckii'Rosanervig'(023DCLP)/31138"
     },
     {
@@ -212,7 +212,7 @@
         "在绿色水草中很吸睛"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/023D/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Alternanthera reineckii 'Rosanervig'_023D.png",
+      "local_cover": "./assets/images/Alternanthera reineckii 'Rosanervig'_023D.png",
       "detail_path": "/en/plants/plantdetails/Alternantherareineckii'Rosanervig'(023D)/4440"
     },
     {
@@ -234,7 +234,7 @@
         "剪下的部分回栽即可繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033B/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Ammannia crassicaulis_033B.png",
+      "local_cover": "./assets/images/Ammannia crassicaulis_033B.png",
       "detail_path": "/en/plants/plantdetails/Ammanniacrassicaulis(033B)/4449"
     },
     {
@@ -257,7 +257,7 @@
         "容易养的水草"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101F CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri ’Coin Leaf’_101F CLP.jpg",
+      "local_cover": "./assets/images/Anubias barteri ’Coin Leaf’_101F CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Anubiasbarteri’CoinLeaf’(101FCLP)/30586"
     },
     {
@@ -280,7 +280,7 @@
         "容易养的水草"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101F/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri ’Coin Leaf’_101F.png",
+      "local_cover": "./assets/images/Anubias barteri ’Coin Leaf’_101F.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarteri’CoinLeaf’(101F)/29447"
     },
     {
@@ -303,7 +303,7 @@
         "可附着在石材和沉木上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101U CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri caladiifolia_101U CLP.jpg",
+      "local_cover": "./assets/images/Anubias barteri caladiifolia_101U CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Anubiasbartericaladiifolia(101UCLP)/30578"
     },
     {
@@ -326,7 +326,7 @@
         "可附着在石材和沉木上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101U PCS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri caladiifolia_101U PCS.png",
+      "local_cover": "./assets/images/Anubias barteri caladiifolia_101U PCS.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbartericaladiifolia(101UPCS)/18816"
     },
     {
@@ -349,7 +349,7 @@
         "可附着在石材和沉木上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101U/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri caladiifolia_101U.png",
+      "local_cover": "./assets/images/Anubias barteri caladiifolia_101U.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbartericaladiifolia(101U)/4556"
     },
     {
@@ -371,7 +371,7 @@
         "叶片小而圆，深绿色"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101B TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri 'Mini Coin'_101B TC.png",
+      "local_cover": "./assets/images/Anubias barteri 'Mini Coin'_101B TC.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarteri'MiniCoin'(101BTC)/28816"
     },
     {
@@ -386,7 +386,7 @@
       "descriptions": [],
       "descriptions_cn": [],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/LE168/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri 'Mini Coin' on stone_LE168.png",
+      "local_cover": "./assets/images/Anubias barteri 'Mini Coin' on stone_LE168.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarteri'MiniCoin'onstone(LE168)/30874"
     },
     {
@@ -409,7 +409,7 @@
         "非常适合附着在沉木和石材上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri nana_101 CLP.jpg",
+      "local_cover": "./assets/images/Anubias barteri nana_101 CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterinana(101CLP)/30584"
     },
     {
@@ -432,7 +432,7 @@
         "非常适合附着在沉木和石材上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 PCS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri nana_101 PCS.png",
+      "local_cover": "./assets/images/Anubias barteri nana_101 PCS.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterinana(101PCS)/18806"
     },
     {
@@ -455,7 +455,7 @@
         "非常适合附着在沉木和石材上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri nana_101 TC.png",
+      "local_cover": "./assets/images/Anubias barteri nana_101 TC.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterinana(101TC)/18895"
     },
     {
@@ -478,7 +478,7 @@
         "适合种在底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 YLS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri nana_101 YLS.png",
+      "local_cover": "./assets/images/Anubias barteri nana_101 YLS.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterinana(101YLS)/4546"
     },
     {
@@ -501,7 +501,7 @@
         "适合种在底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 YWS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri nana_101 YWS.png",
+      "local_cover": "./assets/images/Anubias barteri nana_101 YWS.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterinana(101YWS)/4548"
     },
     {
@@ -524,7 +524,7 @@
         "可轻松固定在缸玻璃上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 ZWS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri nana_101 ZWS.png",
+      "local_cover": "./assets/images/Anubias barteri nana_101 ZWS.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterinana(101ZWS)/4550"
     },
     {
@@ -548,7 +548,7 @@
         "非常适合附着在沉木和石材上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101H CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri 'Petite'_101H CLP.jpg",
+      "local_cover": "./assets/images/Anubias barteri 'Petite'_101H CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Anubiasbarteri'Petite'(101HCLP)/30576"
     },
     {
@@ -572,7 +572,7 @@
         "非常适合附着在沉木和石材上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101H/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri 'Petite'_101H.png",
+      "local_cover": "./assets/images/Anubias barteri 'Petite'_101H.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarteri'Petite'(101H)/4554"
     },
     {
@@ -596,7 +596,7 @@
         "适合种在底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101 YWX/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri sp._101 YWX.png",
+      "local_cover": "./assets/images/Anubias barteri sp._101 YWX.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterisp.(101YWX)/4549"
     },
     {
@@ -620,7 +620,7 @@
         "非常适合附着在沉木和石材上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri var. barteri_101A.png",
+      "local_cover": "./assets/images/Anubias barteri var. barteri_101A.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.barteri(101A)/4551"
     },
     {
@@ -643,7 +643,7 @@
         "可附着在石材和沉木上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101U XL/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri var. caladiifolia_101U XL.png",
+      "local_cover": "./assets/images/Anubias barteri var. caladiifolia_101U XL.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.caladiifolia(101UXL)/4557"
     },
     {
@@ -666,7 +666,7 @@
         "在石材和沉木上都能长得很好"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101G/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri var. 'Coffeifolia'_101G.png",
+      "local_cover": "./assets/images/Anubias barteri var. 'Coffeifolia'_101G.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.'Coffeifolia'(101G)/4553"
     },
     {
@@ -689,7 +689,7 @@
         "可附着在石材和沉木上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101C/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri var. glabra_101C.png",
+      "local_cover": "./assets/images/Anubias barteri var. glabra_101C.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.glabra(101C)/4552"
     },
     {
@@ -712,7 +712,7 @@
         "非常适合附着在沉木和石材上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri var. nana_101.png",
+      "local_cover": "./assets/images/Anubias barteri var. nana_101.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana(101)/4545"
     },
     {
@@ -735,7 +735,7 @@
         "一开始就很抢眼"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/510 YCS/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri var. nana_510 YCS.jpg",
+      "local_cover": "./assets/images/Anubias barteri var. nana_510 YCS.jpg",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana(510YCS)/28184"
     },
     {
@@ -758,7 +758,7 @@
         "叶形设计灵感来自亚洲龙"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101K CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri var. nana ’Kirin’_101K CLP.jpg",
+      "local_cover": "./assets/images/Anubias barteri var. nana ’Kirin’_101K CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana’Kirin’(101KCLP)/30577"
     },
     {
@@ -781,7 +781,7 @@
         "叶形设计灵感来自亚洲龙"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101K/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri var. nana ’Kirin’_101K.png",
+      "local_cover": "./assets/images/Anubias barteri var. nana ’Kirin’_101K.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana’Kirin’(101K)/29448"
     },
     {
@@ -804,7 +804,7 @@
         "需绑在缸里的石材或沉木上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101E CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri var. nana ’Pinto’_101E CLP.jpg",
+      "local_cover": "./assets/images/Anubias barteri var. nana ’Pinto’_101E CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana’Pinto’(101ECLP)/30575"
     },
     {
@@ -827,7 +827,7 @@
         "需绑在缸里的石材或沉木上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101E/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri var. nana ’Pinto’_101E.png",
+      "local_cover": "./assets/images/Anubias barteri var. nana ’Pinto’_101E.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana’Pinto’(101E)/29446"
     },
     {
@@ -850,7 +850,7 @@
         "非常适合附着在沉木和石材上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101L/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias barteri var. nana 'Large'_101L.png",
+      "local_cover": "./assets/images/Anubias barteri var. nana 'Large'_101L.png",
       "detail_path": "/en/plants/plantdetails/Anubiasbarterivar.nana'Large'(101L)/19785"
     },
     {
@@ -873,7 +873,7 @@
         "能很好地附着在沉木和石材上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101D CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias gracilis_101D CLP.jpg",
+      "local_cover": "./assets/images/Anubias gracilis_101D CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Anubiasgracilis(101DCLP)/30574"
     },
     {
@@ -896,7 +896,7 @@
         "能很好地附着在沉木和石材上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/101D/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Anubias gracilis_101D.png",
+      "local_cover": "./assets/images/Anubias gracilis_101D.png",
       "detail_path": "/en/plants/plantdetails/Anubiasgracilis(101D)/17819"
     },
     {
@@ -919,7 +919,7 @@
         "需要休眠期"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/088 KN/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Aponogeton boivinianus_088 KN.png",
+      "local_cover": "./assets/images/Aponogeton boivinianus_088 KN.png",
       "detail_path": "/en/plants/plantdetails/Aponogetonboivinianus(088KN)/4534"
     },
     {
@@ -941,7 +941,7 @@
         "需要休眠期"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/089D KN/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Aponogeton longiplumulosus_089D KN.png",
+      "local_cover": "./assets/images/Aponogeton longiplumulosus_089D KN.png",
       "detail_path": "/en/plants/plantdetails/Aponogetonlongiplumulosus(089DKN)/4536"
     },
     {
@@ -963,10 +963,10 @@
       "descriptions_cn": [
         "非常出众且独特的单株主景草",
         "球茎植物",
-        "也称 Madagascar Lace Plant"
+        "也叫马达加斯加网草"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/089 KN/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Aponogeton madagascariensis_089 KN.png",
+      "local_cover": "./assets/images/Aponogeton madagascariensis_089 KN.png",
       "detail_path": "/en/plants/plantdetails/Aponogetonmadagascariensis(089KN)/4535"
     },
     {
@@ -988,7 +988,7 @@
         "可能需要休眠期"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/086 KN/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Aponogeton ulvaceus_086 KN.png",
+      "local_cover": "./assets/images/Aponogeton ulvaceus_086 KN.png",
       "detail_path": "/en/plants/plantdetails/Aponogetonulvaceus(086KN)/4533"
     },
     {
@@ -1011,7 +1011,7 @@
         "原产巴西，不是澳大利亚"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bacopa australis_043A.png",
+      "local_cover": "./assets/images/Bacopa australis_043A.png",
       "detail_path": "/en/plants/plantdetails/Bacopaaustralis(043A)/4466"
     },
     {
@@ -1035,7 +1035,7 @@
         "剪下的枝条很容易长成新植株"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043 BDT/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bacopa caroliniana_043 BDT.png",
+      "local_cover": "./assets/images/Bacopa caroliniana_043 BDT.png",
       "detail_path": "/en/plants/plantdetails/Bacopacaroliniana(043BDT)/4465"
     },
     {
@@ -1059,7 +1059,7 @@
         "剪下的枝条很容易长成新植株"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043 CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bacopa caroliniana_043 CLP.png",
+      "local_cover": "./assets/images/Bacopa caroliniana_043 CLP.png",
       "detail_path": "/en/plants/plantdetails/Bacopacaroliniana(043CLP)(1)/31156"
     },
     {
@@ -1083,7 +1083,7 @@
         "剪下的枝条很容易长成新植株"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043 MP/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bacopa caroliniana_043 MP.png",
+      "local_cover": "./assets/images/Bacopa caroliniana_043 MP.png",
       "detail_path": "/en/plants/plantdetails/Bacopacaroliniana(043MP)/18811"
     },
     {
@@ -1107,7 +1107,7 @@
         "剪下的枝条很容易长成新植株"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bacopa caroliniana_043 TC.png",
+      "local_cover": "./assets/images/Bacopa caroliniana_043 TC.png",
       "detail_path": "/en/plants/plantdetails/Bacopacaroliniana(043TC)/18752"
     },
     {
@@ -1131,7 +1131,7 @@
         "剪下的枝条很容易长成新植株"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bacopa caroliniana_043.png",
+      "local_cover": "./assets/images/Bacopa caroliniana_043.png",
       "detail_path": "/en/plants/plantdetails/Bacopacaroliniana(043)/4464"
     },
     {
@@ -1154,7 +1154,7 @@
         "耐受较弱光照，但光线不足时会更偏直立生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/044A CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bacopa monnieri 'Compact'_044A CLP.jpg",
+      "local_cover": "./assets/images/Bacopa monnieri 'Compact'_044A CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Bacopamonnieri'Compact'(044ACLP)/30569"
     },
     {
@@ -1177,7 +1177,7 @@
         "耐受较弱光照，但光线不足时会更偏直立生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/044A PCS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bacopa monnieri 'Compact'_044A PCS.png",
+      "local_cover": "./assets/images/Bacopa monnieri 'Compact'_044A PCS.png",
       "detail_path": "/en/plants/plantdetails/Bacopamonnieri'Compact'(044APCS)/18800"
     },
     {
@@ -1200,7 +1200,7 @@
         "耐受较弱光照，但光线不足时会更偏直立生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/044A/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bacopa monnieri 'Compact'_044A.png",
+      "local_cover": "./assets/images/Bacopa monnieri 'Compact'_044A.png",
       "detail_path": "/en/plants/plantdetails/Bacopamonnieri'Compact'(044A)/4467"
     },
     {
@@ -1223,7 +1223,7 @@
         "位置灵活，适合中景或后景"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/043B/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bacopa salzmannii 'Purple'_043B.png",
+      "local_cover": "./assets/images/Bacopa salzmannii 'Purple'_043B.png",
       "detail_path": "/en/plants/plantdetails/Bacopasalzmannii'Purple'(043B)/30171"
     },
     {
@@ -1245,10 +1245,10 @@
       "descriptions_cn": [
         "在合适光照下会呈现迷人的红色",
         "只在水下生长",
-        "最适合中强光并配合 CO2 的缸"
+        "最适合中强光并配合 CO₂ 的缸"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/057 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Blyxa japonica_057 TC.png",
+      "local_cover": "./assets/images/Blyxa japonica_057 TC.png",
       "detail_path": "/en/plants/plantdetails/Blyxajaponica(057TC)/22542"
     },
     {
@@ -1271,7 +1271,7 @@
         "不适合极硬的高钙水质"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/006 CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bolbitis heudelotii_006 CLP.jpg",
+      "local_cover": "./assets/images/Bolbitis heudelotii_006 CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Bolbitisheudelotii(006CLP)/30544"
     },
     {
@@ -1294,7 +1294,7 @@
         "不适合高碱度水质"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/006 XL/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bolbitis heudelotii_006 XL.png",
+      "local_cover": "./assets/images/Bolbitis heudelotii_006 XL.png",
       "detail_path": "/en/plants/plantdetails/Bolbitisheudelotii(006XL)/18376"
     },
     {
@@ -1317,7 +1317,7 @@
         "适合种在底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/006 YWS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bolbitis heudelotii_006 YWS.png",
+      "local_cover": "./assets/images/Bolbitis heudelotii_006 YWS.png",
       "detail_path": "/en/plants/plantdetails/Bolbitisheudelotii(006YWS)/4407"
     },
     {
@@ -1340,7 +1340,7 @@
         "不适合高碱度水质"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/006/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bolbitis heudelotii_006.png",
+      "local_cover": "./assets/images/Bolbitis heudelotii_006.png",
       "detail_path": "/en/plants/plantdetails/Bolbitisheudelotii(006)/4406"
     },
     {
@@ -1364,7 +1364,7 @@
         "适应力强，可耐不同水质参数"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139B CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bucephalandra diabolica 'Kedagang'_139B CLP.png",
+      "local_cover": "./assets/images/Bucephalandra diabolica 'Kedagang'_139B CLP.png",
       "detail_path": "/en/plants/plantdetails/Bucephalandradiabolica'Kedagang'(139BCLP)/31144"
     },
     {
@@ -1388,7 +1388,7 @@
         "适应力强，可耐不同水质参数"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139B TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bucephalandra diabolica' Kedagang'_139B TC.png",
+      "local_cover": "./assets/images/Bucephalandra diabolica' Kedagang'_139B TC.png",
       "detail_path": "/en/plants/plantdetails/Bucephalandradiabolica'Kedagang'(139BTC)/22544"
     },
     {
@@ -1412,7 +1412,7 @@
         "适应力强，可耐不同水质参数"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139B/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bucephalandra diabolica 'Kedagang'_139B.png",
+      "local_cover": "./assets/images/Bucephalandra diabolica 'Kedagang'_139B.png",
       "detail_path": "/en/plants/plantdetails/Bucephalandradiabolica'Kedagang'(139B)/22543"
     },
     {
@@ -1435,7 +1435,7 @@
         "适合附着在石材和沉木上生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139 CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bucephalandra pygmaea 'Bukit Kelam'_139 CLP.png",
+      "local_cover": "./assets/images/Bucephalandra pygmaea 'Bukit Kelam'_139 CLP.png",
       "detail_path": "/en/plants/plantdetails/Bucephalandrapygmaea'BukitKelam'(139CLP)/31143"
     },
     {
@@ -1458,7 +1458,7 @@
         "适合附着在石材和沉木上生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bucephalandra pygmaea 'Bukit Kelam'_139 TC.png",
+      "local_cover": "./assets/images/Bucephalandra pygmaea 'Bukit Kelam'_139 TC.png",
       "detail_path": "/en/plants/plantdetails/Bucephalandrapygmaea'BukitKelam'(139TC)/28393"
     },
     {
@@ -1481,7 +1481,7 @@
         "容易放在水族箱底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139 YLS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bucephalandra pygmaea 'Bukit Kelam'_139 YLS.png",
+      "local_cover": "./assets/images/Bucephalandra pygmaea 'Bukit Kelam'_139 YLS.png",
       "detail_path": "/en/plants/plantdetails/Bucephalandrapygmaea'BukitKelam'(139YLS)/18758"
     },
     {
@@ -1504,7 +1504,7 @@
         "适合附着在石材和沉木上生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bucephalandra pygmaea 'Bukit Kelam'_139.png",
+      "local_cover": "./assets/images/Bucephalandra pygmaea 'Bukit Kelam'_139.png",
       "detail_path": "/en/plants/plantdetails/Bucephalandrapygmaea'BukitKelam'(139)/18757"
     },
     {
@@ -1527,7 +1527,7 @@
         "位置灵活，可附着在造景素材上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139D/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bucephalandra sordidula 'Blue'_139D.jpg",
+      "local_cover": "./assets/images/Bucephalandra sordidula 'Blue'_139D.jpg",
       "detail_path": "/en/plants/plantdetails/Bucephalandrasordidula'Blue'(139D)/30011"
     },
     {
@@ -1549,7 +1549,7 @@
         "根茎最嫩部分呈漂亮红色"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139C TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bucephalandra sp. 'Needle Leaf'_139C TC.png",
+      "local_cover": "./assets/images/Bucephalandra sp. 'Needle Leaf'_139C TC.png",
       "detail_path": "/en/plants/plantdetails/Bucephalandrasp.'NeedleLeaf'(139CTC)/29517"
     },
     {
@@ -1571,7 +1571,7 @@
         "适合附着在石材和沉木上生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/139A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Bucephalandra sp. 'Red'_139A.png",
+      "local_cover": "./assets/images/Bucephalandra sp. 'Red'_139A.png",
       "detail_path": "/en/plants/plantdetails/Bucephalandrasp.'Red'(139A)/19682"
     },
     {
@@ -1596,7 +1596,7 @@
         "适合作为新开缸的辅助水草"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/015 BDT/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cabomba aquatica_015 BDT.png",
+      "local_cover": "./assets/images/Cabomba aquatica_015 BDT.png",
       "detail_path": "/en/plants/plantdetails/Cabombaaquatica(015BDT)/4431"
     },
     {
@@ -1619,7 +1619,7 @@
         "养护要求不高，但在强光下会长出橙色侧芽"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/024/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cardamine lyrata_024.png",
+      "local_cover": "./assets/images/Cardamine lyrata_024.png",
       "detail_path": "/en/plants/plantdetails/Cardaminelyrata(024)/4441"
     },
     {
@@ -1643,7 +1643,7 @@
         "有助于抑制藻类生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/021A POR/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Ceratophyllum demersum_021A POR.png",
+      "local_cover": "./assets/images/Ceratophyllum demersum_021A POR.png",
       "detail_path": "/en/plants/plantdetails/Ceratophyllumdemersum(021APOR)/4434"
     },
     {
@@ -1667,7 +1667,7 @@
         "也可作为浮水植物"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/005A CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Ceratopteris thalictroides_005A CLP.png",
+      "local_cover": "./assets/images/Ceratopteris thalictroides_005A CLP.png",
       "detail_path": "/en/plants/plantdetails/Ceratopteristhalictroides(005ACLP)/31137"
     },
     {
@@ -1691,7 +1691,7 @@
         "也可作为浮水植物"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/005A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Ceratopteris thalictroides_005A.png",
+      "local_cover": "./assets/images/Ceratopteris thalictroides_005A.png",
       "detail_path": "/en/plants/plantdetails/Ceratopteristhalictroides(005A)/4405"
     },
     {
@@ -1714,7 +1714,7 @@
         "通常不会被草食性鱼啃食"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/094A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Crinum calamistratum_094A.png",
+      "local_cover": "./assets/images/Crinum calamistratum_094A.png",
       "detail_path": "/en/plants/plantdetails/Crinumcalamistratum(094A)/4541"
     },
     {
@@ -1738,7 +1738,7 @@
         "通常不会被草食性鱼啃食"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/093 XL/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Crinum thaianum_093 XL.png",
+      "local_cover": "./assets/images/Crinum thaianum_093 XL.png",
       "detail_path": "/en/plants/plantdetails/Crinumthaianum(093XL)/4538"
     },
     {
@@ -1762,7 +1762,7 @@
         "通常不会被草食性鱼啃食"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/093/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Crinum thaianum_093.png",
+      "local_cover": "./assets/images/Crinum thaianum_093.png",
       "detail_path": "/en/plants/plantdetails/Crinumthaianum(093)/4537"
     },
     {
@@ -1785,7 +1785,7 @@
         "好养，养护要求不高"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/126B/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne albida 'Brown'_126B.png",
+      "local_cover": "./assets/images/Cryptocoryne albida 'Brown'_126B.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynealbida'Brown'(126B)/18194"
     },
     {
@@ -1809,7 +1809,7 @@
         "在缸内保持相对低矮"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/108A CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne beckettii 'Petchii'_108A CLP.jpg",
+      "local_cover": "./assets/images/Cryptocoryne beckettii 'Petchii'_108A CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Cryptocorynebeckettii'Petchii'(108ACLP)/30581"
     },
     {
@@ -1833,7 +1833,7 @@
         "在缸内保持相对低矮"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/108A PCS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne beckettii 'Petchii'_108A PCS.png",
+      "local_cover": "./assets/images/Cryptocoryne beckettii 'Petchii'_108A PCS.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynebeckettii'Petchii'(108APCS)/18807"
     },
     {
@@ -1857,7 +1857,7 @@
         "容易放在水族箱底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/108A YLS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne beckettii 'Petchii'_108A YLS.png",
+      "local_cover": "./assets/images/Cryptocoryne beckettii 'Petchii'_108A YLS.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynebeckettii'Petchii'(108AYLS)/4561"
     },
     {
@@ -1881,7 +1881,7 @@
         "在缸内保持相对低矮"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/108A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne beckettii 'Petchii'_108A.png",
+      "local_cover": "./assets/images/Cryptocoryne beckettii 'Petchii'_108A.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynebeckettii'Petchii'(108A)/4560"
     },
     {
@@ -1905,7 +1905,7 @@
         "需要充足光照和肥料才能长好"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/125 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne crispatula_125 TC.png",
+      "local_cover": "./assets/images/Cryptocoryne crispatula_125 TC.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynecrispatula(125TC)/18756"
     },
     {
@@ -1929,7 +1929,7 @@
         "需要充足光照和肥料才能长好"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/125/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne crispatula_125.png",
+      "local_cover": "./assets/images/Cryptocoryne crispatula_125.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynecrispatula(125)/4567"
     },
     {
@@ -1952,7 +1952,7 @@
         "常以 Rose Maiden 的名字流通"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/126 TC/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne nurii_126 TC.jpg",
+      "local_cover": "./assets/images/Cryptocoryne nurii_126 TC.jpg",
       "detail_path": "/en/plants/plantdetails/Cryptocorynenurii(126TC)/29518"
     },
     {
@@ -1970,12 +1970,12 @@
         "Can develop into a carpet"
       ],
       "descriptions_cn": [
-        "最小型的椒草，高度只有3-6厘米",
+        "最小型的椒草，高度只有3-6 厘米",
         "生长缓慢",
         "可长成草毯"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/106 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne parva_106 TC.png",
+      "local_cover": "./assets/images/Cryptocoryne parva_106 TC.png",
       "detail_path": "/en/plants/plantdetails/Cryptocoryneparva(106TC)/18755"
     },
     {
@@ -1998,7 +1998,7 @@
         "需要良好的光照和养分条件才能长好"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/106/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne parva_106.png",
+      "local_cover": "./assets/images/Cryptocoryne parva_106.png",
       "detail_path": "/en/plants/plantdetails/Cryptocoryneparva(106)/4558"
     },
     {
@@ -2021,7 +2021,7 @@
         "非常适合前景种植"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/105 CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne spiralis 'Red'_105 CLP.png",
+      "local_cover": "./assets/images/Cryptocoryne spiralis 'Red'_105 CLP.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynespiralis'Red'(105CLP)(1)/31157"
     },
     {
@@ -2044,7 +2044,7 @@
         "非常适合前景种植"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/105/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne spiralis 'Red'_105.jpg",
+      "local_cover": "./assets/images/Cryptocoryne spiralis 'Red'_105.jpg",
       "detail_path": "/en/plants/plantdetails/Cryptocorynespiralis'Red'(105)/29772"
     },
     {
@@ -2067,7 +2067,7 @@
         "较高的椒草之一"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/110A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne undulata 'Broad Leaf'_110A.png",
+      "local_cover": "./assets/images/Cryptocoryne undulata 'Broad Leaf'_110A.png",
       "detail_path": "/en/plants/plantdetails/Cryptocoryneundulata'BroadLeaf'(110A)/4566"
     },
     {
@@ -2090,7 +2090,7 @@
         "中等高度的椒草"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/110B TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne undulata 'Broad Leaf'_110B TC.png",
+      "local_cover": "./assets/images/Cryptocoryne undulata 'Broad Leaf'_110B TC.png",
       "detail_path": "/en/plants/plantdetails/Cryptocoryneundulata'BroadLeaf'(110BTC)/19225"
     },
     {
@@ -2114,7 +2114,7 @@
         "耐偏碱性水质"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/120/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne usteriana_120.png",
+      "local_cover": "./assets/images/Cryptocoryne usteriana_120.png",
       "detail_path": "/en/plants/plantdetails/Cryptocoryneusteriana(120)/18405"
     },
     {
@@ -2137,7 +2137,7 @@
         "在缸内阴暗处也能茁壮生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/109 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne wendtii 'Green'_109 TC.png",
+      "local_cover": "./assets/images/Cryptocoryne wendtii 'Green'_109 TC.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynewendtii'Green'(109TC)/19226"
     },
     {
@@ -2160,7 +2160,7 @@
         "在缸内阴暗处也能茁壮生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/109/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne wendtii 'Green'_109.png",
+      "local_cover": "./assets/images/Cryptocoryne wendtii 'Green'_109.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynewendtii'Green'(109)/4562"
     },
     {
@@ -2181,10 +2181,10 @@
       "descriptions_cn": [
         "红褐色、略带压纹的叶片",
         "可在高温环境下生长",
-        "莲座宽15-30厘米"
+        "莲座宽15-30 厘米"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/109D TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne wendtii 'Mi Oya'_109D TC.png",
+      "local_cover": "./assets/images/Cryptocoryne wendtii 'Mi Oya'_109D TC.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynewendtii'MiOya'(109DTC)/19540"
     },
     {
@@ -2207,7 +2207,7 @@
         "能耐受其他水草的遮阴"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/109E XL/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne wendtii 'Tropica'_109E XL.png",
+      "local_cover": "./assets/images/Cryptocoryne wendtii 'Tropica'_109E XL.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynewendtii'Tropica'(109EXL)/4565"
     },
     {
@@ -2230,7 +2230,7 @@
         "能耐受其他水草的遮阴"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/109E/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne wendtii 'Tropica'_109E.png",
+      "local_cover": "./assets/images/Cryptocoryne wendtii 'Tropica'_109E.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynewendtii'Tropica'(109E)/4564"
     },
     {
@@ -2254,7 +2254,7 @@
         "旧名为 Cryptocoryne nevillii"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/107 CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne x willisii_107 CLP.jpg",
+      "local_cover": "./assets/images/Cryptocoryne x willisii_107 CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Cryptocorynexwillisii(107CLP)/30580"
     },
     {
@@ -2278,7 +2278,7 @@
         "旧名为 Cryptocoryne nevillii"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/107 PCS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne x willisii_107 PCS.png",
+      "local_cover": "./assets/images/Cryptocoryne x willisii_107 PCS.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynexwillisii(107PCS)/19618"
     },
     {
@@ -2302,7 +2302,7 @@
         "旧名为 Cryptocoryne nevillii"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/107/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cryptocoryne x willisii_107.png",
+      "local_cover": "./assets/images/Cryptocoryne x willisii_107.png",
       "detail_path": "/en/plants/plantdetails/Cryptocorynexwillisii(107)/4559"
     },
     {
@@ -2325,7 +2325,7 @@
         "在水流中轻轻摇曳"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/133A CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cyperus helferi_133A CLP.jpg",
+      "local_cover": "./assets/images/Cyperus helferi_133A CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Cyperushelferi(133ACLP)/30582"
     },
     {
@@ -2348,7 +2348,7 @@
         "在水流中轻轻摇曳"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/133A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Cyperus helferi_133A.png",
+      "local_cover": "./assets/images/Cyperus helferi_133A.png",
       "detail_path": "/en/plants/plantdetails/Cyperushelferi(133A)/4574"
     },
     {
@@ -2371,7 +2371,7 @@
         "适合较小的水族箱"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/074F/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus 'Aquartica'_074F.png",
+      "local_cover": "./assets/images/Echinodorus 'Aquartica'_074F.png",
       "detail_path": "/en/plants/plantdetails/Echinodorus'Aquartica'(074F)/4526"
     },
     {
@@ -2394,7 +2394,7 @@
         "叶片通常保持在水面下方"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/073D/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus cordifolius 'Fluitans'_073D.png",
+      "local_cover": "./assets/images/Echinodorus cordifolius 'Fluitans'_073D.png",
       "detail_path": "/en/plants/plantdetails/Echinodoruscordifolius'Fluitans'(073D)/4519"
     },
     {
@@ -2418,7 +2418,7 @@
         "旧名为 Echinodorus ’paniculatus’"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/071 BDT/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus grisebachii 'Bleherae'_071 BDT.png",
+      "local_cover": "./assets/images/Echinodorus grisebachii 'Bleherae'_071 BDT.png",
       "detail_path": "/en/plants/plantdetails/Echinodorusgrisebachii'Bleherae'(071BDT)/4513"
     },
     {
@@ -2442,7 +2442,7 @@
         "旧名为 Echinodorus ’paniculatus’"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/071 CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus grisebachii 'Bleherae'_071 CLP.jpg",
+      "local_cover": "./assets/images/Echinodorus grisebachii 'Bleherae'_071 CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Echinodorusgrisebachii'Bleherae'(071CLP)/30573"
     },
     {
@@ -2466,7 +2466,7 @@
         "旧名为 Echinodorus ’paniculatus’"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/071 XL/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus grisebachii 'Bleherae'_071 XL.png",
+      "local_cover": "./assets/images/Echinodorus grisebachii 'Bleherae'_071 XL.png",
       "detail_path": "/en/plants/plantdetails/Echinodorusgrisebachii'Bleherae'(071XL)/21211"
     },
     {
@@ -2490,7 +2490,7 @@
         "旧名为 Echinodorus ’paniculatus’"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/071/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus grisebachii 'Bleherae'_071.png",
+      "local_cover": "./assets/images/Echinodorus grisebachii 'Bleherae'_071.png",
       "detail_path": "/en/plants/plantdetails/Echinodorusgrisebachii'Bleherae'(071)/4512"
     },
     {
@@ -2513,7 +2513,7 @@
         "容易养护"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/071E TC/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus grisebachii 'Tropica'_071E TC.jpg",
+      "local_cover": "./assets/images/Echinodorus grisebachii 'Tropica'_071E TC.jpg",
       "detail_path": "/en/plants/plantdetails/Echinodorusgrisebachii'Tropica'(071ETC)/29741"
     },
     {
@@ -2536,7 +2536,7 @@
         "适合新手的易养水草"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/073F XL/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus 'Ozelot'_073F XL.png",
+      "local_cover": "./assets/images/Echinodorus 'Ozelot'_073F XL.png",
       "detail_path": "/en/plants/plantdetails/Echinodorus'Ozelot'(073FXL)/4521"
     },
     {
@@ -2559,7 +2559,7 @@
         "适合新手的易养水草"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/073F/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus 'Ozelot'_073F.png",
+      "local_cover": "./assets/images/Echinodorus 'Ozelot'_073F.png",
       "detail_path": "/en/plants/plantdetails/Echinodorus'Ozelot'(073F)/4520"
     },
     {
@@ -2581,7 +2581,7 @@
         "新手也能轻松养，养护要求不高"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/073G/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus 'Ozelot Green'_073G.png",
+      "local_cover": "./assets/images/Echinodorus 'Ozelot Green'_073G.png",
       "detail_path": "/en/plants/plantdetails/Echinodorus'OzelotGreen'(073G)/4522"
     },
     {
@@ -2604,7 +2604,7 @@
         "适合新手的易养水草"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/074D/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus 'Red Diamond'_074D.png",
+      "local_cover": "./assets/images/Echinodorus 'Red Diamond'_074D.png",
       "detail_path": "/en/plants/plantdetails/Echinodorus'RedDiamond'(074D)/4525"
     },
     {
@@ -2627,7 +2627,7 @@
         "适合新手，也很适合小型水族箱"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072D CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus 'Reni'_072D CLP.png",
+      "local_cover": "./assets/images/Echinodorus 'Reni'_072D CLP.png",
       "detail_path": "/en/plants/plantdetails/Echinodorus'Reni'(072DCLP)/31142"
     },
     {
@@ -2650,7 +2650,7 @@
         "适合新手，也很适合小型水族箱"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072D PCS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus 'Reni'_072D PCS.png",
+      "local_cover": "./assets/images/Echinodorus 'Reni'_072D PCS.png",
       "detail_path": "/en/plants/plantdetails/Echinodorus'Reni'(072DPCS)/18818"
     },
     {
@@ -2673,7 +2673,7 @@
         "适合新手，也很适合小型水族箱"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072D TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus 'Reni'_072D TC.png",
+      "local_cover": "./assets/images/Echinodorus 'Reni'_072D TC.png",
       "detail_path": "/en/plants/plantdetails/Echinodorus'Reni'(072DTC)/18754"
     },
     {
@@ -2696,7 +2696,7 @@
         "适合新手，也很适合小型水族箱"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072D/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus 'Reni'_072D.png",
+      "local_cover": "./assets/images/Echinodorus 'Reni'_072D.png",
       "detail_path": "/en/plants/plantdetails/Echinodorus'Reni'(072D)/4518"
     },
     {
@@ -2718,7 +2718,7 @@
         "可能会遮住较小的水草"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072B XL/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus 'Rosé'_072B XL.png",
+      "local_cover": "./assets/images/Echinodorus 'Rosé'_072B XL.png",
       "detail_path": "/en/plants/plantdetails/Echinodorus'Rosé'(072BXL)/4517"
     },
     {
@@ -2740,7 +2740,7 @@
         "可能会遮住较小的水草"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072B/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus 'Rosé'_072B.png",
+      "local_cover": "./assets/images/Echinodorus 'Rosé'_072B.png",
       "detail_path": "/en/plants/plantdetails/Echinodorus'Rosé'(072B)/4516"
     },
     {
@@ -2760,10 +2760,10 @@
       "descriptions_cn": [
         "美丽的红绿单株主景草",
         "良好的光照和养分条件会提升色彩表现",
-        "原名为 \"Double Red\""
+        "旧称“Double Red”"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072A CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus x barthii_072A CLP.jpg",
+      "local_cover": "./assets/images/Echinodorus x barthii_072A CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Echinodorusxbarthii(072ACLP)/30583"
     },
     {
@@ -2783,10 +2783,10 @@
       "descriptions_cn": [
         "美丽的红绿单株主景草",
         "良好的光照和养分条件会提升色彩表现",
-        "原名为 \"Double Red\""
+        "旧称“Double Red”"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072A XL/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus x barthii_072A XL.png",
+      "local_cover": "./assets/images/Echinodorus x barthii_072A XL.png",
       "detail_path": "/en/plants/plantdetails/Echinodorusxbarthii(072AXL)/4515"
     },
     {
@@ -2806,10 +2806,10 @@
       "descriptions_cn": [
         "美丽的红绿单株主景草",
         "良好的光照和养分条件会提升色彩表现",
-        "原名为 \"Double Red\""
+        "旧称“Double Red”"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/072A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Echinodorus x barthii_072A.png",
+      "local_cover": "./assets/images/Echinodorus x barthii_072A.png",
       "detail_path": "/en/plants/plantdetails/Echinodorusxbarthii(072A)/4514"
     },
     {
@@ -2834,7 +2834,7 @@
         "生长快，有助于抑制藻类扩散"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/058 BDT/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Egeria densa_058 BDT.png",
+      "local_cover": "./assets/images/Egeria densa_058 BDT.png",
       "detail_path": "/en/plants/plantdetails/Egeriadensa(058BDT)/4506"
     },
     {
@@ -2858,7 +2858,7 @@
         "可修剪到理想高度"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/133 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Eleocharis acicularis_133 TC.png",
+      "local_cover": "./assets/images/Eleocharis acicularis_133 TC.png",
       "detail_path": "/en/plants/plantdetails/Eleocharisacicularis(133TC)/28401"
     },
     {
@@ -2882,7 +2882,7 @@
         "它会继续生长，但叶片间仍能透光"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/132D/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Eleocharis montevidensis_132D.png",
+      "local_cover": "./assets/images/Eleocharis montevidensis_132D.png",
       "detail_path": "/en/plants/plantdetails/Eleocharismontevidensis(132D)/4573"
     },
     {
@@ -2906,7 +2906,7 @@
         "要保持低矮就需要经常修剪"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/132C PCS/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Eleocharis parvula_132C PCS.jpg",
+      "local_cover": "./assets/images/Eleocharis parvula_132C PCS.jpg",
       "detail_path": "/en/plants/plantdetails/Eleocharisparvula(132CPCS)/30198"
     },
     {
@@ -2930,7 +2930,7 @@
         "要保持低矮就需要经常修剪"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/132C/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Eleocharis parvula_132C.png",
+      "local_cover": "./assets/images/Eleocharis parvula_132C.png",
       "detail_path": "/en/plants/plantdetails/Eleocharisparvula(132C)/4572"
     },
     {
@@ -2953,7 +2953,7 @@
         "适合迷你缸和石缝种植"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/132B TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Eleocharis pusilla 'Mini'_132B TC.png",
+      "local_cover": "./assets/images/Eleocharis pusilla 'Mini'_132B TC.png",
       "detail_path": "/en/plants/plantdetails/Eleocharispusilla'Mini'(132BTC)/4571"
     },
     {
@@ -2977,7 +2977,7 @@
         "不适合硬水"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/091 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Eriocaulon cinereum_091 TC.png",
+      "local_cover": "./assets/images/Eriocaulon cinereum_091 TC.png",
       "detail_path": "/en/plants/plantdetails/Eriocauloncinereum(091TC)/19547"
     },
     {
@@ -3000,7 +3000,7 @@
         "容易繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/091A/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Eriocaulon sp. 'Vietnam'_091A.jpg",
+      "local_cover": "./assets/images/Eriocaulon sp. 'Vietnam'_091A.jpg",
       "detail_path": "/en/plants/plantdetails/Eriocaulonsp.'Vietnam'(091A)/29740"
     },
     {
@@ -3024,7 +3024,7 @@
         "一段时间后会自行附着在石材和沉木上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/002F/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Fissidens fontanus_002F.png",
+      "local_cover": "./assets/images/Fissidens fontanus_002F.png",
       "detail_path": "/en/plants/plantdetails/Fissidensfontanus(002F)/4390"
     },
     {
@@ -3043,11 +3043,11 @@
       ],
       "descriptions_cn": [
         "受欢迎、长势快且非常漂亮的草毯植物",
-        "需要强光和添加 CO2 才能长势良好",
+        "需要强光和添加 CO₂ 才能长势良好",
         "生长很快，需要经常修剪"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/045A TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Glossostigma elatinoides_045A TC.png",
+      "local_cover": "./assets/images/Glossostigma elatinoides_045A TC.png",
       "detail_path": "/en/plants/plantdetails/Glossostigmaelatinoides(045ATC)/4470"
     },
     {
@@ -3070,7 +3070,7 @@
         "生长低矮而紧凑"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/042 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Gratiola viscidula_042 TC.png",
+      "local_cover": "./assets/images/Gratiola viscidula_042 TC.png",
       "detail_path": "/en/plants/plantdetails/Gratiolaviscidula(042TC)/18390"
     },
     {
@@ -3093,7 +3093,7 @@
         "旧名为 Echinodorus quadricostatus"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/068 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Helanthium bolivianum 'Quadricostatus'_068 TC.png",
+      "local_cover": "./assets/images/Helanthium bolivianum 'Quadricostatus'_068 TC.png",
       "detail_path": "/en/plants/plantdetails/Helanthiumbolivianum'Quadricostatus'(068TC)/18896"
     },
     {
@@ -3116,7 +3116,7 @@
         "旧名为 Echinodorus quadricostatus"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/068/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Helanthium bolivianum 'Quadricostatus'_068.png",
+      "local_cover": "./assets/images/Helanthium bolivianum 'Quadricostatus'_068.png",
       "detail_path": "/en/plants/plantdetails/Helanthiumbolivianum'Quadricostatus'(068)/4511"
     },
     {
@@ -3139,7 +3139,7 @@
         "会通过匍匐茎迅速蔓延"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/067A TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Helanthium tenellum 'Green'_067A TC.png",
+      "local_cover": "./assets/images/Helanthium tenellum 'Green'_067A TC.png",
       "detail_path": "/en/plants/plantdetails/Helanthiumtenellum'Green'(067ATC)/4757"
     },
     {
@@ -3163,7 +3163,7 @@
         "通过扦插就能轻松繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/096 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Heteranthera zosterifolia_096 TC.png",
+      "local_cover": "./assets/images/Heteranthera zosterifolia_096 TC.png",
       "detail_path": "/en/plants/plantdetails/Heterantherazosterifolia(096TC)/4544"
     },
     {
@@ -3188,7 +3188,7 @@
         "帮助在矮草和高草之间形成自然过渡"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/027 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hottonia palustris_027 TC.png",
+      "local_cover": "./assets/images/Hottonia palustris_027 TC.png",
       "detail_path": "/en/plants/plantdetails/Hottoniapalustris(027TC)/28508"
     },
     {
@@ -3213,7 +3213,7 @@
         "帮助在矮草和高草之间形成自然过渡"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/027/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hottonia palustris_027.png",
+      "local_cover": "./assets/images/Hottonia palustris_027.png",
       "detail_path": "/en/plants/plantdetails/Hottoniapalustris(027)/4443"
     },
     {
@@ -3237,7 +3237,7 @@
         "用手掌压住可获得更好的草毯效果"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/039B TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hydrocotyle tripartita_039B TC.png",
+      "local_cover": "./assets/images/Hydrocotyle tripartita_039B TC.png",
       "detail_path": "/en/plants/plantdetails/Hydrocotyletripartita(039BTC)/18751"
     },
     {
@@ -3261,7 +3261,7 @@
         "用手掌压住可获得更好的草毯效果"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/039B/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hydrocotyle tripartita_039B.png",
+      "local_cover": "./assets/images/Hydrocotyle tripartita_039B.png",
       "detail_path": "/en/plants/plantdetails/Hydrocotyletripartita(039B)/4458"
     },
     {
@@ -3286,7 +3286,7 @@
         "可作为漂浮水草使用"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/039/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hydrocotyle verticillata_039.png",
+      "local_cover": "./assets/images/Hydrocotyle verticillata_039.png",
       "detail_path": "/en/plants/plantdetails/Hydrocotyleverticillata(039)/4457"
     },
     {
@@ -3310,7 +3310,7 @@
         "通过栽种剪下的侧芽即可繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053 BDT/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila corymbosa_053 BDT.png",
+      "local_cover": "./assets/images/Hygrophila corymbosa_053 BDT.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa(053BDT)/4490"
     },
     {
@@ -3333,7 +3333,7 @@
         "可能长出赘生物，需及时去除"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/052D/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila corymbosa 'Compact'_052D.png",
+      "local_cover": "./assets/images/Hygrophila corymbosa 'Compact'_052D.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Compact'(052D)/18774"
     },
     {
@@ -3356,7 +3356,7 @@
         "通过栽种剪下的侧芽即可繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053B CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila corymbosa 'Siamensis 53B'_053B CLP.jpg",
+      "local_cover": "./assets/images/Hygrophila corymbosa 'Siamensis 53B'_053B CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Siamensis53B'(053BCLP)/30572"
     },
     {
@@ -3379,7 +3379,7 @@
         "通过栽种剪下的侧芽即可繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053B MP/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila corymbosa 'Siamensis 53B'_053B MP.png",
+      "local_cover": "./assets/images/Hygrophila corymbosa 'Siamensis 53B'_053B MP.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Siamensis53B'(053BMP)/18813"
     },
     {
@@ -3402,7 +3402,7 @@
         "通过栽种剪下的侧芽即可繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053B PCS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila corymbosa 'Siamensis 53B'_053B PCS.png",
+      "local_cover": "./assets/images/Hygrophila corymbosa 'Siamensis 53B'_053B PCS.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Siamensis53B'(053BPCS)/18803"
     },
     {
@@ -3425,7 +3425,7 @@
         "通过栽种剪下的侧芽即可繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053B/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila corymbosa 'Siamensis 53B'_053B.png",
+      "local_cover": "./assets/images/Hygrophila corymbosa 'Siamensis 53B'_053B.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Siamensis53B'(053B)/4493"
     },
     {
@@ -3449,7 +3449,7 @@
         "可通过扦插轻松繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053A CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila corymbosa 'Stricta'_053A CLP.png",
+      "local_cover": "./assets/images/Hygrophila corymbosa 'Stricta'_053A CLP.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Stricta'(053ACLP)/31140"
     },
     {
@@ -3473,7 +3473,7 @@
         "通过栽种剪下的侧芽即可繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053A XL/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila corymbosa 'Stricta'_053A XL.png",
+      "local_cover": "./assets/images/Hygrophila corymbosa 'Stricta'_053A XL.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Stricta'(053AXL)/4492"
     },
     {
@@ -3497,7 +3497,7 @@
         "可通过扦插轻松繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila corymbosa 'Stricta'_053A.png",
+      "local_cover": "./assets/images/Hygrophila corymbosa 'Stricta'_053A.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilacorymbosa'Stricta'(053A)/4491"
     },
     {
@@ -3520,7 +3520,7 @@
         "通过栽种剪下的侧芽即可繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/052A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila costata_052A.png",
+      "local_cover": "./assets/images/Hygrophila costata_052A.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilacostata(052A)/4489"
     },
     {
@@ -3544,7 +3544,7 @@
         "浅绿色、分裂状的漂亮叶片"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051 BDT/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila difformis_051 BDT.png",
+      "local_cover": "./assets/images/Hygrophila difformis_051 BDT.png",
       "detail_path": "/en/plants/plantdetails/Hygrophiladifformis(051BDT)/4485"
     },
     {
@@ -3568,7 +3568,7 @@
         "浅绿色、分裂状的漂亮叶片"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051 TC/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila difformis_051 TC.png",
+      "local_cover": "./assets/images/Hygrophila difformis_051 TC.png",
       "detail_path": "/en/plants/plantdetails/Hygrophiladifformis(051TC)/19227"
     },
     {
@@ -3591,7 +3591,7 @@
         "生长速度适中"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051B TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila lancea 'Araguaia'_051B TC.png",
+      "local_cover": "./assets/images/Hygrophila lancea 'Araguaia'_051B TC.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilalancea'Araguaia'(051BTC)/4758"
     },
     {
@@ -3614,7 +3614,7 @@
         "易养好打理，新手友好"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051D TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila odora_051D TC.png",
+      "local_cover": "./assets/images/Hygrophila odora_051D TC.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilaodora(051DTC)/30154"
     },
     {
@@ -3637,7 +3637,7 @@
         "易养好打理，新手友好"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051D/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila odora ’Difformis’_051D.png",
+      "local_cover": "./assets/images/Hygrophila odora ’Difformis’_051D.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilaodora’Difformis’(051D)/30704"
     },
     {
@@ -3660,7 +3660,7 @@
         "适合种在底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051A YWS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila pinnatifida & moss_051A YWS.png",
+      "local_cover": "./assets/images/Hygrophila pinnatifida & moss_051A YWS.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilapinnatifidamoss(051AYWS)/4487"
     },
     {
@@ -3685,7 +3685,7 @@
         "掐掉顶芽就能保持低矮紧凑"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051A TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila pinnatifida_051A TC.png",
+      "local_cover": "./assets/images/Hygrophila pinnatifida_051A TC.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilapinnatifida(051ATC)/19228"
     },
     {
@@ -3710,7 +3710,7 @@
         "掐掉顶芽就能保持低矮紧凑"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/051A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila pinnatifida_051A.png",
+      "local_cover": "./assets/images/Hygrophila pinnatifida_051A.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilapinnatifida(051A)/4486"
     },
     {
@@ -3735,7 +3735,7 @@
         "鱼虾的理想躲藏处"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/509 YCS/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila pinnatifida_509 YCS.jpg",
+      "local_cover": "./assets/images/Hygrophila pinnatifida_509 YCS.jpg",
       "detail_path": "/en/plants/plantdetails/Hygrophilapinnatifida(509YCS)/28279"
     },
     {
@@ -3760,7 +3760,7 @@
         "通过栽种剪下的侧芽即可繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/050 CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila polysperma_050 CLP.png",
+      "local_cover": "./assets/images/Hygrophila polysperma_050 CLP.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilapolysperma(050CLP)/31146"
     },
     {
@@ -3785,7 +3785,7 @@
         "通过栽种剪下的侧芽即可繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/050/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila polysperma_050.png",
+      "local_cover": "./assets/images/Hygrophila polysperma_050.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilapolysperma(050)/4483"
     },
     {
@@ -3809,7 +3809,7 @@
         "应去除绿色新芽"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/050B/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila polysperma 'Rosanervig'_050B.png",
+      "local_cover": "./assets/images/Hygrophila polysperma 'Rosanervig'_050B.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilapolysperma'Rosanervig'(050B)/4484"
     },
     {
@@ -3832,7 +3832,7 @@
         "造景中很适合用来拉开层次"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/050A TC/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila polysperma 'White'_050A TC.png",
+      "local_cover": "./assets/images/Hygrophila polysperma 'White'_050A TC.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilapolysperma'White'(050ATC)(1)/31057"
     },
     {
@@ -3855,7 +3855,7 @@
         "养护省心，只需少量打理"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/052B TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Hygrophila serpyllum_052B TC.png",
+      "local_cover": "./assets/images/Hygrophila serpyllum_052B TC.png",
       "detail_path": "/en/plants/plantdetails/Hygrophilaserpyllum(052BTC)/30155"
     },
     {
@@ -3878,7 +3878,7 @@
         "强光下呈红褐色调"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/133F CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Juncus repens_133F CLP.png",
+      "local_cover": "./assets/images/Juncus repens_133F CLP.png",
       "detail_path": "/en/plants/plantdetails/Juncusrepens(133FCLP)/31141"
     },
     {
@@ -3901,7 +3901,7 @@
         "强光下呈红褐色调"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/133F TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Juncus repens_133F TC.png",
+      "local_cover": "./assets/images/Juncus repens_133F TC.png",
       "detail_path": "/en/plants/plantdetails/Juncusrepens(133FTC)/28107"
     },
     {
@@ -3924,7 +3924,7 @@
         "良好光照会增强色彩表现"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/103 CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Lagenandra meeboldii 'Red'_103 CLP.jpg",
+      "local_cover": "./assets/images/Lagenandra meeboldii 'Red'_103 CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Lagenandrameeboldii'Red'(103CLP)/30579"
     },
     {
@@ -3947,7 +3947,7 @@
         "良好光照会增强色彩表现"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/103/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Lagenandra meeboldii 'Red'_103.png",
+      "local_cover": "./assets/images/Lagenandra meeboldii 'Red'_103.png",
       "detail_path": "/en/plants/plantdetails/Lagenandrameeboldii'Red'(103)/4759"
     },
     {
@@ -3971,7 +3971,7 @@
         "在石材和沉木上都容易生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003E TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Leptodictyum riparium_003E TC.png",
+      "local_cover": "./assets/images/Leptodictyum riparium_003E TC.png",
       "detail_path": "/en/plants/plantdetails/Leptodictyumriparium(003ETC)/28671"
     },
     {
@@ -3996,7 +3996,7 @@
         "弱光下也能长得好"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/040 PCS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Lilaeopsis brasiliensis_040 PCS.png",
+      "local_cover": "./assets/images/Lilaeopsis brasiliensis_040 PCS.png",
       "detail_path": "/en/plants/plantdetails/Lilaeopsisbrasiliensis(040PCS)/18808"
     },
     {
@@ -4021,7 +4021,7 @@
         "弱光下也能长得好"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/040 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Lilaeopsis brasiliensis_040 TC.png",
+      "local_cover": "./assets/images/Lilaeopsis brasiliensis_040 TC.png",
       "detail_path": "/en/plants/plantdetails/Lilaeopsisbrasiliensis(040TC)/4460"
     },
     {
@@ -4046,7 +4046,7 @@
         "弱光下也能长得好"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/040/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Lilaeopsis brasiliensis_040.png",
+      "local_cover": "./assets/images/Lilaeopsis brasiliensis_040.png",
       "detail_path": "/en/plants/plantdetails/Lilaeopsisbrasiliensis(040)/4459"
     },
     {
@@ -4071,7 +4071,7 @@
         "能反映水中养分充足"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/063 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Limnobium laevigatum_063 TC.png",
+      "local_cover": "./assets/images/Limnobium laevigatum_063 TC.png",
       "detail_path": "/en/plants/plantdetails/Limnobiumlaevigatum(063TC)/4761"
     },
     {
@@ -4094,7 +4094,7 @@
         "新开缸时很好的辅助草"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/046 TC/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Limnophila aquatica_046 TC.png",
+      "local_cover": "./assets/images/Limnophila aquatica_046 TC.png",
       "detail_path": "/en/plants/plantdetails/Limnophilaaquatica(046TC)/30333"
     },
     {
@@ -4117,7 +4117,7 @@
         "新开缸时很好的辅助草"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/046/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Limnophila aquatica_046.png",
+      "local_cover": "./assets/images/Limnophila aquatica_046.png",
       "detail_path": "/en/plants/plantdetails/Limnophilaaquatica(046)/4471"
     },
     {
@@ -4137,10 +4137,10 @@
       "descriptions_cn": [
         "易养的有茎草，叶背呈紫色",
         "适应不同光照强度",
-        "需要补充 CO2 和强光才能发出浓紫叶色"
+        "需要补充 CO₂ 和强光才能发出浓紫叶色"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/047C/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Limnophila hippuridoides_047C.png",
+      "local_cover": "./assets/images/Limnophila hippuridoides_047C.png",
       "detail_path": "/en/plants/plantdetails/Limnophilahippuridoides(047C)/4474"
     },
     {
@@ -4165,7 +4165,7 @@
         "开缸时很好的辅助植物"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/047 CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Limnophila sessiliflora_047 CLP.jpg",
+      "local_cover": "./assets/images/Limnophila sessiliflora_047 CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Limnophilasessiliflora(047CLP)/30571"
     },
     {
@@ -4190,7 +4190,7 @@
         "开缸时很好的辅助植物"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/047 MP/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Limnophila sessiliflora_047 MP.png",
+      "local_cover": "./assets/images/Limnophila sessiliflora_047 MP.png",
       "detail_path": "/en/plants/plantdetails/Limnophilasessiliflora(047MP)/18812"
     },
     {
@@ -4215,7 +4215,7 @@
         "开缸时很好的辅助植物"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/047 PCS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Limnophila sessiliflora_047 PCS.png",
+      "local_cover": "./assets/images/Limnophila sessiliflora_047 PCS.png",
       "detail_path": "/en/plants/plantdetails/Limnophilasessiliflora(047PCS)/18801"
     },
     {
@@ -4240,7 +4240,7 @@
         "开缸时很好的辅助植物"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/047/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Limnophila sessiliflora_047.png",
+      "local_cover": "./assets/images/Limnophila sessiliflora_047.png",
       "detail_path": "/en/plants/plantdetails/Limnophilasessiliflora(047)/4472"
     },
     {
@@ -4263,7 +4263,7 @@
         "生长浓密茂盛"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/045/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Lindernia rotundifolia_045.png",
+      "local_cover": "./assets/images/Lindernia rotundifolia_045.png",
       "detail_path": "/en/plants/plantdetails/Linderniarotundifolia(045)/4468"
     },
     {
@@ -4286,7 +4286,7 @@
         "可耐低光照"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/081 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Littorella uniflora_081 TC.png",
+      "local_cover": "./assets/images/Littorella uniflora_081 TC.png",
       "detail_path": "/en/plants/plantdetails/Littorellauniflora(081TC)/18269"
     },
     {
@@ -4310,7 +4310,7 @@
         "适合庭院池塘"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053C MP/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Lobelia cardinalis_053C MP.png",
+      "local_cover": "./assets/images/Lobelia cardinalis_053C MP.png",
       "detail_path": "/en/plants/plantdetails/Lobeliacardinalis(053CMP)/18840"
     },
     {
@@ -4334,7 +4334,7 @@
         "适合庭院池塘"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053C PCS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Lobelia cardinalis_053C PCS.png",
+      "local_cover": "./assets/images/Lobelia cardinalis_053C PCS.png",
       "detail_path": "/en/plants/plantdetails/Lobeliacardinalis(053CPCS)/21134"
     },
     {
@@ -4358,7 +4358,7 @@
         "适合庭院池塘"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053C/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Lobelia cardinalis_053C.png",
+      "local_cover": "./assets/images/Lobelia cardinalis_053C.png",
       "detail_path": "/en/plants/plantdetails/Lobeliacardinalis(053C)/4494"
     },
     {
@@ -4378,10 +4378,10 @@
       "descriptions_cn": [
         "绿色漂亮，株型紧凑",
         "在缸内很容易繁殖，对大多数玩家来说都很稳妥",
-        "适应多种水族箱，但更多 CO2、光照和肥料会提升生长速度、紧凑度和色彩表现"
+        "适应多种水族箱，但更多 CO₂、光照和肥料会提升生长速度、紧凑度和色彩表现"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/143 TC/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Lobelia cardinalis 'Mini'_143 TC.jpg",
+      "local_cover": "./assets/images/Lobelia cardinalis 'Mini'_143 TC.jpg",
       "detail_path": "/en/plants/plantdetails/Lobeliacardinalis'Mini'(143TC)/28647"
     },
     {
@@ -4404,7 +4404,7 @@
         "旧名为 Ludwigia perennis"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/035A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Ludwigia glandulosa_035A.png",
+      "local_cover": "./assets/images/Ludwigia glandulosa_035A.png",
       "detail_path": "/en/plants/plantdetails/Ludwigiaglandulosa(035A)/4452"
     },
     {
@@ -4427,7 +4427,7 @@
         "生长快，繁殖也快"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/035D/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Ludwigia palustris 'Green'_035D.png",
+      "local_cover": "./assets/images/Ludwigia palustris 'Green'_035D.png",
       "detail_path": "/en/plants/plantdetails/Ludwigiapalustris'Green'(035D)/29933"
     },
     {
@@ -4450,7 +4450,7 @@
         "剪下的新芽会长成新植株"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/035B CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Ludwigia palustris 'Super Red'_035B CLP.jpg",
+      "local_cover": "./assets/images/Ludwigia palustris 'Super Red'_035B CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Ludwigiapalustris'SuperRed'(035BCLP)/30570"
     },
     {
@@ -4473,7 +4473,7 @@
         "剪下的新芽会长成新植株"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/035B/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Ludwigia palustris 'Super Red'_035B.png",
+      "local_cover": "./assets/images/Ludwigia palustris 'Super Red'_035B.png",
       "detail_path": "/en/plants/plantdetails/Ludwigiapalustris'SuperRed'(035B)/4453"
     },
     {
@@ -4496,7 +4496,7 @@
         "在高光下红色会更浓"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033D/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Ludwigia repens 'Rubin'_033D.png",
+      "local_cover": "./assets/images/Ludwigia repens 'Rubin'_033D.png",
       "detail_path": "/en/plants/plantdetails/Ludwigiarepens'Rubin'(033D)/4450"
     },
     {
@@ -4520,7 +4520,7 @@
         "株型紧凑，易于修剪"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/147 TC/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Lysimachia parvifolia ‘Red’_147 TC.jpg",
+      "local_cover": "./assets/images/Lysimachia parvifolia ‘Red’_147 TC.jpg",
       "detail_path": "/en/plants/plantdetails/Lysimachiaparvifolia‘Red’(147TC)/30944"
     },
     {
@@ -4543,7 +4543,7 @@
         "大量根系使它在底床中扎根牢固"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/010 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Marsilea hirsuta_010 TC.png",
+      "local_cover": "./assets/images/Marsilea hirsuta_010 TC.png",
       "detail_path": "/en/plants/plantdetails/Marsileahirsuta(010TC)/4428"
     },
     {
@@ -4568,7 +4568,7 @@
         "耐高温"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/010B TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Marsilea minuta_010B TC.png",
+      "local_cover": "./assets/images/Marsilea minuta_010B TC.png",
       "detail_path": "/en/plants/plantdetails/Marsileaminuta(010BTC)/4762"
     },
     {
@@ -4591,7 +4591,7 @@
         "通过栽种剪下的侧芽即可繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/140 BDT/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Mayaca fluviatilis_140 BDT.png",
+      "local_cover": "./assets/images/Mayaca fluviatilis_140 BDT.png",
       "detail_path": "/en/plants/plantdetails/Mayacafluviatilis(140BDT)/19792"
     },
     {
@@ -4614,7 +4614,7 @@
         "需要定期修剪才能保持健康"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/048B/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Micranthemum callitrichoides ´Cuba´_048B.png",
+      "local_cover": "./assets/images/Micranthemum callitrichoides ´Cuba´_048B.png",
       "detail_path": "/en/plants/plantdetails/Micranthemumcallitrichoides´Cuba´(048B)/4477"
     },
     {
@@ -4637,7 +4637,7 @@
         "需要定期修剪才能保持健康"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/048B TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Micranthemum callitrichoides 'Cuba'_048B TC.png",
+      "local_cover": "./assets/images/Micranthemum callitrichoides 'Cuba'_048B TC.png",
       "detail_path": "/en/plants/plantdetails/Micranthemumcallitrichoides'Cuba'(048BTC)/4478"
     },
     {
@@ -4660,7 +4660,7 @@
         "独特的叶形"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/048A TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Micranthemum glomeratum_048A TC.png",
+      "local_cover": "./assets/images/Micranthemum glomeratum_048A TC.png",
       "detail_path": "/en/plants/plantdetails/Micranthemumglomeratum(048ATC)/22879"
     },
     {
@@ -4683,7 +4683,7 @@
         "也可用于雨林缸"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/048A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Micranthemum glomeratum_048A.png",
+      "local_cover": "./assets/images/Micranthemum glomeratum_048A.png",
       "detail_path": "/en/plants/plantdetails/Micranthemumglomeratum(048A)/4476"
     },
     {
@@ -4707,7 +4707,7 @@
         "需要定期修剪才能保持低矮紧凑"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/025 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Micranthemum tweediei 'Monte Carlo'_025 TC.png",
+      "local_cover": "./assets/images/Micranthemum tweediei 'Monte Carlo'_025 TC.png",
       "detail_path": "/en/plants/plantdetails/Micranthemumtweediei'MonteCarlo'(025TC)/4442"
     },
     {
@@ -4731,7 +4731,7 @@
         "需要定期修剪才能保持低矮紧凑"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/025/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Micranthemum tweediei 'Monte Carlo'_025.png",
+      "local_cover": "./assets/images/Micranthemum tweediei 'Monte Carlo'_025.png",
       "detail_path": "/en/plants/plantdetails/Micranthemumtweediei'MonteCarlo'(025)/22880"
     },
     {
@@ -4754,7 +4754,7 @@
         "很适合小型水族箱"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/048 ST/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Micranthemum umbrosum_048 ST.png",
+      "local_cover": "./assets/images/Micranthemum umbrosum_048 ST.png",
       "detail_path": "/en/plants/plantdetails/Micranthemumumbrosum(048ST)/19793"
     },
     {
@@ -4777,7 +4777,7 @@
         "很适合小型水族箱"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/048/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Micranthemum umbrosum_048.png",
+      "local_cover": "./assets/images/Micranthemum umbrosum_048.png",
       "detail_path": "/en/plants/plantdetails/Micranthemumumbrosum(048)/4475"
     },
     {
@@ -4800,7 +4800,7 @@
         "适合种在底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008N YWX/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum - Anubias 'Duet'_008N YWX.png",
+      "local_cover": "./assets/images/Microsorum - Anubias 'Duet'_008N YWX.png",
       "detail_path": "/en/plants/plantdetails/Microsorum-Anubias'Duet'(008NYWX)/4427"
     },
     {
@@ -4824,7 +4824,7 @@
         "也叫铁皇冠"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008 CLP/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus_008 CLP.jpg",
+      "local_cover": "./assets/images/Microsorum pteropus_008 CLP.jpg",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus(008CLP)/30567"
     },
     {
@@ -4848,7 +4848,7 @@
         "也叫铁皇冠"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008 XL/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus_008 XL.png",
+      "local_cover": "./assets/images/Microsorum pteropus_008 XL.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus(008XL)/4409"
     },
     {
@@ -4872,7 +4872,7 @@
         "容易放在水族箱底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008 YLS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus_008 YLS.png",
+      "local_cover": "./assets/images/Microsorum pteropus_008 YLS.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus(008YLS)/4410"
     },
     {
@@ -4896,7 +4896,7 @@
         "适合种在底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008 YWS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus_008 YWS.png",
+      "local_cover": "./assets/images/Microsorum pteropus_008 YWS.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus(008YWS)/4412"
     },
     {
@@ -4920,7 +4920,7 @@
         "适合种在底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008 YWX/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus_008 YWX.png",
+      "local_cover": "./assets/images/Microsorum pteropus_008 YWX.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus(008YWX)/4413"
     },
     {
@@ -4944,7 +4944,7 @@
         "也叫铁皇冠"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus_008.png",
+      "local_cover": "./assets/images/Microsorum pteropus_008.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus(008)/4408"
     },
     {
@@ -4967,7 +4967,7 @@
         "自然美感，优雅紧凑的点缀"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/501/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus nano wood_501.png",
+      "local_cover": "./assets/images/Microsorum pteropus nano wood_501.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropusnanowood(501)/30255"
     },
     {
@@ -4990,7 +4990,7 @@
         "叶片比普通铁皇冠更小、更窄"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008A PCS/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Narrow'_008A PCS.jpg",
+      "local_cover": "./assets/images/Microsorum pteropus 'Narrow'_008A PCS.jpg",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Narrow'(008APCS)/18821"
     },
     {
@@ -5013,7 +5013,7 @@
         "叶片比普通铁皇冠更小、更窄"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008A TC/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Narrow'_008A TC.png",
+      "local_cover": "./assets/images/Microsorum pteropus 'Narrow'_008A TC.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Narrow'(008ATC)/31248"
     },
     {
@@ -5036,7 +5036,7 @@
         "适合种在底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008A YWS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Narrow'_008A YWS.png",
+      "local_cover": "./assets/images/Microsorum pteropus 'Narrow'_008A YWS.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Narrow'(008AYWS)/4415"
     },
     {
@@ -5059,7 +5059,7 @@
         "可轻松固定在缸玻璃上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008A ZWS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Narrow'_008A ZWS.png",
+      "local_cover": "./assets/images/Microsorum pteropus 'Narrow'_008A ZWS.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Narrow'(008AZWS)/4417"
     },
     {
@@ -5082,7 +5082,7 @@
         "叶片比普通铁皇冠更小、更窄"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Narrow'_008A.png",
+      "local_cover": "./assets/images/Microsorum pteropus 'Narrow'_008A.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Narrow'(008A)/4414"
     },
     {
@@ -5105,7 +5105,7 @@
         "适合种在底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008G YWS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Trident'_008G YWS.png",
+      "local_cover": "./assets/images/Microsorum pteropus 'Trident'_008G YWS.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Trident'(008GYWS)/4425"
     },
     {
@@ -5128,7 +5128,7 @@
         "可轻松固定在缸玻璃上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008G ZWM/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Trident'_008G ZWM.jpg",
+      "local_cover": "./assets/images/Microsorum pteropus 'Trident'_008G ZWM.jpg",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Trident'(008GZWM)/4426"
     },
     {
@@ -5151,7 +5151,7 @@
         "可轻松固定在缸玻璃上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008G ZWS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Trident'_008G ZWS.png",
+      "local_cover": "./assets/images/Microsorum pteropus 'Trident'_008G ZWS.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Trident'(008GZWS)/19275"
     },
     {
@@ -5174,7 +5174,7 @@
         "比其他铁皇冠更偏横向生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008G/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Trident'_008G.png",
+      "local_cover": "./assets/images/Microsorum pteropus 'Trident'_008G.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Trident'(008G)/4424"
     },
     {
@@ -5197,7 +5197,7 @@
         "不会被草食鱼吃掉"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008B TC/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Windeløv'_008B TC.png",
+      "local_cover": "./assets/images/Microsorum pteropus 'Windeløv'_008B TC.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Windeløv'(008BTC)/31249"
     },
     {
@@ -5220,7 +5220,7 @@
         "适合种在底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008B YWS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Windeløv'_008B YWS.png",
+      "local_cover": "./assets/images/Microsorum pteropus 'Windeløv'_008B YWS.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Windeløv'(008BYWS)/4420"
     },
     {
@@ -5243,7 +5243,7 @@
         "适合种在底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008B YWX/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Windeløv'_008B YWX.png",
+      "local_cover": "./assets/images/Microsorum pteropus 'Windeløv'_008B YWX.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Windeløv'(008BYWX)/4421"
     },
     {
@@ -5266,7 +5266,7 @@
         "可轻松固定在缸玻璃上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008B ZWM/2.JPG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Windeløv'_008B ZWM.jpg",
+      "local_cover": "./assets/images/Microsorum pteropus 'Windeløv'_008B ZWM.jpg",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Windeløv'(008BZWM)/4422"
     },
     {
@@ -5289,7 +5289,7 @@
         "可轻松固定在缸玻璃上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008B ZWS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Windeløv'_008B ZWS.png",
+      "local_cover": "./assets/images/Microsorum pteropus 'Windeløv'_008B ZWS.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Windeløv'(008BZWS)/4423"
     },
     {
@@ -5312,7 +5312,7 @@
         "不会被草食鱼吃掉"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/008B/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum pteropus 'Windeløv'_008B.png",
+      "local_cover": "./assets/images/Microsorum pteropus 'Windeløv'_008B.png",
       "detail_path": "/en/plants/plantdetails/Microsorumpteropus'Windeløv'(008B)/4418"
     },
     {
@@ -5335,7 +5335,7 @@
         "可轻松固定在缸玻璃上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/500 OWX/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Microsorum sp._500 OWX.png",
+      "local_cover": "./assets/images/Microsorum sp._500 OWX.png",
       "detail_path": "/en/plants/plantdetails/Microsorumsp.(500OWX)/4582"
     },
     {
@@ -5359,7 +5359,7 @@
         "旧名 Pellia"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/002C TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Monosolenium tenerum_002C TC.png",
+      "local_cover": "./assets/images/Monosolenium tenerum_002C TC.png",
       "detail_path": "/en/plants/plantdetails/Monosoleniumtenerum(002CTC)/18747"
     },
     {
@@ -5383,7 +5383,7 @@
         "把剪下的新芽重新种回去，就能保持漂亮的群生"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/135/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Murdannia keisak_135.png",
+      "local_cover": "./assets/images/Murdannia keisak_135.png",
       "detail_path": "/en/plants/plantdetails/Murdanniakeisak(135)/4763"
     },
     {
@@ -5406,7 +5406,7 @@
         "开缸时非常好的辅助植物"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/037 CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Myriophyllum mattogrossense_037 CLP.png",
+      "local_cover": "./assets/images/Myriophyllum mattogrossense_037 CLP.png",
       "detail_path": "/en/plants/plantdetails/Myriophyllummattogrossense(037CLP)/31139"
     },
     {
@@ -5429,7 +5429,7 @@
         "开缸时非常好的辅助植物"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/037/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Myriophyllum mattogrossense_037.png",
+      "local_cover": "./assets/images/Myriophyllum mattogrossense_037.png",
       "detail_path": "/en/plants/plantdetails/Myriophyllummattogrossense(037)/4454"
     },
     {
@@ -5452,7 +5452,7 @@
         "适合迷你缸"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/037E TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Myriophyllum sp. 'Guyana'_037E TC.png",
+      "local_cover": "./assets/images/Myriophyllum sp. 'Guyana'_037E TC.png",
       "detail_path": "/en/plants/plantdetails/Myriophyllumsp.'Guyana'(037ETC)/19549"
     },
     {
@@ -5476,7 +5476,7 @@
         "长得浓密，为鱼苗和虾提供绝佳藏身处"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/146 TC/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Najas guadalupensis 'Guppy Grass'_146 TC.png",
+      "local_cover": "./assets/images/Najas guadalupensis 'Guppy Grass'_146 TC.png",
       "detail_path": "/en/plants/plantdetails/Najasguadalupensis'GuppyGrass'(146TC)(1)/30786"
     },
     {
@@ -5499,7 +5499,7 @@
         "球茎需栽入底床，芽点露在底床以上"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/019/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Nymphaea lotus_019.png",
+      "local_cover": "./assets/images/Nymphaea lotus_019.png",
       "detail_path": "/en/plants/plantdetails/Nymphaealotus(019)/4432"
     },
     {
@@ -5523,7 +5523,7 @@
         "浓烈明亮的绿色"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/041B TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Nymphoides hydrophylla 'Taiwan'_041B TC.png",
+      "local_cover": "./assets/images/Nymphoides hydrophylla 'Taiwan'_041B TC.png",
       "detail_path": "/en/plants/plantdetails/Nymphoideshydrophylla'Taiwan'(041BTC)/4463"
     },
     {
@@ -5547,7 +5547,7 @@
         "浓烈明亮的绿色"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/041B/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Nymphoides hydrophylla 'Taiwan'_041B.png",
+      "local_cover": "./assets/images/Nymphoides hydrophylla 'Taiwan'_041B.png",
       "detail_path": "/en/plants/plantdetails/Nymphoideshydrophylla'Taiwan'(041B)/4462"
     },
     {
@@ -5570,7 +5570,7 @@
         "条件合适时会开花"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/028 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Phyllanthus fluitans_028 TC.png",
+      "local_cover": "./assets/images/Phyllanthus fluitans_028 TC.png",
       "detail_path": "/en/plants/plantdetails/Phyllanthusfluitans(028TC)/22848"
     },
     {
@@ -5593,7 +5593,7 @@
         "营造茂密自然的观感"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/410 TC/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Plagiomnium sp. 'Thyme Moss'_410 TC.png",
+      "local_cover": "./assets/images/Plagiomnium sp. 'Thyme Moss'_410 TC.png",
       "detail_path": "/en/plants/plantdetails/Plagiomniumsp.'ThymeMoss'(410TC)(1)/31325"
     },
     {
@@ -5616,7 +5616,7 @@
         "易于修剪和养护"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053F TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Pogostemon deccanensis_053F TC.png",
+      "local_cover": "./assets/images/Pogostemon deccanensis_053F TC.png",
       "detail_path": "/en/plants/plantdetails/Pogostemondeccanensis(053FTC)/4497"
     },
     {
@@ -5639,7 +5639,7 @@
         "易于修剪和养护"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053F/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Pogostemon deccanensis_053F.png",
+      "local_cover": "./assets/images/Pogostemon deccanensis_053F.png",
       "detail_path": "/en/plants/plantdetails/Pogostemondeccanensis(053F)/4496"
     },
     {
@@ -5662,7 +5662,7 @@
         "也叫 'Downoi'（小星星）"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053H TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Pogostemon helferi_053H TC.png",
+      "local_cover": "./assets/images/Pogostemon helferi_053H TC.png",
       "detail_path": "/en/plants/plantdetails/Pogostemonhelferi(053HTC)/19680"
     },
     {
@@ -5685,7 +5685,7 @@
         "容易放在水族箱底层"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053H YLS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Pogostemon helferi_053H YLS.png",
+      "local_cover": "./assets/images/Pogostemon helferi_053H YLS.png",
       "detail_path": "/en/plants/plantdetails/Pogostemonhelferi(053HYLS)/4500"
     },
     {
@@ -5708,7 +5708,7 @@
         "也叫 'Downoi'（小星星）"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053H/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Pogostemon helferi_053H.png",
+      "local_cover": "./assets/images/Pogostemon helferi_053H.png",
       "detail_path": "/en/plants/plantdetails/Pogostemonhelferi(053H)/4499"
     },
     {
@@ -5731,7 +5731,7 @@
         "大型水族箱和迷你方缸都适用"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053I CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Pogostemon quadrifolius_053I CLP.png",
+      "local_cover": "./assets/images/Pogostemon quadrifolius_053I CLP.png",
       "detail_path": "/en/plants/plantdetails/Pogostemonquadrifolius(053ICLP)/31147"
     },
     {
@@ -5755,7 +5755,7 @@
         "可能需要一段时间才能进入最佳生长状态"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053G/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Pogostemon stellatus_053G.png",
+      "local_cover": "./assets/images/Pogostemon stellatus_053G.png",
       "detail_path": "/en/plants/plantdetails/Pogostemonstellatus(053G)/4498"
     },
     {
@@ -5778,7 +5778,7 @@
         "可通过水下扦插轻松繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/037C TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Proserpinaca palustris 'Cuba'_037C TC.png",
+      "local_cover": "./assets/images/Proserpinaca palustris 'Cuba'_037C TC.png",
       "detail_path": "/en/plants/plantdetails/Proserpinacapalustris'Cuba'(037CTC)/4766"
     },
     {
@@ -5802,7 +5802,7 @@
         "低矮紧凑，能轻松铺满底床"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/022C TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Ranunculus inundatus_022C TC.png",
+      "local_cover": "./assets/images/Ranunculus inundatus_022C TC.png",
       "detail_path": "/en/plants/plantdetails/Ranunculusinundatus(022CTC)/18225"
     },
     {
@@ -5825,7 +5825,7 @@
         "位置灵活，非常适合搭配造景素材"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003D TC/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Riccardia chamedryfolia_003D TC.png",
+      "local_cover": "./assets/images/Riccardia chamedryfolia_003D TC.png",
       "detail_path": "/en/plants/plantdetails/Riccardiachamedryfolia(003DTC)/30334"
     },
     {
@@ -5848,7 +5848,7 @@
         "叶尖常会形成小巧装饰性的氧气泡"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/001 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Riccia fluitans_001 TC.png",
+      "local_cover": "./assets/images/Riccia fluitans_001 TC.png",
       "detail_path": "/en/plants/plantdetails/Ricciafluitans(001TC)/4386"
     },
     {
@@ -5872,7 +5872,7 @@
         "旧称 Ammania ‘Bonsai’"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033E TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Rotala indica 'Bonsai'_033E TC.png",
+      "local_cover": "./assets/images/Rotala indica 'Bonsai'_033E TC.png",
       "detail_path": "/en/plants/plantdetails/Rotalaindica'Bonsai'(033ETC)/4451"
     },
     {
@@ -5894,7 +5894,7 @@
         "将扦插苗重新栽入底床可形成浓密丛生"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/032 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Rotala macrandra_032 TC.png",
+      "local_cover": "./assets/images/Rotala macrandra_032 TC.png",
       "detail_path": "/en/plants/plantdetails/Rotalamacrandra(032TC)/4445"
     },
     {
@@ -5918,7 +5918,7 @@
         "把剪下的枝条重新种到底层即可轻松繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033 CLP/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Rotala rotundifolia_033 CLP.png",
+      "local_cover": "./assets/images/Rotala rotundifolia_033 CLP.png",
       "detail_path": "/en/plants/plantdetails/Rotalarotundifolia(033CLP)/31145"
     },
     {
@@ -5942,7 +5942,7 @@
         "把剪下的枝条重新种到底层即可轻松繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033 MP/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Rotala rotundifolia_033 MP.png",
+      "local_cover": "./assets/images/Rotala rotundifolia_033 MP.png",
       "detail_path": "/en/plants/plantdetails/Rotalarotundifolia(033MP)/18810"
     },
     {
@@ -5966,7 +5966,7 @@
         "把剪下的枝条重新种到底层即可轻松繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033 PCS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Rotala rotundifolia_033 PCS.png",
+      "local_cover": "./assets/images/Rotala rotundifolia_033 PCS.png",
       "detail_path": "/en/plants/plantdetails/Rotalarotundifolia(033PCS)/18799"
     },
     {
@@ -5990,7 +5990,7 @@
         "把剪下的枝条重新种到底层即可轻松繁殖"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Rotala rotundifolia_033.png",
+      "local_cover": "./assets/images/Rotala rotundifolia_033.png",
       "detail_path": "/en/plants/plantdetails/Rotalarotundifolia(033)/4447"
     },
     {
@@ -6014,7 +6014,7 @@
         "直立并带弯垂感的生长姿态"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/032D TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Rotala rotundifolia 'Blood Red'_032D TC.png",
+      "local_cover": "./assets/images/Rotala rotundifolia 'Blood Red'_032D TC.png",
       "detail_path": "/en/plants/plantdetails/Rotalarotundifolia'BloodRed'(032DTC)/30047"
     },
     {
@@ -6038,7 +6038,7 @@
         "在强光下仍能保持鲜绿"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/033A TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Rotala rotundifolia 'Green'_033A TC.png",
+      "local_cover": "./assets/images/Rotala rotundifolia 'Green'_033A TC.png",
       "detail_path": "/en/plants/plantdetails/Rotalarotundifolia'Green'(033ATC)/22545"
     },
     {
@@ -6062,7 +6062,7 @@
         "修剪后易于分枝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/032C TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Rotala rotundifolia 'H'ra'_032C TC.png",
+      "local_cover": "./assets/images/Rotala rotundifolia 'H'ra'_032C TC.png",
       "detail_path": "/en/plants/plantdetails/Rotalarotundifolia'H'ra'(032CTC)/19550"
     },
     {
@@ -6085,7 +6085,7 @@
         "定期修剪后可保持低矮紧凑"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/032A TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Rotala wallichii_032A TC.png",
+      "local_cover": "./assets/images/Rotala wallichii_032A TC.png",
       "detail_path": "/en/plants/plantdetails/Rotalawallichii(032ATC)/18748"
     },
     {
@@ -6110,7 +6110,7 @@
         "株高会因环境条件差异很大"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/079 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Sagittaria subulata_079 TC.png",
+      "local_cover": "./assets/images/Sagittaria subulata_079 TC.png",
       "detail_path": "/en/plants/plantdetails/Sagittariasubulata(079TC)/18270"
     },
     {
@@ -6135,7 +6135,7 @@
         "株高会因环境条件差异很大"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/079/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Sagittaria subulata_079.png",
+      "local_cover": "./assets/images/Sagittaria subulata_079.png",
       "detail_path": "/en/plants/plantdetails/Sagittariasubulata(079)/4530"
     },
     {
@@ -6158,7 +6158,7 @@
         "优雅细长的叶片"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/144 TC/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Sagittaria subulata 'Needle Leaf'_144 TC.png",
+      "local_cover": "./assets/images/Sagittaria subulata 'Needle Leaf'_144 TC.png",
       "detail_path": "/en/plants/plantdetails/Sagittariasubulata'NeedleLeaf'(144TC)/30440"
     },
     {
@@ -6181,7 +6181,7 @@
         "原名 Salvinia natans"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/011 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Salvinia minima_011 TC.png",
+      "local_cover": "./assets/images/Salvinia minima_011 TC.png",
       "detail_path": "/en/plants/plantdetails/Salviniaminima(011TC)/4767"
     },
     {
@@ -6204,7 +6204,7 @@
         "好养，养护要求不高"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/102 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Schismatoglottis prietoi_102 TC.png",
+      "local_cover": "./assets/images/Schismatoglottis prietoi_102 TC.png",
       "detail_path": "/en/plants/plantdetails/Schismatoglottisprietoi(102TC)/29519"
     },
     {
@@ -6228,7 +6228,7 @@
         "易于修剪和养护"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/406 TC/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Selaginella uncinata_406 TC.png",
+      "local_cover": "./assets/images/Selaginella uncinata_406 TC.png",
       "detail_path": "/en/plants/plantdetails/Selaginellauncinata(406TC)(1)/31324"
     },
     {
@@ -6251,7 +6251,7 @@
         "因叶形得名“橡叶草”"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/053E/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Shinnersia rivularis 'Weiss-Grün'_053E.png",
+      "local_cover": "./assets/images/Shinnersia rivularis 'Weiss-Grün'_053E.png",
       "detail_path": "/en/plants/plantdetails/Shinnersiarivularis'Weiss-Grün'(053E)/4495"
     },
     {
@@ -6274,7 +6274,7 @@
         "深绿色"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/002 TC/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Solenostoma tetragonum 'Pearl Moss'_002 TC.png",
+      "local_cover": "./assets/images/Solenostoma tetragonum 'Pearl Moss'_002 TC.png",
       "detail_path": "/en/plants/plantdetails/Solenostomatetragonum'PearlMoss'(002TC)/31163"
     },
     {
@@ -6298,7 +6298,7 @@
         "改善水质，高效吸收多余养分"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/131 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Spirodela polyrrhiza_131 TC.png",
+      "local_cover": "./assets/images/Spirodela polyrrhiza_131 TC.png",
       "detail_path": "/en/plants/plantdetails/Spirodelapolyrrhiza(131TC)/30048"
     },
     {
@@ -6321,7 +6321,7 @@
         "光照条件好时会保持水平生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/049G PCS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Staurogyne repens_049G PCS.png",
+      "local_cover": "./assets/images/Staurogyne repens_049G PCS.png",
       "detail_path": "/en/plants/plantdetails/Staurogynerepens(049GPCS)/19617"
     },
     {
@@ -6344,7 +6344,7 @@
         "光照条件好时会保持水平生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/049G TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Staurogyne repens_049G TC.png",
+      "local_cover": "./assets/images/Staurogyne repens_049G TC.png",
       "detail_path": "/en/plants/plantdetails/Staurogynerepens(049GTC)/4482"
     },
     {
@@ -6367,7 +6367,7 @@
         "光照条件好时会保持水平生长"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/049G/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Staurogyne repens_049G.png",
+      "local_cover": "./assets/images/Staurogyne repens_049G.png",
       "detail_path": "/en/plants/plantdetails/Staurogynerepens(049G)/4481"
     },
     {
@@ -6391,7 +6391,7 @@
         "常用名：迷你台湾莫丝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003C TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Taxiphyllum alternans 'Taiwan Moss'_003C TC.png",
+      "local_cover": "./assets/images/Taxiphyllum alternans 'Taiwan Moss'_003C TC.png",
       "detail_path": "/en/plants/plantdetails/Taxiphyllumalternans'TaiwanMoss'(003CTC)/19551"
     },
     {
@@ -6414,7 +6414,7 @@
         "俗称爪哇莫丝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003 POR/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Taxiphyllum barbieri 'Bogor Moss'_003 POR.png",
+      "local_cover": "./assets/images/Taxiphyllum barbieri 'Bogor Moss'_003 POR.png",
       "detail_path": "/en/plants/plantdetails/Taxiphyllumbarbieri'BogorMoss'(003POR)/4391"
     },
     {
@@ -6437,7 +6437,7 @@
         "俗称爪哇莫丝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003 TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Taxiphyllum barbieri 'Bogor Moss'_003 TC.png",
+      "local_cover": "./assets/images/Taxiphyllum barbieri 'Bogor Moss'_003 TC.png",
       "detail_path": "/en/plants/plantdetails/Taxiphyllumbarbieri'BogorMoss'(003TC)/4393"
     },
     {
@@ -6460,7 +6460,7 @@
         "俗称爪哇莫丝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003 YLS/2.PNG&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Taxiphyllum barbieri 'Bogor Moss'_003 YLS.png",
+      "local_cover": "./assets/images/Taxiphyllum barbieri 'Bogor Moss'_003 YLS.png",
       "detail_path": "/en/plants/plantdetails/Taxiphyllumbarbieri'BogorMoss'(003YLS)/4394"
     },
     {
@@ -6483,7 +6483,7 @@
         "常用名：火焰莫丝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003H TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Taxiphyllum sp. ’Flame Moss’_003H TC.png",
+      "local_cover": "./assets/images/Taxiphyllum sp. ’Flame Moss’_003H TC.png",
       "detail_path": "/en/plants/plantdetails/Taxiphyllumsp.’FlameMoss’(003HTC)/4403"
     },
     {
@@ -6504,10 +6504,10 @@
       "descriptions_cn": [
         "耐养且紧凑的苔藓",
         "适合低光环境",
-        "常用名：尖叶莫丝（Spiky Moss）"
+        "常用名：松茸莫丝／尖叶莫丝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003G POR/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Taxiphyllum sp. 'Spiky Moss'_003G POR.png",
+      "local_cover": "./assets/images/Taxiphyllum sp. 'Spiky Moss'_003G POR.png",
       "detail_path": "/en/plants/plantdetails/Taxiphyllumsp.'SpikyMoss'(003GPOR)/4402"
     },
     {
@@ -6528,10 +6528,10 @@
       "descriptions_cn": [
         "耐养且紧凑的苔藓",
         "适合低光环境",
-        "常用名：尖叶莫丝（Spiky Moss）"
+        "常用名：松茸莫丝／尖叶莫丝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003G TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Taxiphyllum sp. 'Spiky Moss'_003G TC.png",
+      "local_cover": "./assets/images/Taxiphyllum sp. 'Spiky Moss'_003G TC.png",
       "detail_path": "/en/plants/plantdetails/Taxiphyllumsp.'SpikyMoss'(003GTC)/18271"
     },
     {
@@ -6555,7 +6555,7 @@
         "漂亮的绿色草坪效果"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/049B TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Utricularia graminifolia_049B TC.png",
+      "local_cover": "./assets/images/Utricularia graminifolia_049B TC.png",
       "detail_path": "/en/plants/plantdetails/Utriculariagraminifolia(049BTC)/4480"
     },
     {
@@ -6579,7 +6579,7 @@
         "会通过匍匐茎长出许多新植株"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/055 BDT/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Vallisneria americana 'Natans'_055 BDT.png",
+      "local_cover": "./assets/images/Vallisneria americana 'Natans'_055 BDT.png",
       "detail_path": "/en/plants/plantdetails/Vallisneriaamericana'Natans'(055BDT)/4502"
     },
     {
@@ -6602,7 +6602,7 @@
         "通常不会被草食性鱼啃食"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/054/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Vallisneria 'Gigantea'_054.png",
+      "local_cover": "./assets/images/Vallisneria 'Gigantea'_054.png",
       "detail_path": "/en/plants/plantdetails/Vallisneria'Gigantea'(054)/4501"
     },
     {
@@ -6625,7 +6625,7 @@
         "可通过匍匐茎繁殖出多株新植株"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/055A/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Vallisneria spiralis 'Tiger'_055A.png",
+      "local_cover": "./assets/images/Vallisneria spiralis 'Tiger'_055A.png",
       "detail_path": "/en/plants/plantdetails/Vallisneriaspiralis'Tiger'(055A)/4503"
     },
     {
@@ -6649,7 +6649,7 @@
         "俗称垂泪莫丝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003B POR/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Vesicularia ferriei 'Weeping Moss'_003B POR.png",
+      "local_cover": "./assets/images/Vesicularia ferriei 'Weeping Moss'_003B POR.png",
       "detail_path": "/en/plants/plantdetails/Vesiculariaferriei'WeepingMoss'(003BPOR)/4398"
     },
     {
@@ -6673,7 +6673,7 @@
         "俗称垂泪莫丝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003B TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Vesicularia ferriei 'Weeping Moss'_003B TC.png",
+      "local_cover": "./assets/images/Vesicularia ferriei 'Weeping Moss'_003B TC.png",
       "detail_path": "/en/plants/plantdetails/Vesiculariaferriei'WeepingMoss'(003BTC)/4399"
     },
     {
@@ -6697,7 +6697,7 @@
         "俗称圣诞莫丝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003A POR/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Vesicularia montagnei 'Christmas Moss'_003A POR.png",
+      "local_cover": "./assets/images/Vesicularia montagnei 'Christmas Moss'_003A POR.png",
       "detail_path": "/en/plants/plantdetails/Vesiculariamontagnei'ChristmasMoss'(003APOR)/4395"
     },
     {
@@ -6721,7 +6721,7 @@
         "俗称圣诞莫丝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003A TC/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Vesicularia montagnei 'Christmas Moss'_003A TC.png",
+      "local_cover": "./assets/images/Vesicularia montagnei 'Christmas Moss'_003A TC.png",
       "detail_path": "/en/plants/plantdetails/Vesiculariamontagnei'ChristmasMoss'(003ATC)/4396"
     },
     {
@@ -6745,7 +6745,7 @@
         "俗称圣诞莫丝"
       ],
       "cover": "https://tropica.com/imagegen.ashx?width=200&image=/Plants/003A YWS/2.png&crop=resize&class=product",
-      "local_cover": "formatted/assets/images/Vesicularia montagnei 'Christmas Moss'_003A YWS.png",
+      "local_cover": "./assets/images/Vesicularia montagnei 'Christmas Moss'_003A YWS.png",
       "detail_path": "/en/plants/plantdetails/Vesiculariamontagnei'ChristmasMoss'(003AYWS)/4397"
     }
   ]

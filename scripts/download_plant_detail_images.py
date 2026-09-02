@@ -118,6 +118,45 @@ def build_tasks(items: list[dict]) -> list[ImageTask]:
     return tasks
 
 
+def populate_local_paths(items: list[dict]) -> None:
+    """Attach repository-relative paths for every downloaded detail image."""
+    for item in items:
+        item_stem = safe_stem(item["name"], item["product_code"])
+
+        illustration = item.get("illustration", "")
+        if illustration:
+            illustration_task = ImageTask(
+                url=illustration,
+                stem=f"Illustration_{item_stem}",
+            )
+            illustration_path = existing_image(illustration_task)
+            if illustration_path is None:
+                raise FileNotFoundError(
+                    f"missing downloaded illustration: {illustration_task.stem}"
+                )
+            item["local_illustration"] = (
+                f"./{illustration_path.relative_to(JSON_PATH.parent).as_posix()}"
+            )
+        else:
+            item["local_illustration"] = ""
+
+        local_images: list[str] = []
+        for index, url in enumerate(item.get("images", []), start=1):
+            image_task = ImageTask(
+                url=url,
+                stem=f"Detail_{item_stem}_{index}",
+            )
+            image_path = existing_image(image_task)
+            if image_path is None:
+                raise FileNotFoundError(
+                    f"missing downloaded detail image: {image_task.stem}"
+                )
+            local_images.append(
+                f"./{image_path.relative_to(JSON_PATH.parent).as_posix()}"
+            )
+        item["local_images"] = local_images
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--workers", type=int, default=5)
@@ -145,7 +184,14 @@ def main() -> None:
 
     if failures:
         raise RuntimeError("download failures:\n" + "\n".join(failures))
+
+    populate_local_paths(payload["detail_list"])
+    JSON_PATH.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
     print(f"downloaded or reused {len(results)} images in {IMAGE_DIR}")
+    print(f"updated local image paths in {JSON_PATH}")
 
 
 if __name__ == "__main__":
