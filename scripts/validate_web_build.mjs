@@ -5,6 +5,7 @@ const root = process.cwd();
 const dist = path.join(root, 'dist');
 const required = [
   'index.html',
+  'google2a938afbb215b6a9.html',
   'robots.txt',
   'sitemap-index.xml',
   'sitemap-0.xml',
@@ -40,7 +41,7 @@ async function collect(directory, extension) {
   return results;
 }
 
-const pages = await collect(dist, '.html');
+const pages = (await collect(dist, '.html')).filter((file) => !/^google[a-z0-9]+\.html$/.test(path.basename(file)));
 if (pages.length !== 411) throw new Error(`Expected 411 HTML pages, found ${pages.length}.`);
 
 const referencedImages = new Set();
