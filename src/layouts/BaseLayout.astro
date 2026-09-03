@@ -33,6 +33,15 @@ const isActive = (href: string) => href === sitePath('') ? pathname === href : p
     <meta name="color-scheme" content="light" />
     <link rel="icon" type="image/svg+xml" href={sitePath('favicon.svg')} />
     <title>{fullTitle}</title>
+    <script is:inline>
+      window._hmt = window._hmt || [];
+      (function () {
+        var hm = document.createElement('script');
+        hm.src = 'https://hm.baidu.com/hm.js?2c814ae3eba059b5b02508992f15b9d4';
+        hm.async = true;
+        document.head.appendChild(hm);
+      })();
+    </script>
   </head>
   <body>
     <a class="skip-link" href="#main-content">跳到主要内容</a>
