@@ -1,0 +1,19 @@
+---
+interface Props {
+  itemKey: string;
+  compact?: boolean;
+}
+
+const { itemKey, compact = false } = Astro.props;
+---
+
+<button
+  class:list={['favorite-button', { compact }]}
+  type="button"
+  data-favorite={itemKey}
+  aria-pressed="false"
+  aria-label="加入收藏"
+>
+  <span aria-hidden="true">♡</span>
+  {!compact && <em>收藏</em>}
+</button>

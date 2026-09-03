@@ -1,0 +1,56 @@
+---
+import FavoriteButton from './FavoriteButton.astro';
+import {
+  chineseName,
+  imagePath,
+  plantDetailByCode,
+  plantSearchText,
+  plantSlug,
+  requirementLabel,
+  sitePath,
+  type PlantListItem
+} from '@/lib/catalog';
+
+interface Props {
+  plant: PlantListItem;
+  favoriteContext?: boolean;
+}
+
+const { plant, favoriteContext = false } = Astro.props;
+const detail = plantDetailByCode.get(plant.product_code);
+const key = `plant:${plantSlug(plant.product_code)}`;
+const coverImage = detail?.local_illustration || detail?.local_images[0] || plant.local_cover;
+---
+
+<article
+  class="catalog-card plant-card"
+  data-catalog-card
+  data-favorite-item={favoriteContext ? key : undefined}
+  data-search={plantSearchText(plant, detail)}
+  data-type={plant.type_cn || '未知'}
+  data-light={detail?.properties.light_requirement || ''}
+  data-co2={detail?.properties.co2_requirement || ''}
+  data-growth={detail?.properties.growth_rate || ''}
+>
+  <a class="card-link" href={sitePath(`plants/${plantSlug(plant.product_code)}/`)}>
+    <div class="card-image-wrap">
+      <img class="card-image" src={imagePath(coverImage)} alt={chineseName(plant)} loading="lazy" decoding="async" />
+      <span class="card-code">{plant.product_code}</span>
+    </div>
+    <div class="card-content">
+      <div class="card-heading">
+        <div>
+          <h3>{chineseName(plant)}</h3>
+          <p class="latin-name">{plant.name}</p>
+        </div>
+      </div>
+      <div class="chip-row">
+        <span class="chip">{plant.type_cn || '类型待补'}</span>
+        {detail?.properties.light_requirement && <span class="chip muted">光照 {requirementLabel[detail.properties.light_requirement]}</span>}
+        {detail?.properties.co2_requirement && <span class="chip muted">CO₂ {requirementLabel[detail.properties.co2_requirement]}</span>}
+      </div>
+      {plant.descriptions_cn?.[0] && <p class="card-summary">{plant.descriptions_cn[0]}</p>}
+    </div>
+  </a>
+  <FavoriteButton itemKey={key} compact />
+</article>

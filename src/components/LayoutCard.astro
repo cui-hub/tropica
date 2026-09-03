@@ -1,0 +1,34 @@
+---
+import FavoriteButton from './FavoriteButton.astro';
+import { imagePath, layoutSlug, sitePath, type LayoutDetailItem } from '@/lib/catalog';
+
+interface Props {
+  layout: LayoutDetailItem;
+  favoriteContext?: boolean;
+}
+
+const { layout, favoriteContext = false } = Astro.props;
+const key = `layout:${layoutSlug(layout.layout_code)}`;
+---
+
+<article
+  class="catalog-card layout-card"
+  data-catalog-card
+  data-favorite-item={favoriteContext ? key : undefined}
+  data-search={`${layout.name_cn} ${layout.name} ${layout.layout_code} ${layout.designers.join(' ')}`.toLowerCase()}
+  data-difficulty={layout.difficulty}
+>
+  <a class="card-link" href={sitePath(`layouts/${layoutSlug(layout.layout_code)}/`)}>
+    <div class="card-image-wrap layout-image-wrap">
+      <img class="card-image" src={imagePath(layout.local_images[0])} alt={layout.name_cn} loading="lazy" />
+      <span class:list={['difficulty-badge', layout.difficulty.toLowerCase()]}>{layout.difficulty_cn}</span>
+    </div>
+    <div class="card-content">
+      <div class="card-kicker">{layout.layout_code} · {layout.technique_cn.volume || '容积待补'}</div>
+      <h3>{layout.name_cn}</h3>
+      <p class="latin-name">{layout.name}</p>
+      <p class="card-summary">{layout.plants.length} 种植物 · {layout.designers.join(' / ') || '设计者未署名'}</p>
+    </div>
+  </a>
+  <FavoriteButton itemKey={key} compact />
+</article>

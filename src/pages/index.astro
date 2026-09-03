@@ -1,0 +1,66 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import LayoutCard from '@/components/LayoutCard.astro';
+import PlantCard from '@/components/PlantCard.astro';
+import { featuredLayouts, featuredPlants, imagePath, layoutDetails, plantDetails, sitePath } from '@/lib/catalog';
+
+const heroLayout = featuredLayouts[0];
+---
+
+<BaseLayout>
+  <section class="hero">
+    <div class="shell hero-grid">
+      <div class="hero-copy">
+        <p class="eyebrow">Aquatic plant wiki</p>
+        <h1>
+          <span class="hero-title-line">玩草缸，</span>
+          <span class="hero-title-line hero-title-accent">从认识水草开始</span>
+        </h1>
+        <p class="hero-lead">查品种、看习性，了解光照、CO₂ 和生长条件；再从真实造景中寻找搭配灵感。无论准备开缸，还是已经养了一缸草，都能快速找到需要的资料。</p>
+        <form class="hero-search" action={sitePath('plants/')} method="get" role="search">
+          <input name="q" type="search" placeholder="搜索中文名、学名或编号" aria-label="搜索水草" />
+          <button type="submit">查水草</button>
+        </form>
+      </div>
+      <div class="hero-visual">
+        <img src={imagePath(heroLayout.local_images[0])} alt={`${heroLayout.name_cn}造景`} fetchpriority="high" />
+        <div class="hero-stat" aria-label="资料数量">
+          <div class="stat-block"><strong>{plantDetails.length}</strong><span>种水草资料</span></div>
+          <div class="stat-block"><strong>{layoutDetails.length}</strong><span>个造景案例</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Low-demand plants</p>
+          <h2>从低需求水草开始</h2>
+          <p>优先认识光照和 CO₂ 要求较低的常见水草，再逐步建立自己的植物组合。</p>
+        </div>
+        <a class="text-link" href={sitePath('plants/')}>浏览全部水草 →</a>
+      </div>
+      <div class="catalog-grid">
+        {featuredPlants.map((plant) => <PlantCard plant={plant} />)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-tinted">
+    <div class="shell">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Aquascape reference</p>
+          <h2>从造景理解搭配</h2>
+          <p>查看不同缸体、灯光、底床与维护条件下的植物组合。</p>
+        </div>
+        <a class="text-link" href={sitePath('layouts/')}>探索全部造景 →</a>
+      </div>
+      <div class="catalog-grid">
+        {featuredLayouts.map((layout) => <LayoutCard layout={layout} />)}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

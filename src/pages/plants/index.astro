@@ -1,0 +1,119 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PlantCard from '@/components/PlantCard.astro';
+import { plantList } from '@/lib/catalog';
+
+const types = [...new Set(plantList.map((plant) => plant.type_cn).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'zh-CN'));
+---
+
+<BaseLayout title="水草百科" description="按名称、类型、光照、CO₂ 和生长速度查找水草。">
+  <header class="page-hero">
+    <div class="shell page-hero-grid">
+      <div>
+        <p class="eyebrow">Plant encyclopedia</p>
+        <h1>水草百科</h1>
+        <p>从中文俗名、拉丁学名和养护需求出发，找到适合当前设备与经验的水草。</p>
+      </div>
+      <span class="result-count" id="result-count" aria-live="polite">共 {plantList.length} 种</span>
+    </div>
+  </header>
+
+  <div class="filter-panel">
+    <div class="shell filter-grid" id="plant-filters">
+      <label class="field search-field">
+        <span class="sr-only">搜索水草</span>
+        <input id="plant-search" type="search" placeholder="搜索名称、学名或编号" autocomplete="off" />
+      </label>
+      <label class="field">
+        <span class="sr-only">水草类型</span>
+        <select id="plant-type">
+          <option value="">全部类型</option>
+          {types.map((type) => <option value={type}>{type}</option>)}
+        </select>
+      </label>
+      <label class="field">
+        <span class="sr-only">光照需求</span>
+        <select id="plant-light">
+          <option value="">全部光照</option>
+          <option value="Low">低光</option>
+          <option value="Medium">中光</option>
+          <option value="High">高光</option>
+        </select>
+      </label>
+      <label class="field">
+        <span class="sr-only">二氧化碳需求</span>
+        <select id="plant-co2">
+          <option value="">全部 CO₂</option>
+          <option value="Low">低需求</option>
+          <option value="Medium">中需求</option>
+          <option value="High">高需求</option>
+        </select>
+      </label>
+      <label class="field">
+        <span class="sr-only">生长速度</span>
+        <select id="plant-growth">
+          <option value="">全部生长速度</option>
+          <option value="Slow">慢</option>
+          <option value="Medium">中等</option>
+          <option value="High">快</option>
+        </select>
+      </label>
+    </div>
+  </div>
+
+  <section class="section compact">
+    <div class="shell">
+      <div class="catalog-grid" id="plant-grid">
+        {plantList.map((plant) => <PlantCard plant={plant} />)}
+      </div>
+      <div class="empty-state" id="plant-empty">
+        <h2>没有找到匹配的水草</h2>
+        <p>试试减少筛选条件，或改用产品编号搜索。</p>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    const cards = [...document.querySelectorAll<HTMLElement>('#plant-grid [data-catalog-card]')];
+    const search = document.querySelector<HTMLInputElement>('#plant-search')!;
+    const type = document.querySelector<HTMLSelectElement>('#plant-type')!;
+    const light = document.querySelector<HTMLSelectElement>('#plant-light')!;
+    const co2 = document.querySelector<HTMLSelectElement>('#plant-co2')!;
+    const growth = document.querySelector<HTMLSelectElement>('#plant-growth')!;
+    const count = document.querySelector<HTMLElement>('#result-count')!;
+    const empty = document.querySelector<HTMLElement>('#plant-empty')!;
+
+    const params = new URLSearchParams(location.search);
+    search.value = params.get('q') || '';
+    type.value = params.get('type') || '';
+    light.value = params.get('light') || '';
+    co2.value = params.get('co2') || '';
+    growth.value = params.get('growth') || '';
+
+    function filterPlants() {
+      const query = search.value.trim().toLowerCase();
+      let visible = 0;
+      for (const card of cards) {
+        const matches = (!query || card.dataset.search?.includes(query))
+          && (!type.value || card.dataset.type === type.value)
+          && (!light.value || card.dataset.light === light.value)
+          && (!co2.value || card.dataset.co2 === co2.value)
+          && (!growth.value || card.dataset.growth === growth.value);
+        card.hidden = !matches;
+        if (matches) visible += 1;
+      }
+      count.textContent = `共 ${visible} 种`;
+      empty.classList.toggle('visible', visible === 0);
+      const next = new URLSearchParams();
+      if (search.value.trim()) next.set('q', search.value.trim());
+      if (type.value) next.set('type', type.value);
+      if (light.value) next.set('light', light.value);
+      if (co2.value) next.set('co2', co2.value);
+      if (growth.value) next.set('growth', growth.value);
+      history.replaceState(null, '', `${location.pathname}${next.size ? `?${next}` : ''}`);
+    }
+
+    document.querySelector('#plant-filters')?.addEventListener('input', filterPlants);
+    filterPlants();
+  </script>
+</BaseLayout>

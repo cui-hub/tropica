@@ -1,0 +1,112 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import FavoriteButton from '@/components/FavoriteButton.astro';
+import LayoutCard from '@/components/LayoutCard.astro';
+import {
+  chineseName,
+  growthLabel,
+  imagePath,
+  layoutsByPlantCode,
+  plantDetails,
+  plantListByCode,
+  plantSlug,
+  requirementLabel,
+  sitePath,
+  type PlantDetailItem,
+  type PlantListItem
+} from '@/lib/catalog';
+
+interface Props {
+  detail: PlantDetailItem;
+  listItem: PlantListItem;
+}
+
+export const getStaticPaths = (() => plantDetails.map((detail) => ({
+  params: { id: plantSlug(detail.product_code) },
+  props: { detail, listItem: plantListByCode.get(detail.product_code)! }
+}))) satisfies GetStaticPaths;
+
+const { detail, listItem } = Astro.props;
+const relatedLayouts = layoutsByPlantCode.get(detail.product_code) || [];
+const sourceUrl = `https://tropica.com${listItem.detail_path}`;
+const props = detail.properties;
+const facts = [
+  ['类型', props.type_cn || '待补充'],
+  ['产地', props.origin_cn || '待补充'],
+  ['生长速度', growthLabel[props.growth_rate] || '待补充'],
+  ['高度', props.height ? `${props.height} cm` : '待补充'],
+  ['光照', requirementLabel[props.light_requirement] || '待补充'],
+  ['CO₂', requirementLabel[props.co2_requirement] || '待补充']
+];
+---
+
+<BaseLayout title={`${chineseName(detail)}｜水草百科`} description={detail.introduction_cn || listItem.descriptions_cn.join('；')}>
+  <section class="detail-hero">
+    <div class="shell">
+      <nav class="breadcrumbs" aria-label="面包屑">
+        <a href={sitePath('')}>首页</a><span>/</span><a href={sitePath('plants/')}>水草百科</a><span>/</span><span>{chineseName(detail)}</span>
+      </nav>
+      <div class="detail-hero-grid">
+        <div class="detail-cover">
+          <img src={imagePath(detail.local_illustration || listItem.local_cover)} alt={chineseName(detail)} fetchpriority="high" />
+        </div>
+        <div class="detail-intro">
+          <p class="eyebrow">Plant {detail.product_code}</p>
+          <h1>{chineseName(detail)}</h1>
+          <p class="latin-name">{detail.name}</p>
+          {detail.name_cns.length > 1 && <p class="card-summary">又名：{detail.name_cns.slice(1).join('、')}</p>}
+          <dl class="property-grid">
+            {facts.map(([label, value]) => <div class="property"><dt>{label}</dt><dd>{value}</dd></div>)}
+          </dl>
+          <div class="detail-actions">
+            <FavoriteButton itemKey={`plant:${plantSlug(detail.product_code)}`} />
+            {relatedLayouts.length > 0 && <a class="text-link" href="#related-layouts">查看 {relatedLayouts.length} 个相关造景 ↓</a>}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section compact">
+    <div class="shell content-grid">
+      <article class="prose">
+        <h2>植物介绍</h2>
+        <p>{detail.introduction_cn || '这株水草的中文介绍仍在整理中。'}</p>
+        {listItem.descriptions_cn?.length > 0 && (
+          <div class="chip-row">{listItem.descriptions_cn.map((description) => <span class="chip">{description}</span>)}</div>
+        )}
+        <div class="source-box">
+          本条资料整理自 Tropica Aquarium Plants。<a href={sourceUrl} target="_blank" rel="noreferrer">查看原始页面 ↗</a>
+        </div>
+      </article>
+      <aside class="side-panel">
+        <h2>快速判断</h2>
+        <dl>
+          <div><dt>低光环境</dt><dd>{props.light_requirement === 'Low' ? '适合' : props.light_requirement ? '需结合灯具配置' : '资料不足'}</dd></div>
+          <div><dt>低 CO₂</dt><dd>{props.co2_requirement === 'Low' ? '适合' : props.co2_requirement ? '建议补充 CO₂' : '资料不足'}</dd></div>
+          <div><dt>生长节奏</dt><dd>{growthLabel[props.growth_rate] || '资料不足'}</dd></div>
+          <div><dt>造景收录</dt><dd>{relatedLayouts.length ? `${relatedLayouts.length} 个案例` : '暂无关联案例'}</dd></div>
+        </dl>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell">
+      <div class="section-heading"><div><p class="eyebrow">Plant gallery</p><h2>形态参考</h2></div></div>
+      <div class="gallery-grid">
+        {detail.local_images.map((image, index) => <figure><img src={imagePath(image)} alt={`${chineseName(detail)}细节图 ${index + 1}`} loading="lazy" /></figure>)}
+      </div>
+    </div>
+  </section>
+
+  {relatedLayouts.length > 0 && (
+    <section class="section section-tinted" id="related-layouts">
+      <div class="shell">
+        <div class="section-heading"><div><p class="eyebrow">Related aquascapes</p><h2>使用它的造景</h2></div></div>
+        <div class="catalog-grid">{relatedLayouts.slice(0, 6).map((layout) => <LayoutCard layout={layout} />)}</div>
+      </div>
+    </section>
+  )}
+</BaseLayout>

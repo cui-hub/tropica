@@ -1,0 +1,78 @@
+---
+import '../styles/global.css';
+import LogoMark from '@/components/LogoMark.astro';
+import { sitePath } from '@/lib/catalog';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = 'Aqualore｜水草百科与造景灵感',
+  description = '查询水草习性、养护条件和真实造景案例。'
+} = Astro.props;
+const pathname = Astro.url.pathname;
+const fullTitle = title.includes('Aqualore') ? title : `${title}｜Aqualore`;
+const nav = [
+  { label: '首页', href: sitePath('') },
+  { label: '水草百科', href: sitePath('plants/') },
+  { label: '造景灵感', href: sitePath('layouts/') },
+  { label: '收藏', href: sitePath('favorites/') }
+];
+const isActive = (href: string) => href === sitePath('') ? pathname === href : pathname.startsWith(href);
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#f7f8f5" />
+    <meta name="color-scheme" content="light" />
+    <link rel="icon" type="image/svg+xml" href={sitePath('favicon.svg')} />
+    <title>{fullTitle}</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">跳到主要内容</a>
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="brand" href={sitePath('')} aria-label="Aqualore 首页">
+          <LogoMark />
+          <strong>Aqualore</strong>
+        </a>
+        <nav class="desktop-nav" aria-label="主导航">
+          {nav.map((item) => (
+            <a class:list={{ active: isActive(item.href) }} href={item.href}>{item.label}</a>
+          ))}
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-inner">
+        <div>
+          <a class="footer-brand" href={sitePath('')}><LogoMark /><strong>Aqualore</strong></a>
+          <p>为水草爱好者整理的植物与造景索引。</p>
+        </div>
+        <p class="source-note">
+          数据、原始文本与图片来源：<a href="https://tropica.com/" target="_blank" rel="noreferrer">Tropica Aquarium Plants</a>。本站为资料整理与学习用途。
+        </p>
+      </div>
+    </footer>
+
+    <nav class="mobile-nav" aria-label="移动端导航">
+      {nav.map((item) => (
+        <a class:list={{ active: isActive(item.href) }} href={item.href}>{item.label}</a>
+      ))}
+    </nav>
+    <script>
+      import '../scripts/favorites';
+    </script>
+  </body>
+</html>

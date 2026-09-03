@@ -1,0 +1,79 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import LayoutCard from '@/components/LayoutCard.astro';
+import { layoutDetails } from '@/lib/catalog';
+---
+
+<BaseLayout title="造景灵感" description="浏览不同难度、缸体和植物组合的水草造景案例。">
+  <header class="page-hero">
+    <div class="shell page-hero-grid">
+      <div>
+        <p class="eyebrow">Aquascape inspiration</p>
+        <h1>造景灵感</h1>
+        <p>从成熟案例反推植物、硬景、灯光和维护投入，让灵感变成可以执行的方案。</p>
+      </div>
+      <span class="result-count" id="result-count" aria-live="polite">共 {layoutDetails.length} 个案例</span>
+    </div>
+  </header>
+
+  <div class="filter-panel">
+    <div class="shell filter-grid layout-filter-grid" id="layout-filters">
+      <label class="field search-field">
+        <span class="sr-only">搜索造景</span>
+        <input id="layout-search" type="search" placeholder="搜索名称、作者或编号" autocomplete="off" />
+      </label>
+      <label class="field">
+        <span class="sr-only">造景难度</span>
+        <select id="layout-difficulty">
+          <option value="">全部难度</option>
+          <option value="Easy">简单</option>
+          <option value="Medium">中等</option>
+          <option value="Advanced">困难</option>
+        </select>
+      </label>
+    </div>
+  </div>
+
+  <section class="section compact">
+    <div class="shell">
+      <div class="catalog-grid" id="layout-grid">
+        {layoutDetails.map((layout) => <LayoutCard layout={layout} />)}
+      </div>
+      <div class="empty-state" id="layout-empty">
+        <h2>没有找到匹配的造景</h2>
+        <p>换一个名称，或清除难度筛选后再试。</p>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    const cards = [...document.querySelectorAll<HTMLElement>('#layout-grid [data-catalog-card]')];
+    const search = document.querySelector<HTMLInputElement>('#layout-search')!;
+    const difficulty = document.querySelector<HTMLSelectElement>('#layout-difficulty')!;
+    const count = document.querySelector<HTMLElement>('#result-count')!;
+    const empty = document.querySelector<HTMLElement>('#layout-empty')!;
+    const params = new URLSearchParams(location.search);
+    search.value = params.get('q') || '';
+    difficulty.value = params.get('difficulty') || '';
+
+    function filterLayouts() {
+      const query = search.value.trim().toLowerCase();
+      let visible = 0;
+      for (const card of cards) {
+        const matches = (!query || card.dataset.search?.includes(query))
+          && (!difficulty.value || card.dataset.difficulty === difficulty.value);
+        card.hidden = !matches;
+        if (matches) visible += 1;
+      }
+      count.textContent = `共 ${visible} 个案例`;
+      empty.classList.toggle('visible', visible === 0);
+      const next = new URLSearchParams();
+      if (search.value.trim()) next.set('q', search.value.trim());
+      if (difficulty.value) next.set('difficulty', difficulty.value);
+      history.replaceState(null, '', `${location.pathname}${next.size ? `?${next}` : ''}`);
+    }
+
+    document.querySelector('#layout-filters')?.addEventListener('input', filterLayouts);
+    filterLayouts();
+  </script>
+</BaseLayout>
