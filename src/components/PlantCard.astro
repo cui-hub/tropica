@@ -33,8 +33,20 @@ const coverImage = detail?.local_illustration || detail?.local_images[0] || plan
   data-growth={detail?.properties.growth_rate || ''}
 >
   <a class="card-link" href={sitePath(`plants/${plantSlug(plant.product_code)}/`)}>
-    <div class="card-image-wrap">
-      <img class="card-image" src={imagePath(coverImage)} alt={chineseName(plant)} loading="lazy" decoding="async" />
+    <div class="card-image-wrap" data-image-frame>
+      <span class="image-fallback" aria-hidden="true">
+        <span class="image-fallback-mark">A</span>
+        <span class="image-fallback-retrying">正在重新加载图片</span>
+        <span class="image-fallback-failed">图片暂时未加载</span>
+      </span>
+      <img
+        class="card-image"
+        src={imagePath(coverImage)}
+        alt={chineseName(plant)}
+        loading="lazy"
+        decoding="async"
+        data-resilient-image
+      />
       <span class="card-code">{plant.product_code}</span>
     </div>
     <div class="card-content">

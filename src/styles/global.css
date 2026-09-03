@@ -85,9 +85,21 @@ p { line-height: 1.7; }
 .card-link { display: block; height: 100%; }
 .card-image-wrap { position: relative; aspect-ratio: 4 / 3; overflow: hidden; background: var(--surface-2); }
 .layout-image-wrap { aspect-ratio: 16 / 10; }
-.card-image { width: 100%; height: 100%; object-fit: cover; transition: transform .45s ease; }
+.card-image { position: relative; z-index: 1; width: 100%; height: 100%; object-fit: cover; transition: transform .45s ease, opacity .18s ease; }
 .plant-card .card-image-wrap { background: #fff; }
 .plant-card .card-image { object-fit: contain; }
+.image-fallback { position: absolute; z-index: 0; inset: 0; display: grid; place-content: center; justify-items: center; gap: .5rem; padding: 1rem; color: var(--faint); background: var(--surface); text-align: center; opacity: 0; transition: opacity .18s ease; }
+.image-fallback-mark { width: 2.5rem; height: 2.5rem; display: grid; place-items: center; border: 1px solid #cfe0d6; border-radius: 50%; color: var(--accent); background: var(--accent-soft); font-family: Georgia, serif; font-size: 1rem; font-style: italic; font-weight: 700; }
+.image-fallback-retrying, .image-fallback-failed { font-size: .76rem; font-weight: 650; letter-spacing: .01em; }
+.image-fallback-failed { display: none; }
+.card-image-wrap.is-image-retrying .card-image,
+.card-image-wrap.is-image-unavailable .card-image { opacity: 0; }
+.card-image-wrap.is-image-retrying .image-fallback,
+.card-image-wrap.is-image-unavailable .image-fallback { opacity: 1; }
+.card-image-wrap.is-image-retrying .image-fallback-mark { animation: image-retry-pulse 1.1s ease-in-out infinite alternate; }
+.card-image-wrap.is-image-unavailable .image-fallback-retrying { display: none; }
+.card-image-wrap.is-image-unavailable .image-fallback-failed { display: block; }
+@keyframes image-retry-pulse { from { transform: scale(.92); opacity: .58; } to { transform: scale(1); opacity: 1; } }
 .catalog-card:hover .card-image { transform: scale(1.025); }
 .card-code, .difficulty-badge { position: absolute; z-index: 1; left: .75rem; bottom: .75rem; padding: .38rem .62rem; border: 1px solid rgba(255, 255, 255, .75); border-radius: 999px; color: var(--ink); background: rgba(255, 255, 255, .92); font-size: .72rem; font-weight: 750; letter-spacing: .04em; }
 .difficulty-badge.easy { color: var(--accent); }

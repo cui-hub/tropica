@@ -19,8 +19,20 @@ const key = `layout:${layoutSlug(layout.layout_code)}`;
   data-difficulty={layout.difficulty}
 >
   <a class="card-link" href={sitePath(`layouts/${layoutSlug(layout.layout_code)}/`)}>
-    <div class="card-image-wrap layout-image-wrap">
-      <img class="card-image" src={imagePath(layout.local_images[0])} alt={layout.name_cn} loading="lazy" />
+    <div class="card-image-wrap layout-image-wrap" data-image-frame>
+      <span class="image-fallback" aria-hidden="true">
+        <span class="image-fallback-mark">A</span>
+        <span class="image-fallback-retrying">正在重新加载图片</span>
+        <span class="image-fallback-failed">图片暂时未加载</span>
+      </span>
+      <img
+        class="card-image"
+        src={imagePath(layout.local_images[0])}
+        alt={layout.name_cn}
+        loading="lazy"
+        decoding="async"
+        data-resilient-image
+      />
       <span class:list={['difficulty-badge', layout.difficulty.toLowerCase()]}>{layout.difficulty_cn}</span>
     </div>
     <div class="card-content">
