@@ -5,6 +5,9 @@ const root = process.cwd();
 const dist = path.join(root, 'dist');
 const required = [
   'index.html',
+  'robots.txt',
+  'sitemap-index.xml',
+  'sitemap-0.xml',
   'plants/index.html',
   'layouts/index.html',
   'favorites/index.html',
@@ -44,6 +47,9 @@ const referencedImages = new Set();
 for (const page of pages) {
   const html = await readFile(page, 'utf8');
   if (html.includes('./assets/images/')) throw new Error(`Unprocessed image path found in ${path.relative(dist, page)}.`);
+  if (!html.includes('rel="canonical"')) throw new Error(`Canonical link missing in ${path.relative(dist, page)}.`);
+  if (!html.includes('property="og:title"')) throw new Error(`Open Graph metadata missing in ${path.relative(dist, page)}.`);
+  if (!html.includes('application/ld+json')) throw new Error(`JSON-LD missing in ${path.relative(dist, page)}.`);
   for (const match of html.matchAll(/generated\/images\/v1\/([a-f0-9]+\.webp)/g)) referencedImages.add(match[1]);
 }
 for (const image of referencedImages) await access(path.join(dist, 'generated', 'images', 'v1', image));

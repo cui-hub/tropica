@@ -1,19 +1,66 @@
 ---
 import '../styles/global.css';
 import LogoMark from '@/components/LogoMark.astro';
-import { sitePath } from '@/lib/catalog';
+import { featuredLayouts, imagePath, sitePath } from '@/lib/catalog';
+
+type JsonLdNode = Record<string, unknown>;
 
 interface Props {
   title?: string;
   description?: string;
+  image?: string;
+  imageAlt?: string;
+  pageType?: 'WebPage' | 'CollectionPage';
+  noindex?: boolean;
+  structuredData?: JsonLdNode | JsonLdNode[];
 }
 
 const {
   title = 'Aqualore｜水草百科与造景灵感',
-  description = '查询水草习性、养护条件和真实造景案例。'
+  description = '查询水草习性、养护条件和真实造景案例。',
+  image,
+  imageAlt = 'Aqualore 水草百科与水草缸造景灵感',
+  pageType = 'WebPage',
+  noindex = false,
+  structuredData = []
 } = Astro.props;
 const pathname = Astro.url.pathname;
 const fullTitle = title.includes('Aqualore') ? title : `${title}｜Aqualore`;
+const canonicalUrl = new URL(pathname, Astro.site);
+const homeUrl = new URL(sitePath(''), Astro.site);
+const sitemapUrl = new URL(sitePath('sitemap-index.xml'), Astro.site);
+const defaultImage = featuredLayouts[0]?.local_images[0] ? imagePath(featuredLayouts[0].local_images[0]) : sitePath('favicon.svg');
+const socialImageUrl = new URL(image || defaultImage, Astro.site);
+const extraStructuredData = Array.isArray(structuredData) ? structuredData : [structuredData];
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${homeUrl.href}#website`,
+      url: homeUrl.href,
+      name: 'Aqualore',
+      alternateName: 'Aqualore 水草百科',
+      description: '面向水草缸爱好者的水草百科、养护资料与造景案例索引。',
+      inLanguage: 'zh-CN'
+    },
+    {
+      '@type': pageType,
+      '@id': `${canonicalUrl.href}#webpage`,
+      url: canonicalUrl.href,
+      name: fullTitle,
+      description,
+      inLanguage: 'zh-CN',
+      isPartOf: { '@id': `${homeUrl.href}#website` },
+      primaryImageOfPage: {
+        '@type': 'ImageObject',
+        url: socialImageUrl.href
+      }
+    },
+    ...extraStructuredData
+  ]
+};
+const serializedJsonLd = JSON.stringify(jsonLd).replace(/</g, '\\u003c');
 const nav = [
   { label: '首页', href: sitePath('') },
   { label: '水草百科', href: sitePath('plants/') },
@@ -29,10 +76,26 @@ const isActive = (href: string) => href === sitePath('') ? pathname === href : p
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
+    <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'} />
     <meta name="theme-color" content="#f7f8f5" />
     <meta name="color-scheme" content="light" />
+    <link rel="canonical" href={canonicalUrl} />
+    <link rel="sitemap" href={sitemapUrl} />
     <link rel="icon" type="image/svg+xml" href={sitePath('favicon.svg')} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Aqualore" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={socialImageUrl} />
+    <meta property="og:image:alt" content={imageAlt} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={socialImageUrl} />
     <title>{fullTitle}</title>
+    <script is:inline type="application/ld+json" set:html={serializedJsonLd} />
     <script is:inline>
       window._hmt = window._hmt || [];
       (function () {

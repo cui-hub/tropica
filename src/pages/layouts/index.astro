@@ -1,10 +1,16 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import LayoutCard from '@/components/LayoutCard.astro';
-import { layoutDetails } from '@/lib/catalog';
+import { featuredLayouts, imagePath, layoutDetails } from '@/lib/catalog';
 ---
 
-<BaseLayout title="造景灵感" description="浏览不同难度、缸体和植物组合的水草造景案例。">
+<BaseLayout
+  title={`${layoutDetails.length} 个水草缸造景案例与搭配灵感`}
+  description={`浏览 ${layoutDetails.length} 个水草缸造景案例，按难度查看植物清单、缸体设备、种植位置、维护投入和造景细节。`}
+  image={imagePath(featuredLayouts[0].local_images[0])}
+  imageAlt={`${featuredLayouts[0].name_cn}水草缸造景案例`}
+  pageType="CollectionPage"
+>
   <header class="page-hero">
     <div class="shell page-hero-grid">
       <div>

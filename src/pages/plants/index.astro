@@ -1,12 +1,18 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PlantCard from '@/components/PlantCard.astro';
-import { plantList } from '@/lib/catalog';
+import { featuredPlants, imagePath, plantList } from '@/lib/catalog';
 
 const types = [...new Set(plantList.map((plant) => plant.type_cn).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'zh-CN'));
 ---
 
-<BaseLayout title="水草百科" description="按名称、类型、光照、CO₂ 和生长速度查找水草。">
+<BaseLayout
+  title={`${plantList.length} 种水草百科：品种、养护与种植条件`}
+  description={`查询 ${plantList.length} 种水草的中文名、拉丁学名、光照、CO₂、生长速度与种植条件，适合新手选草和水草缸玩家查阅。`}
+  image={imagePath(featuredPlants[0].local_cover)}
+  imageAlt={`${featuredPlants[0].name_cns[0]}水草`}
+  pageType="CollectionPage"
+>
   <header class="page-hero">
     <div class="shell page-hero-grid">
       <div>

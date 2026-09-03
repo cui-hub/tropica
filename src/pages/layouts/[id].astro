@@ -24,9 +24,45 @@ export const getStaticPaths = (() => layoutDetails.map((layout) => ({
 const { layout } = Astro.props;
 const sourceUrl = `https://tropica.com${layout.detail_path}`;
 const techniques = Object.entries(layout.technique_cn).filter(([, value]) => value);
+const rawDescription = layout.descriptions_cn[0] || `${layout.name_cn}水草造景案例`;
+const description = `${layout.name_cn}（${layout.layout_code}）水草缸造景案例，包含 ${layout.plants.length} 种植物的清单、种植位置、设备配置与维护方法。${rawDescription}`.slice(0, 160);
+const canonicalUrl = new URL(sitePath(`layouts/${layoutSlug(layout.layout_code)}/`), Astro.site).href;
+const homeUrl = new URL(sitePath(''), Astro.site).href;
+const layoutsUrl = new URL(sitePath('layouts/'), Astro.site).href;
+const coverImage = imagePath(layout.local_images[0]);
+const coverImageUrl = new URL(coverImage, Astro.site).href;
+const structuredData = [
+  {
+    '@type': 'CreativeWork',
+    '@id': `${canonicalUrl}#aquascape`,
+    name: layout.name_cn,
+    alternateName: layout.name,
+    identifier: layout.layout_code,
+    description: rawDescription,
+    url: canonicalUrl,
+    image: coverImageUrl,
+    inLanguage: 'zh-CN',
+    creator: layout.designers.map((name) => ({ '@type': 'Person', name })),
+    about: layout.plants.map((plant) => ({ '@type': 'Thing', name: plant.name, identifier: plant.product_code }))
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: '首页', item: homeUrl },
+      { '@type': 'ListItem', position: 2, name: '造景灵感', item: layoutsUrl },
+      { '@type': 'ListItem', position: 3, name: layout.name_cn, item: canonicalUrl }
+    ]
+  }
+];
 ---
 
-<BaseLayout title={`${layout.name_cn}｜造景灵感`} description={layout.descriptions_cn[0] || `${layout.name_cn}水草造景案例`}>
+<BaseLayout
+  title={`${layout.name_cn}｜${layout.layout_code} 水草缸造景案例`}
+  description={description}
+  image={coverImage}
+  imageAlt={`${layout.name_cn}水草缸造景`}
+  structuredData={structuredData}
+>
   <section class="detail-hero">
     <div class="shell">
       <nav class="breadcrumbs" aria-label="面包屑">

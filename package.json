@@ -17,6 +17,7 @@
     "verify": "npm run check && npm run build && node scripts/validate_web_build.mjs"
   },
   "dependencies": {
+    "@astrojs/sitemap": "3.7.4",
     "astro": "5.7.4",
     "sharp": "0.35.4"
   },
