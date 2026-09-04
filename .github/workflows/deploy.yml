@@ -17,6 +17,9 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      SITE_URL: https://www.aqualore.cn
+      BASE_PATH: /
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -33,6 +36,8 @@ jobs:
         run: npm ci --include=optional --os=linux --cpu=x64 --libc=glibc
       - name: Build
         run: npm run build
+      - name: Validate static site
+        run: node scripts/validate_web_build.mjs
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

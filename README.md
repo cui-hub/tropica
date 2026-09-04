@@ -31,6 +31,16 @@ npm run verify
 
 GitHub 仓库需要在 `Settings → Pages → Build and deployment` 中选择 **GitHub Actions**。推送到 `main` 后会自动构建并发布。
 
+正式站点为 `https://www.aqualore.cn/`，根域名 `aqualore.cn` 跳转到主站。GitHub Actions 构建固定使用 `SITE_URL=https://www.aqualore.cn` 和 `BASE_PATH=/`，并校验生成页面的 canonical、robots.txt 和 sitemap 地址。
+
+GitHub 仓库的 `Settings → Pages → Custom domain` 应设置为 `www.aqualore.cn`。当前使用自定义 Actions 部署，域名绑定由 Pages 设置管理，不依赖 `CNAME` 文件。DNS 记录为 `www CNAME cui-hub.github.io`，以及根域名 `@` 的四条 A 记录：`185.199.108.153`、`185.199.109.153`、`185.199.110.153`、`185.199.111.153`。证书就绪后启用 **Enforce HTTPS**。
+
+本地按正式域名校验：
+
+```bash
+SITE_URL=https://www.aqualore.cn BASE_PATH=/ npm run verify
+```
+
 如需自定义构建地址，可设置：
 
 - `SITE_URL`：站点域名，例如 `https://plants.example.com`
